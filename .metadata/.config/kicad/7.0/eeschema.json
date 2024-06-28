@@ -233,6 +233,7 @@
   },
   "system": {
     "file_history": [
+      "/home/polidorop/Repositories/kicad/tmc51x0-multiplexer-uart/tmc51x0-multiplexer-uart/tmc51x0-multiplexer-uart.kicad_sch",
       "/home/polidorop/Repositories/kicad/tmc5160-usb/tmc5160-usb/tmc5160-usb.kicad_sch",
       "/home/polidorop/Repositories/kicad/stepper-interface/stepper-interface/stepper-interface.kicad_sch"
     ],

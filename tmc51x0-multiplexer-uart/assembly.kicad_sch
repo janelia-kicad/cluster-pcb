@@ -6,7 +6,7 @@
 
   (title_block
     (title "tmc51x0-multiplexer-uart")
-    (date "2024-05-10")
+    (date "2024-06-28")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
   )

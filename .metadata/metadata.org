@@ -41,7 +41,7 @@ tmc51x0-multiplexer-uart
 
 #+NAME: synopsis
 #+BEGIN_SRC text :exports none :noweb yes
-A stepper controller and driver board combining a TMC5160 and RP2040.
+Connects a microcontroller to multiple tmc51x0 boards using power and differential UART interfaces.
 #+END_SRC
 
 #+NAME: references
