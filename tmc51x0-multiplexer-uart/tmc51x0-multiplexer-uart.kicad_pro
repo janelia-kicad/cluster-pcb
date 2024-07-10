@@ -831,8 +831,12 @@
       "power"
     ],
     [
-      "69dff8eb-dcc1-4f17-9e1d-cf8103035e92",
-      "rp2040"
+      "90ad6836-1738-4b32-a341-0a0b169f4662",
+      "microcontroller"
+    ],
+    [
+      "622b6afe-64ba-4b4f-894e-aa16e3fefe2c",
+      "motor"
     ]
   ],
   "text_variables": {}
