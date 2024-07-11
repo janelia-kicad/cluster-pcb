@@ -1184,7 +1184,7 @@
     (pin "2" (uuid 5f271428-c6b5-4a77-ae40-44c9da531b79))
     (pin "1" (uuid a828b684-d7de-4133-88f8-6d26d519f2b7))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/622b6afe-64ba-4b4f-894e-aa16e3fefe2c"
           (reference "D501") (unit 1)
         )
@@ -1249,7 +1249,7 @@
     (pin "1" (uuid ecdeda25-6ad4-4382-8cbc-d5c09e3f9bcc))
     (pin "2" (uuid fc9bde29-4ba6-4924-8f14-df7caa1f4dd6))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/622b6afe-64ba-4b4f-894e-aa16e3fefe2c"
           (reference "C501") (unit 1)
         )
@@ -1314,7 +1314,7 @@
     (pin "2" (uuid 8a9e5594-b860-4f59-aecb-085efca81129))
     (pin "1" (uuid 6a32801d-7e6f-4c56-8c3e-b7c52bc17f84))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/622b6afe-64ba-4b4f-894e-aa16e3fefe2c"
           (reference "C502") (unit 1)
         )
@@ -1379,7 +1379,7 @@
     (pin "2" (uuid d155370d-d075-4a5f-ba8f-5a6ac88e4075))
     (pin "1" (uuid 4f0cd1f1-1442-41f3-9b36-91fe6dc2867e))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/622b6afe-64ba-4b4f-894e-aa16e3fefe2c"
           (reference "R501") (unit 1)
         )
@@ -1444,7 +1444,7 @@
     (pin "1" (uuid 883e207e-a845-43fb-8db1-8370fa758ef5))
     (pin "2" (uuid d1096f02-febe-45ff-845e-60cbd3d1428f))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/622b6afe-64ba-4b4f-894e-aa16e3fefe2c"
           (reference "D502") (unit 1)
         )
@@ -1514,7 +1514,7 @@
     (pin "1" (uuid 7ecee5bb-9d58-48f8-9b2e-92d89e5d5b85))
     (pin "6" (uuid eb2bbca3-c7df-4c42-ad52-3da2596516ce))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/622b6afe-64ba-4b4f-894e-aa16e3fefe2c"
           (reference "U501") (unit 1)
         )
@@ -1587,7 +1587,7 @@
     (pin "1" (uuid 1c44ca9c-445f-4d04-9380-a40145986d8c))
     (pin "7" (uuid b7207f62-7e42-4883-81c5-61f88f752452))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/622b6afe-64ba-4b4f-894e-aa16e3fefe2c"
           (reference "J501") (unit 1)
         )
@@ -1652,7 +1652,7 @@
     (pin "2" (uuid c73448f3-42aa-4d5b-8a2b-8337c4fdc3ef))
     (pin "1" (uuid 9bbfef23-80d0-4f6e-8dc9-a0190d9f9507))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/622b6afe-64ba-4b4f-894e-aa16e3fefe2c"
           (reference "R502") (unit 1)
         )

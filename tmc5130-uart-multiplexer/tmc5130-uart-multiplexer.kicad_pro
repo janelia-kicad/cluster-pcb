@@ -403,7 +403,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "tmc51x0-multiplexer-uart.kicad_pro",
+    "filename": "tmc5130-uart-multiplexer.kicad_pro",
     "version": 1
   },
   "net_settings": {

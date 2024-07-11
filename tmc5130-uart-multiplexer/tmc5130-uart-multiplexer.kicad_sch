@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "tmc51x0-multiplexer-uart")
+    (title "tmc5130-uart-multiplexer")
     (date "2024-07-10")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
@@ -696,7 +696,7 @@
       (uuid 27cfdaec-c4e6-4a5e-aff6-ae19f93ba201)
     )
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "2"))
       )
     )
@@ -745,7 +745,7 @@
       (uuid ef4afd36-acb9-4364-84b0-6d9f2096896e)
     )
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "5"))
       )
     )
@@ -794,7 +794,7 @@
       (uuid 9e07fd77-b60c-4dbd-8e22-7490a8ef2c67)
     )
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "9"))
       )
     )
@@ -843,7 +843,7 @@
       (uuid 292754bf-1165-4db6-857d-87b1ae31d6a6)
     )
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "11"))
       )
     )
@@ -948,7 +948,7 @@
       (uuid 96840ec0-32f5-47f3-a1e0-3e3aafda9804)
     )
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "4"))
       )
     )
@@ -997,7 +997,7 @@
       (uuid f8373159-7eda-4c42-add2-2e76c9b57a19)
     )
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "7"))
       )
     )
@@ -1046,7 +1046,7 @@
       (uuid de6fbc6b-de8d-48f1-acd9-f73a87c68823)
     )
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "6"))
       )
     )
@@ -1095,7 +1095,7 @@
       (uuid b6a4a605-837d-40d1-bd16-2f784d85f6df)
     )
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "10"))
       )
     )
@@ -1128,7 +1128,7 @@
       (uuid 0ce5d659-79ce-4e80-85fb-d988fc2f9de7)
     )
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "3"))
       )
     )
@@ -1177,7 +1177,7 @@
       (uuid f946eb56-5e06-4cb1-a047-dfbe9e082780)
     )
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "8"))
       )
     )

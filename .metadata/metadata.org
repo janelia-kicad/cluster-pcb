@@ -11,12 +11,12 @@
 
 #+NAME: project-name
 #+BEGIN_SRC text :exports none :noweb yes
-tmc51x0-multiplexer-uart
+tmc5130-uart-multiplexer
 #+END_SRC
 
 #+NAME: repository-name
 #+BEGIN_SRC text :exports none :noweb yes
-tmc51x0-multiplexer-uart
+tmc5130-uart-multiplexer
 #+END_SRC
 
 #+NAME: documentation-version
@@ -41,12 +41,12 @@ tmc51x0-multiplexer-uart
 
 #+NAME: synopsis
 #+BEGIN_SRC text :exports none :noweb yes
-Connects a microcontroller to multiple tmc51x0 boards using power and differential UART interfaces.
+Connects a microcontroller and power to multiple tmc5130-uart boards.
 #+END_SRC
 
 #+NAME: references
 #+BEGIN_SRC text :exports none :noweb yes
-[[https://www.analog.com/en/products/tmc5160.html][TMC5160]]
+[[https://www.analog.com/en/products/tmc5130.html][TMC5130]]
 [[https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html][RP2040]]
 #+END_SRC
 

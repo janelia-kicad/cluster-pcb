@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "tmc51x0-multiplexer-uart")
+    (title "tmc5130-uart-multiplexer")
     (date "2024-07-10")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
@@ -877,7 +877,7 @@
     (pin "2" (uuid 04920da1-8839-4e84-84dd-d236fac05152))
     (pin "1" (uuid 8bb3b92e-436f-4660-bda4-623bba03e5da))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "T301") (unit 1)
         )
@@ -928,7 +928,7 @@
     (pin "3" (uuid aaf6a8f8-3748-4fa2-b497-a634c47f5822))
     (pin "1" (uuid 2384f877-fdf4-48d2-90f7-d768de1cb6b3))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "Q301") (unit 1)
         )
@@ -953,7 +953,7 @@
     )
     (pin "1" (uuid 226201d2-6b69-48ea-a672-6fbe161ff971))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "#FLG0303") (unit 1)
         )
@@ -1000,7 +1000,7 @@
     (pin "2" (uuid e4012dd9-cf58-4442-a854-035af7609e1d))
     (pin "1" (uuid 2266f3cb-5fe4-4581-83ce-82622a6268d0))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "R301") (unit 1)
         )
@@ -1025,7 +1025,7 @@
     )
     (pin "1" (uuid a296f693-0060-487e-9792-3fd258e85948))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "#FLG0302") (unit 1)
         )
@@ -1081,7 +1081,7 @@
     (pin "1" (uuid d9063b82-26be-4e13-8374-5dec82d217a4))
     (pin "2" (uuid cccb0556-27cf-4c73-ad4b-6be66cd50e4b))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "D301") (unit 1)
         )
@@ -1106,7 +1106,7 @@
     )
     (pin "1" (uuid 707cb9b5-aa34-4f5a-9c55-d515f527e126))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "#FLG0301") (unit 1)
         )
@@ -1153,7 +1153,7 @@
     (pin "1" (uuid 178e956b-ab39-4a41-ae70-750872931d22))
     (pin "2" (uuid 319a0f45-4256-47a5-a988-7c016a1ec27a))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "R302") (unit 1)
         )
@@ -1204,7 +1204,7 @@
     (pin "3" (uuid aab8fffe-c5d4-48e0-a4ca-c20ad3d1875e))
     (pin "2" (uuid 46d3c69b-e165-4195-9c11-b8fcaadd1aff))
     (instances
-      (project "tmc51x0-multiplexer-uart"
+      (project "tmc5130-uart-multiplexer"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "Q302") (unit 1)
         )
