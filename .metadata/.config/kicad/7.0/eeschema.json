@@ -20,7 +20,7 @@
     "edit_symbol_height": 594,
     "edit_symbol_visible_columns": "0 1 2 3 4 5 6 7",
     "edit_symbol_width": 1126,
-    "erc_severities": 10,
+    "erc_severities": 26,
     "footprint_preview": true,
     "print_sheet_reference": true,
     "show_erc_errors": true,
