@@ -836,31 +836,31 @@
     ],
     [
       "622b6afe-64ba-4b4f-894e-aa16e3fefe2c",
-      "motor0"
+      "prism0"
     ],
     [
       "a71d32da-f9cb-43f1-ab25-5fee9e3817d5",
-      "motor1"
+      "prism1"
     ],
     [
       "9d4d3b5f-be88-4261-b203-2246a336433c",
-      "motor2"
+      "prism2"
     ],
     [
       "db5894f8-55af-48c2-a941-3e31d7793716",
-      "motor3"
+      "prism3"
     ],
     [
       "6d3bcc59-228e-43b3-9299-2dd708dcaa45",
-      "motor5"
+      "prism5"
     ],
     [
       "bfbaa572-51ae-4b71-8c7f-4f186195adbc",
-      "motor4"
+      "prism4"
     ],
     [
       "78ebced8-6951-4549-97f4-07e6588cf891",
-      "motor6"
+      "prism6"
     ]
   ],
   "text_variables": {}
