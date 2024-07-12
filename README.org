@@ -1,7 +1,7 @@
 # This file is generated automatically from metadata
 # File edits may be overwritten!
 - Project Name: honeycomb-pcb
-- Synopsis: Connects a microcontroller and power to multiple tmc5130-uart boards.
+- Synopsis: PCB for each tessellated maze honeycomb.
 - Documentation Version: 1.0.0
 - Pcb Version: 1.0
 - Enclosure Version: 1.0
@@ -16,6 +16,6 @@
 - Copyright: 2024 Howard Hughes Medical Institute
 - References:
   - [[https://www.analog.com/en/products/tmc5130.html][TMC5130]]
-  - [[https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html][RP2040]]
+  - [[https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico][W5500-EVB-Pico]]
 
 [[./documentation/pcb/raytrace.png]]

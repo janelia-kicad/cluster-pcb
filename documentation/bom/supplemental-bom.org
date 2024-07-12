@@ -3,7 +3,7 @@
 #+LATEX_HEADER: \usepackage[margin=2cm]{geometry}
 * Supplemental BOM
 - Project Name: honeycomb-pcb
-- Synopsis: Connects a microcontroller and power to multiple tmc5130-uart boards.
+- Synopsis: PCB for each tessellated maze honeycomb.
 - Release Date: 2024-07-12
 - URL: https://github.com/janelia-kicad/honeycomb-pcb
 - Author: Peter Polidoro

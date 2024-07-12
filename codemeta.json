@@ -7,7 +7,7 @@
     "dateModified": "2024-07-12",
     "name": "honeycomb-pcb",
     "version": "1.0",
-    "description": "Connects a microcontroller and power to multiple tmc5130-uart boards.",
+    "description": "PCB for each tessellated maze honeycomb.",
     "programmingLanguage": [
         "KiCad"
     ],

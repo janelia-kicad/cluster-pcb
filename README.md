@@ -1,20 +1,20 @@
-- [Repository Info](#org5320e88)
-- [Images](#orgb6f5aa0)
-- [Schematic](#org25409cb)
-- [PCB](#org7ecc2d9)
-- [Bill of Materials](#org95cf775)
-- [Development](#org5caec1f)
+- [Repository Info](#org53bed0e)
+- [Images](#orgb9ab7fc)
+- [Schematic](#orge2e3d74)
+- [PCB](#org0a6b302)
+- [Bill of Materials](#org299158d)
+- [Development](#org038b3f9)
 
     <!-- This file is generated automatically from metadata -->
     <!-- File edits may be overwritten! -->
 
 
-<a id="org5320e88"></a>
+<a id="org53bed0e"></a>
 
 # Repository Info
 
 -   Project Name: honeycomb-pcb
--   Synopsis: Connects a microcontroller and power to multiple tmc5130-uart boards.
+-   Synopsis: PCB for each tessellated maze honeycomb.
 -   Documentation Version: 1.0.0
 -   Pcb Version: 1.0
 -   Enclosure Version: 1.0
@@ -29,27 +29,27 @@
 -   Copyright: 2024 Howard Hughes Medical Institute
 -   References:
     -   [TMC5130](https://www.analog.com/en/products/tmc5130.html)
-    -   [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
+    -   [W5500-EVB-Pico](https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico)
 
 ![img](./documentation/pcb/raytrace.png)
 
 
-<a id="orgb6f5aa0"></a>
+<a id="orgb9ab7fc"></a>
 
 # Images
 
 
-<a id="org25409cb"></a>
+<a id="orge2e3d74"></a>
 
 # Schematic
 
 
-<a id="org7ecc2d9"></a>
+<a id="org0a6b302"></a>
 
 # PCB
 
 
-<a id="org95cf775"></a>
+<a id="org299158d"></a>
 
 # Bill of Materials
 
@@ -76,7 +76,7 @@
 |      | Supplemental BOM Version: 1.0         |                          |                     |          | Total | 40.11 |
 
 
-<a id="org5caec1f"></a>
+<a id="org038b3f9"></a>
 
 # Development
 

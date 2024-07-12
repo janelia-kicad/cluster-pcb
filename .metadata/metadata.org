@@ -41,13 +41,13 @@ honeycomb-pcb
 
 #+NAME: synopsis
 #+BEGIN_SRC text :exports none :noweb yes
-Connects a microcontroller and power to multiple tmc5130-uart boards.
+PCB for each tessellated maze honeycomb.
 #+END_SRC
 
 #+NAME: references
 #+BEGIN_SRC text :exports none :noweb yes
 [[https://www.analog.com/en/products/tmc5130.html][TMC5130]]
-[[https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html][RP2040]]
+[[https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico][W5500-EVB-Pico]]
 #+END_SRC
 
 #+NAME: creation-date
