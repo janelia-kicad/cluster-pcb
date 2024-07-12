@@ -1,0 +1,26 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/BSD-3-Clause",
+    "codeRepository": "https://github.com/janelia-kicad/honeycomb-pcb",
+    "dateCreated": "2024-06-28",
+    "dateModified": "2024-07-12",
+    "name": "honeycomb-pcb",
+    "version": "1.0",
+    "description": "Connects a microcontroller and power to multiple tmc5130-uart boards.",
+    "programmingLanguage": [
+        "KiCad"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Peter",
+            "familyName": "Polidoro",
+            "email": "peter@polidoro.io",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Howard Hughes Medical Institute"
+            }
+        }
+    ]
+}
