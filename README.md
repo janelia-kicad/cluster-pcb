@@ -1,15 +1,15 @@
-- [Repository Info](#orgb74b144)
-- [Images](#org52cc285)
-- [Schematic](#org5b653fc)
-- [PCB](#org3d92923)
-- [Bill of Materials](#org77b4fce)
-- [Development](#org9d41066)
+- [Repository Info](#org0319094)
+- [Images](#org7d120d9)
+- [Schematic](#org79ed83f)
+- [PCB](#orgfd6e906)
+- [Bill of Materials](#org04442b9)
+- [Development](#org972fae4)
 
     <!-- This file is generated automatically from metadata -->
     <!-- File edits may be overwritten! -->
 
 
-<a id="orgb74b144"></a>
+<a id="org0319094"></a>
 
 # Repository Info
 
@@ -34,48 +34,48 @@
 ![img](./documentation/pcb/pcb.png)
 
 
-<a id="org52cc285"></a>
+<a id="org7d120d9"></a>
 
 # Images
 
 
-<a id="org5b653fc"></a>
+<a id="org79ed83f"></a>
 
 # Schematic
 
 
-<a id="org3d92923"></a>
+<a id="orgfd6e906"></a>
 
 # PCB
 
 
-<a id="org77b4fce"></a>
+<a id="org04442b9"></a>
 
 # Bill of Materials
 
 
 ## Board
 
-| Item | Synopsis                                  | Manufacturer Part Number | Manufacturer                         | Quantity | Reference(s)                              | Package         |
-|---- |----------------------------------------- |------------------------ |------------------------------------ |-------- |----------------------------------------- |--------------- |
-| 1    | 50V 3.3uF                                 | FS32X335K500EGG          | PSA(Prosperity Dielectrics)          | 1        | C301                                      | 1210            |
-| 2    | CAP CER 0.1UF 100V X5R                    | GRM155R62A104KE14D       | Murata Electronics                   | 8        | C302 C501 C601 C701 C801 C901 C1001 C1101 | 0402            |
-| 3    | CAP CER 1UF 25V X5R                       | GRT155R61E105KE01D       | Murata Electronics                   | 2        | C303 C304                                 | 0402            |
-| 4    | CAP CER 1UF 35V X5R                       | CL05A105KL5NRNC          | Samsung Electro-Mechanics            | 7        | C502 C602 C702 C802 C902 C1002 C1102      | 0402            |
-| 5    | 50V 15A PowerDI-5 Super Barrier Rectifier | SBRT15U50SP5-13          | Diodes Incorporated                  | 1        | D301                                      | PowerDI-5       |
-| 6    | DIODE SCHOTTKY 20V 1A                     | MBR120VLSFT1G            | onsemi                               | 1        | D401                                      | SOD123FL        |
-| 7    | DIODE GEN PURP 400V 2A                    | ES2G                     | ShunYe                               | 7        | D501 D601 D701 D801 D901 D1001 D1101      | SMB             |
-| 8    | DIODE ZENER 47V 1W                        | 1SMAF4756A               | Shikues                              | 7        | D502 D602 D702 D802 D902 D1002 D1102      | SMAF            |
-| 9    | CONN FFC FPC BOTTOM 10POS 1MM RA          | 1.0K-FX-10PWBG           | HDGC                                 | 7        | J501 J601 J701 J801 J901 J1001 J1101      | SMD P=1mm       |
-| 10   | 1PCSPChannel 60V 50A                      | 30P06-VB                 | VBsemi Elec                          | 1        | Q301                                      | TO-252-2        |
-| 11   | 100V 260mA N-Channel MOSFET               | 2SK1589-T1B-VB           | VBsemi Elec                          | 1        | Q302                                      | SOT-23          |
-| 12   | RES SMD 1K OHM 1% 1/16W                   | RC0402FR-071KL           | YAGEO                                | 1        | R301                                      | 0402            |
-| 13   | RES SMD 3.6K OHM 1% 1/16W                 | RM04JTN362               | TA-I Tech                            | 1        | R302                                      | 0402            |
-| 14   | 1W 240m Surface Mount Resistor            | FRL2512JR240TS           | FOJAN                                | 7        | R501 R601 R701 R801 R901 R1001 R1101      | 2512            |
-| 15   | RES SMD 100 OHM 1% 62.5mW                 | 0402WGF1000TCE           | UNI-ROYAL(Uniroyal Elec)             | 7        | R502 R602 R702 R802 R902 R1002 R1102      | 0402            |
-| 16   | TERM BLOCK HDR 2POS 90DEG 5.08MM          | 1757242                  | Phoenix Contact                      | 1        | T301                                      |                 |
-| 17   | DC-DC 5V 600mA Output 3-65V Input         | TPSM365R6V5RDNR          | Texas Instruments                    | 1        | U301                                      | QFN-11(3.5x4.5) |
-| 18   | IC TRANSCEIVER HALF 1/1                   | MAX13431EETB+T           | Analog Devices Inc./Maxim Integrated | 7        | U501 U601 U701 U801 U901 U1001 U1101      |                 |
+| Item | Synopsis                                  | Manufacturer Part Number | Manufacturer                         | Quantity | Reference(s)                              | Package            |
+|---- |----------------------------------------- |------------------------ |------------------------------------ |-------- |----------------------------------------- |------------------ |
+| 1    | 50V 3.3uF                                 | FS32X335K500EGG          | PSA(Prosperity Dielectrics)          | 1        | C301                                      | 1210               |
+| 2    | CAP CER 0.1UF 100V X5R                    | GRM155R62A104KE14D       | Murata Electronics                   | 8        | C302 C501 C601 C701 C801 C901 C1001 C1101 | 0402               |
+| 3    | CAP CER 1UF 25V X5R                       | GRT155R61E105KE01D       | Murata Electronics                   | 2        | C303 C304                                 | 0402               |
+| 4    | CAP CER 1UF 35V X5R                       | CL05A105KL5NRNC          | Samsung Electro-Mechanics            | 7        | C502 C602 C702 C802 C902 C1002 C1102      | 0402               |
+| 5    | 50V 15A PowerDI-5 Super Barrier Rectifier | SBRT15U50SP5-13          | Diodes Incorporated                  | 1        | D301                                      | PowerDI-5          |
+| 6    | DIODE SCHOTTKY 20V 1A                     | MBR120VLSFT1G            | onsemi                               | 1        | D401                                      | SOD-123FL          |
+| 7    | DIODE GEN PURP 400V 2A                    | ES2G                     | ShunYe                               | 7        | D501 D601 D701 D801 D901 D1001 D1101      | SMB                |
+| 8    | DIODE ZENER 47V 1W                        | 1SMAF4756A               | Shikues                              | 7        | D502 D602 D702 D802 D902 D1002 D1102      | SMAF               |
+| 9    | CONN FFC FPC BOTTOM 10POS 1MM RA          | 1.0K-FX-10PWBG           | HDGC                                 | 7        | J501 J601 J701 J801 J901 J1001 J1101      | SMD P=1mm          |
+| 10   | 1PCSPChannel 60V 50A                      | 30P06-VB                 | VBsemi Elec                          | 1        | Q301                                      | TO-252-2           |
+| 11   | 100V 260mA N-Channel MOSFET               | 2SK1589-T1B-VB           | VBsemi Elec                          | 1        | Q302                                      | SOT-23             |
+| 12   | RES SMD 1K OHM 1% 1/16W                   | RC0402FR-071KL           | YAGEO                                | 1        | R301                                      | 0402               |
+| 13   | RES SMD 3.6K OHM 1% 1/16W                 | RM04JTN362               | TA-I Tech                            | 1        | R302                                      | 0402               |
+| 14   | 1W 240m Surface Mount Resistor            | FRL2512JR240TS           | FOJAN                                | 7        | R501 R601 R701 R801 R901 R1001 R1101      | 2512               |
+| 15   | RES SMD 100 OHM 1% 62.5mW                 | 0402WGF1000TCE           | UNI-ROYAL(Uniroyal Elec)             | 7        | R502 R602 R702 R802 R902 R1002 R1102      | 0402               |
+| 16   | TERM BLOCK HDR 2POS 90DEG 5.08MM          | 1757242                  | Phoenix Contact                      | 1        | T301                                      | Push-Pull P=5.08mm |
+| 17   | DC-DC 5V 600mA Output 3-65V Input         | TPSM365R6V5RDNR          | Texas Instruments                    | 1        | U301                                      | QFN-11(3.5x4.5)    |
+| 18   | IC TRANSCEIVER HALF 1/1                   | MAX13431EETB+T           | Analog Devices Inc./Maxim Integrated | 7        | U501 U601 U701 U801 U901 U1001 U1101      | TDFN-10-EP(3x3)    |
 
 
 ## Supplemental
@@ -84,10 +84,11 @@
 |---- |------------------------------- |------------------------ |--------------- |-------- |----- |----- |
 | 1    | TERM BLOCK PLUG 2POS STR 5.08MM | 1758364                  | Phoenix Contact | 1        | 1.63  | 1.63  |
 | 2    | W5100S-EVB-PICO RP2040 W5100S   | W5100S-EVB-PICO          | WIZnet          | 1        | 9.95  | 9.95  |
-|      | Supplemental BOM Version: 1.0   |                          |                 |          | Total | 11.58 |
+| 3    | FAN AXIAL 25X8MM 5VDC WIRE      | 255M                     | ebm-papst Inc.  | 1        | 33.47 | 33.47 |
+|      | Supplemental BOM Version: 1.0   |                          |                 |          | Total | 45.05 |
 
 
-<a id="org9d41066"></a>
+<a id="org972fae4"></a>
 
 # Development
 

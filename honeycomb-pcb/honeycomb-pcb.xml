@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/polidorop/Repositories/kicad/honeycomb-pcb/honeycomb-pcb/honeycomb-pcb.kicad_sch</source>
-    <date>Tue 16 Jul 2024 10:43:50 AM EDT</date>
+    <date>Tue 16 Jul 2024 10:56:51 AM EDT</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -454,22 +454,27 @@
       <value>TERM_BLK_HDR_2POS_90DEG_0.2IN</value>
       <footprint>Janelia:PHOENIX_1757242</footprint>
       <fields>
+        <field name="LCSC">C90074</field>
         <field name="Manufacturer">Phoenix Contact</field>
         <field name="Manufacturer Part Number">1757242</field>
+        <field name="Package">Push-Pull P=5.08mm</field>
         <field name="Sim.Enable">0</field>
         <field name="Synopsis">TERM BLOCK HDR 2POS 90DEG 5.08MM</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">277-1106-ND</field>
       </fields>
-      <libsource lib="Janelia" part="TERM_BLK_HDR_2POS_90DEG_0.2IN" description=""/>
+      <libsource lib="Janelia" part="TERM_BLK_HDR_2POS_90DEG_0.2IN" description="2 Bend 1 5.08mm 1x2P Green Board Edge/Receptacle-Close Push-Pull P=5.08mm Pluggable System Terminal Block ROHS"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="277-1106-ND"/>
       <property name="Synopsis" value="TERM BLOCK HDR 2POS 90DEG 5.08MM"/>
       <property name="Manufacturer" value="Phoenix Contact"/>
       <property name="Manufacturer Part Number" value="1757242"/>
       <property name="Sim.Enable" value="0"/>
+      <property name="LCSC" value="C90074"/>
+      <property name="Package" value="Push-Pull P=5.08mm"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
+      <property name="ki_description" value="2 Bend 1 5.08mm 1x2P Green Board Edge/Receptacle-Close Push-Pull P=5.08mm Pluggable System Terminal Block ROHS"/>
       <sheetpath names="/power/" tstamps="/c1dd8f61-494c-402f-8e59-08309c64fc3f/"/>
       <tstamps>00024f69-4b8b-4d1b-8ea8-eebe339f0849</tstamps>
     </comp>
@@ -507,7 +512,7 @@
         <field name="LCSC">C223608</field>
         <field name="Manufacturer">onsemi</field>
         <field name="Manufacturer Part Number">MBR120VLSFT1G</field>
-        <field name="Package"> SOD123FL</field>
+        <field name="Package">SOD-123FL</field>
         <field name="Sim.Enable">0</field>
         <field name="Synopsis">DIODE SCHOTTKY 20V 1A</field>
         <field name="Vendor">Digi-Key</field>
@@ -519,7 +524,7 @@
       <property name="Synopsis" value="DIODE SCHOTTKY 20V 1A"/>
       <property name="Manufacturer" value="onsemi"/>
       <property name="Manufacturer Part Number" value="MBR120VLSFT1G"/>
-      <property name="Package" value=" SOD123FL"/>
+      <property name="Package" value="SOD-123FL"/>
       <property name="Sim.Enable" value="0"/>
       <property name="LCSC" value="C223608"/>
       <property name="Sheetname" value="microcontroller"/>
@@ -723,6 +728,7 @@
         <field name="LCSC">C2672811</field>
         <field name="Manufacturer">Analog Devices Inc./Maxim Integrated</field>
         <field name="Manufacturer Part Number">MAX13431EETB+T</field>
+        <field name="Package">TDFN-10-EP(3x3)</field>
         <field name="Synopsis">IC TRANSCEIVER HALF 1/1</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">MAX13431EETB+TCT-ND</field>
@@ -734,6 +740,7 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
+      <property name="Package" value="TDFN-10-EP(3x3)"/>
       <property name="Sheetname" value="prism0"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
@@ -936,6 +943,7 @@
         <field name="LCSC">C2672811</field>
         <field name="Manufacturer">Analog Devices Inc./Maxim Integrated</field>
         <field name="Manufacturer Part Number">MAX13431EETB+T</field>
+        <field name="Package">TDFN-10-EP(3x3)</field>
         <field name="Synopsis">IC TRANSCEIVER HALF 1/1</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">MAX13431EETB+TCT-ND</field>
@@ -947,6 +955,7 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
+      <property name="Package" value="TDFN-10-EP(3x3)"/>
       <property name="Sheetname" value="prism1"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
@@ -1149,6 +1158,7 @@
         <field name="LCSC">C2672811</field>
         <field name="Manufacturer">Analog Devices Inc./Maxim Integrated</field>
         <field name="Manufacturer Part Number">MAX13431EETB+T</field>
+        <field name="Package">TDFN-10-EP(3x3)</field>
         <field name="Synopsis">IC TRANSCEIVER HALF 1/1</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">MAX13431EETB+TCT-ND</field>
@@ -1160,6 +1170,7 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
+      <property name="Package" value="TDFN-10-EP(3x3)"/>
       <property name="Sheetname" value="prism2"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
@@ -1362,6 +1373,7 @@
         <field name="LCSC">C2672811</field>
         <field name="Manufacturer">Analog Devices Inc./Maxim Integrated</field>
         <field name="Manufacturer Part Number">MAX13431EETB+T</field>
+        <field name="Package">TDFN-10-EP(3x3)</field>
         <field name="Synopsis">IC TRANSCEIVER HALF 1/1</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">MAX13431EETB+TCT-ND</field>
@@ -1373,6 +1385,7 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
+      <property name="Package" value="TDFN-10-EP(3x3)"/>
       <property name="Sheetname" value="prism3"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
@@ -1575,6 +1588,7 @@
         <field name="LCSC">C2672811</field>
         <field name="Manufacturer">Analog Devices Inc./Maxim Integrated</field>
         <field name="Manufacturer Part Number">MAX13431EETB+T</field>
+        <field name="Package">TDFN-10-EP(3x3)</field>
         <field name="Synopsis">IC TRANSCEIVER HALF 1/1</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">MAX13431EETB+TCT-ND</field>
@@ -1586,6 +1600,7 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
+      <property name="Package" value="TDFN-10-EP(3x3)"/>
       <property name="Sheetname" value="prism5"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
@@ -1788,6 +1803,7 @@
         <field name="LCSC">C2672811</field>
         <field name="Manufacturer">Analog Devices Inc./Maxim Integrated</field>
         <field name="Manufacturer Part Number">MAX13431EETB+T</field>
+        <field name="Package">TDFN-10-EP(3x3)</field>
         <field name="Synopsis">IC TRANSCEIVER HALF 1/1</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">MAX13431EETB+TCT-ND</field>
@@ -1799,6 +1815,7 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
+      <property name="Package" value="TDFN-10-EP(3x3)"/>
       <property name="Sheetname" value="prism4"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
@@ -2001,6 +2018,7 @@
         <field name="LCSC">C2672811</field>
         <field name="Manufacturer">Analog Devices Inc./Maxim Integrated</field>
         <field name="Manufacturer Part Number">MAX13431EETB+T</field>
+        <field name="Package">TDFN-10-EP(3x3)</field>
         <field name="Synopsis">IC TRANSCEIVER HALF 1/1</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">MAX13431EETB+TCT-ND</field>
@@ -2012,6 +2030,7 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
+      <property name="Package" value="TDFN-10-EP(3x3)"/>
       <property name="Sheetname" value="prism6"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
@@ -2225,7 +2244,7 @@
         <field name="Synopsis">DIODE SCHOTTKY 20V 1A</field>
         <field name="Manufacturer">onsemi</field>
         <field name="Manufacturer Part Number">MBR120VLSFT1G</field>
-        <field name="Package"> SOD123FL</field>
+        <field name="Package">SOD-123FL</field>
         <field name="Sim.Enable">0</field>
         <field name="LCSC">C223608</field>
       </fields>
@@ -2310,6 +2329,7 @@
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">MAX13431EETB+TCT-ND</field>
         <field name="LCSC">C2672811</field>
+        <field name="Package">TDFN-10-EP(3x3)</field>
       </fields>
       <pins>
         <pin num="1" name="VL" type="power_in"/>
@@ -2542,6 +2562,7 @@
       </pins>
     </libpart>
     <libpart lib="Janelia" part="TERM_BLK_HDR_2POS_90DEG_0.2IN">
+      <description>2 Bend 1 5.08mm 1x2P Green Board Edge/Receptacle-Close Push-Pull P=5.08mm Pluggable System Terminal Block ROHS</description>
       <footprints>
         <fp>Pin_Header_Straight_1X02</fp>
         <fp>Pin_Header_Angled_1X02</fp>
@@ -2558,6 +2579,8 @@
         <field name="Manufacturer">Phoenix Contact</field>
         <field name="Manufacturer Part Number">1757242</field>
         <field name="Sim.Enable">0</field>
+        <field name="LCSC">C90074</field>
+        <field name="Package">Push-Pull P=5.08mm</field>
       </fields>
       <pins>
         <pin num="1" name="P1" type="passive"/>

@@ -233,8 +233,9 @@ Hello $addressee
 |------+--------------------------------------------------------+--------------------------+-----------------+----------+-------+-------|
 |    1 | TERM BLOCK PLUG 2POS STR 5.08MM                        | 1758364                  | Phoenix Contact |        1 |  1.63 |  1.63 |
 |    2 | W5100S-EVB-PICO RP2040 W5100S                          | W5100S-EVB-PICO          | WIZnet          |        1 |  9.95 |  9.95 |
+|    3 | FAN AXIAL 25X8MM 5VDC WIRE                             | 255M                     | ebm-papst Inc.  |        1 | 33.47 | 33.47 |
 |------+--------------------------------------------------------+--------------------------+-----------------+----------+-------+-------|
-|      | Supplemental BOM Version: <<supplemental-bom-version>> |                          |                 |          | Total | 11.58 |
+|      | Supplemental BOM Version: <<supplemental-bom-version>> |                          |                 |          | Total | 45.05 |
 ,#+TBLFM: $7=$5*$6;%0.2f::@>$7=vsum(@2..@-1);%0.2f
 #+END_SRC
 
