@@ -4,7 +4,7 @@
     "license": "https://spdx.org/licenses/BSD-3-Clause",
     "codeRepository": "https://github.com/janelia-kicad/honeycomb-pcb",
     "dateCreated": "2024-06-28",
-    "dateModified": "2024-07-12",
+    "dateModified": "2024-07-16",
     "name": "honeycomb-pcb",
     "version": "1.0",
     "description": "PCB for each tessellated maze honeycomb.",

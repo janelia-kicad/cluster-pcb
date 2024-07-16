@@ -6,7 +6,7 @@
 - Pcb Version: 1.0
 - Enclosure Version: 1.0
 - Supplemental BOM Version: 1.0
-- Release Date: 2024-07-12
+- Release Date: 2024-07-16
 - Creation Date: 2024-06-28
 - Kicad Version: 7.0.11
 - License: BSD-3-Clause
@@ -15,7 +15,7 @@
 - Email: peter@polidoro.io
 - Copyright: 2024 Howard Hughes Medical Institute
 - References:
-  - [[https://www.analog.com/en/products/tmc5130.html][TMC5130]]
   - [[https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico][W5500-EVB-Pico]]
+  - [[https://www.analog.com/en/products/tmc5130.html][TMC5130]]
 
 [[./documentation/pcb/raytrace.png]]

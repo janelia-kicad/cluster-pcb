@@ -46,8 +46,8 @@ PCB for each tessellated maze honeycomb.
 
 #+NAME: references
 #+BEGIN_SRC text :exports none :noweb yes
-[[https://www.analog.com/en/products/tmc5130.html][TMC5130]]
 [[https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico][W5500-EVB-Pico]]
+[[https://www.analog.com/en/products/tmc5130.html][TMC5130]]
 #+END_SRC
 
 #+NAME: creation-date
@@ -232,13 +232,6 @@ Hello $addressee
 | Item | Synopsis                                               | Manufacturer Part Number | Manufacturer        | Quantity |  Cost | Total |
 |------+--------------------------------------------------------+--------------------------+---------------------+----------+-------+-------|
 |    1 | FAN AXIAL 25X8MM 5VDC WIRE                             |                     255M | ebm-papst Inc.      |        1 | 33.47 | 33.47 |
-|    2 | CONN RCPT HSG 2POS 1.25MM                              |               5055650201 | Molex               |        1 |  0.32 |  0.32 |
-|    3 | CONN SOCKET 26-30AWG CRIMP GOLD                        |               5054311100 | Molex               |        2 |  0.30 |  0.60 |
-|    4 | Hex Standoff Threaded M2 Brass 8.00mm                  |                970080244 | Würth Elektronik    |        3 |  0.65 |  1.95 |
-|    5 | MACH SCREW PAN HEAD PHILLIPS M2 12mm                   |         MPMS 002 0012 PH | B&F Fastener Supply |        3 |  0.32 |  0.96 |
-|    6 | MACH SCREW PAN HEAD PHILLIPS M2 5mm                    |         MPMS 002 0005 PH | B&F Fastener Supply |        3 |  0.17 |  0.51 |
-|    6 | CONN RCPT HSG 2POS 1.50MM                              |               0874390200 | Molex               |        1 |  0.22 |  0.22 |
-|    7 | PICO-SPOX 874210000, 24 AWG,UL10                       |               0797580016 | Molex               |        2 |  1.04 |  2.08 |
 |------+--------------------------------------------------------+--------------------------+---------------------+----------+-------+-------|
 |      | Supplemental BOM Version: <<supplemental-bom-version>> |                          |                     |          | Total | 40.11 |
 ,#+TBLFM: $7=$5*$6;%0.2f::@>$7=vsum(@2..@-1);%0.2f
@@ -314,18 +307,32 @@ for file_path_string in file_path_strings:
 #+NAME: pcb-parts
 #+BEGIN_SRC python :noweb yes :exports results :results value table
 from kicad_bom import KicadBom
-kb = KicadBom('../<<project-name>>/', '../<<bom-dir>>')
-kb.save_all_csv_files()
-column_names = ['Item',
-                'Reference(s)',
-                'Description',
-                'Manufacturer Part Number',
-                'Manufacturer',
-                'Quantity',
-                'Package']
-format_for_org_table = True
-bom = kb.get_bom(column_names, format_for_org_table)
+kb = KicadBom(netlist_path='../<<project-name>>/')
+
+fields = ['Item',
+          'Synopsis',
+          'Manufacturer Part Number',
+          'Manufacturer',
+          'Quantity',
+          'Reference(s)',
+          'Package']
+bom = kb.get_bom(input_fields=fields, output_fields=fields, format_for_org_table=True)
 return bom
+#+END_SRC
+
+#+BEGIN_SRC python :noweb yes :exports results :results output raw
+from kicad_bom import KicadBom
+kb = KicadBom(netlist_path='../<<project-name>>/')
+
+input_fields = ['Synopsis',
+                'Reference',
+                'Package',
+                'LCSC']
+output_fields = ['Comment',
+                 'Designator',
+                 'Footprint',
+                 'LCSC']
+kb.save_bom_csv_file('../<<fabrication-dir>>/jlcpcb-bom.csv', input_fields, output_fields)
 #+END_SRC
 
 ** Supplemental
@@ -337,6 +344,145 @@ return bom
 ** Install Guix
 
 [[https://guix.gnu.org/manual/en/html_node/Binary-Installation.html][Install Guix]]
+
+** Generate Output from KiCad
+
+*** Images
+
+**** 3D Viewer
+
+Output directory: ../documentation/fabrication/gerbers
+
+ - pcb.png
+ - top.png
+ - bottom.png
+ - front.png
+ - back.png
+ - left.png
+ - right.png
+
+**** Trim
+
+#+BEGIN_EXAMPLE
+make trimmed-images
+#+END_EXAMPLE
+
+**** Schematic PDF
+
+File -> Plot
+
+Output directory: ../documentation/schematic
+
+- Output format PDF
+- Page Size = Schematic size
+- Plot drawing sheet
+- Output mode = Color
+- Color theme = KiCad Default
+- Default line width = 0.006 in
+
+**** Schematic SVG
+
+File -> Plot
+
+Output directory: ../documentation/schematic
+
+- Output format SVG
+- Page Size = Schematic size
+- Plot drawing sheet
+- Output mode = Color
+- Color theme = Solarized Light
+- Default line width = 0.012 in
+
+**** PCB SVG
+
+Add Edge.Cuts, holes, and dimensions to User.Drawings
+
+File -> Plot
+
+Output directory: ../documentation/pcb
+
+- Plot format SVG
+- Include Layers
+  - User.Drawings
+  - F.Silkscreen
+  - B.Silkscreen
+  - F.Fab
+  - B.Fab
+- Plot on All Layers
+  - Edge.Cuts
+- Plot footprint values
+- Plot reference designators
+- SVG Options
+  - Precision = 4
+  - Output mode = color
+
+#+BEGIN_EXAMPLE
+make cropped-svg
+#+END_EXAMPLE
+
+*** Gerber Files
+
+File -> Fabrication Outputs -> Gerbers (.gbr)
+
+Output directory: ../documentation/fabrication/gerbers
+
+Include Layers:
+- F.Cu
+- F.Paste
+- F.Silks
+- F.Mask
+- B.Cu
+- B.Paste
+- B.Silks
+- B.Mask
+- Edge.Cuts - (contain the board outline/cutouts.)
+- In1.Cu, In2.Cu … - (needed for 4/6 layer designs.)
+
+Options:
+- Select Plot reference designators, otherwise designators will not appear on silkscreen layers.
+- Select Check zone fills before plotting
+- Select Use Protel filename extensions, this is recommended as JLCPCB prefers Protel filename extensions.
+- Select Subtract soldermask from silkscreen, this ensures no silkscreen on pads.
+- Coordinate format 4.6 unit mm
+
+*** Drill and Map Files
+
+Options:
+- Excellon drill file format
+- Check Use alternate drill mode for "Oval Holes Drill Mode".
+- Check Absolute for "Drill Origin".
+- Check Millimeters for "Drill Units".
+- Check Decimal format for "Zeros Format".
+- Gerber X2 map file format
+
+Zip gerber files
+
+#+BEGIN_EXAMPLE
+zip gerbers.zip gerbers/*
+#+END_EXAMPLE
+
+*** BOM
+
+Generate BOM from schematic editor using blank command line to create bom xml file.
+
+*** POS
+
+File -> Fabrication Outputs -> Component Placement (.pos)
+
+Output directory: ../documentation/fabrication/
+
+Settings:
+- Format = CSV
+- Units = Millimeters
+- Files = Single file for board
+- Do not use drill/place file origin
+
+Modify pos files:
+- Ref -> Designator
+- PosX -> Mid X
+- PosY -> Mid Y
+- Rot -> Rotation
+- Side -> Layer
 
 ** Edit metadata.org
 
@@ -373,13 +519,13 @@ exit
         (url "https://github.com/guix-janelia/guix-janelia.git")
         (branch "main")
         (commit
-          "08fe0b2ecb68d9e17dfa4802c79935ea6339d6d1"))
+          "6d2cb9cdd679f90c1a4fb02af02d2d1cfe2fcca6"))
       (channel
         (name 'guix)
         (url "https://git.savannah.gnu.org/git/guix.git")
         (branch "master")
         (commit
-          "6cb181c07f83dfdeae1882208941086f3717a165")
+          "3b5533f9bdac4a929c3d93e628ee2ae279013685")
         (introduction
           (make-channel-introduction
             "9edb3f66fd807b096b48283debdcddccfea34bad"
@@ -488,10 +634,10 @@ no-skip-worktree-config:
 ls-files-config:
 	git ls-files .metadata/.config/ -v
 
-.PHONY: cropped
-cropped:
+.PHONY: cropped-svg
+cropped-svg:
 	# $(GUIX-SHELL) -- inkscape -D --export-overwrite --export-plain-svg documentation/pcb/*.svg
-	inkscape -D --export-overwrite --export-plain-svg documentation/pcb/*.svg
+	inkscape -D --export-overwrite --export-plain-svg documentation/pcb/*.svg && inkscape -D --export-overwrite --export-plain-svg documentation/schematic/*.svg
 
 .PHONY: trimmed-images
 trimmed-images:

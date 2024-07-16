@@ -4,7 +4,7 @@
 * Supplemental BOM
 - Project Name: honeycomb-pcb
 - Synopsis: PCB for each tessellated maze honeycomb.
-- Release Date: 2024-07-12
+- Release Date: 2024-07-16
 - URL: https://github.com/janelia-kicad/honeycomb-pcb
 - Author: Peter Polidoro
 - Email: peter@polidoro.io
@@ -14,13 +14,6 @@
 | Item | Synopsis                                               | Manufacturer Part Number | Manufacturer        | Quantity |  Cost | Total |
 |------+--------------------------------------------------------+--------------------------+---------------------+----------+-------+-------|
 |    1 | FAN AXIAL 25X8MM 5VDC WIRE                             |                     255M | ebm-papst Inc.      |        1 | 33.47 | 33.47 |
-|    2 | CONN RCPT HSG 2POS 1.25MM                              |               5055650201 | Molex               |        1 |  0.32 |  0.32 |
-|    3 | CONN SOCKET 26-30AWG CRIMP GOLD                        |               5054311100 | Molex               |        2 |  0.30 |  0.60 |
-|    4 | Hex Standoff Threaded M2 Brass 8.00mm                  |                970080244 | Würth Elektronik    |        3 |  0.65 |  1.95 |
-|    5 | MACH SCREW PAN HEAD PHILLIPS M2 12mm                   |         MPMS 002 0012 PH | B&F Fastener Supply |        3 |  0.32 |  0.96 |
-|    6 | MACH SCREW PAN HEAD PHILLIPS M2 5mm                    |         MPMS 002 0005 PH | B&F Fastener Supply |        3 |  0.17 |  0.51 |
-|    6 | CONN RCPT HSG 2POS 1.50MM                              |               0874390200 | Molex               |        1 |  0.22 |  0.22 |
-|    7 | PICO-SPOX 874210000, 24 AWG,UL10                       |               0797580016 | Molex               |        2 |  1.04 |  2.08 |
 |------+--------------------------------------------------------+--------------------------+---------------------+----------+-------+-------|
 |      | Supplemental BOM Version: 1.0 |                          |                     |          | Total | 40.11 |
 #+TBLFM: $7=$5*$6;%0.2f::@>$7=vsum(@2..@-1);%0.2f
