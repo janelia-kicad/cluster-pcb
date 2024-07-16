@@ -1159,7 +1159,7 @@
   (symbol (lib_id "Janelia:D_1.25V@2A_400V") (at 214.63 60.96 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 11799788-421c-49b0-84f6-65c0a6979930)
-    (property "Reference" "D501" (at 214.63 54.61 0)
+    (property "Reference" "D502" (at 214.63 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D" (at 214.63 57.15 0)
@@ -1203,25 +1203,25 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/622b6afe-64ba-4b4f-894e-aa16e3fefe2c"
-          (reference "D501") (unit 1)
+          (reference "D502") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/a71d32da-f9cb-43f1-ab25-5fee9e3817d5"
-          (reference "D601") (unit 1)
+          (reference "D602") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/9d4d3b5f-be88-4261-b203-2246a336433c"
-          (reference "D701") (unit 1)
+          (reference "D702") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/db5894f8-55af-48c2-a941-3e31d7793716"
-          (reference "D801") (unit 1)
+          (reference "D802") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/6d3bcc59-228e-43b3-9299-2dd708dcaa45"
-          (reference "D901") (unit 1)
+          (reference "D902") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/bfbaa572-51ae-4b71-8c7f-4f186195adbc"
-          (reference "D1001") (unit 1)
+          (reference "D1002") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/78ebced8-6951-4549-97f4-07e6588cf891"
-          (reference "D1101") (unit 1)
+          (reference "D1102") (unit 1)
         )
       )
     )
@@ -1425,7 +1425,7 @@
   (symbol (lib_id "Janelia:D_Zener_47V_1W") (at 187.96 66.04 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a68aac12-bc61-4f31-8672-244f8d0805b4)
-    (property "Reference" "D502" (at 190.5 64.77 90)
+    (property "Reference" "D501" (at 190.5 64.77 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "D_Zener_47V_1W" (at 190.5 67.31 90)
@@ -1463,25 +1463,25 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/622b6afe-64ba-4b4f-894e-aa16e3fefe2c"
-          (reference "D502") (unit 1)
+          (reference "D501") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/a71d32da-f9cb-43f1-ab25-5fee9e3817d5"
-          (reference "D602") (unit 1)
+          (reference "D601") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/9d4d3b5f-be88-4261-b203-2246a336433c"
-          (reference "D702") (unit 1)
+          (reference "D701") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/db5894f8-55af-48c2-a941-3e31d7793716"
-          (reference "D802") (unit 1)
+          (reference "D801") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/6d3bcc59-228e-43b3-9299-2dd708dcaa45"
-          (reference "D902") (unit 1)
+          (reference "D901") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/bfbaa572-51ae-4b71-8c7f-4f186195adbc"
-          (reference "D1002") (unit 1)
+          (reference "D1001") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/78ebced8-6951-4549-97f4-07e6588cf891"
-          (reference "D1102") (unit 1)
+          (reference "D1101") (unit 1)
         )
       )
     )

@@ -1525,7 +1525,7 @@
   (symbol (lib_id "Janelia:MOSFET-P-CH-EN_60V_50A") (at 158.75 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 10f7d844-5caf-4887-a432-1aff072c0d62)
-    (property "Reference" "Q301" (at 163.83 109.22 0) (do_not_autoplace)
+    (property "Reference" "Q302" (at 163.83 109.22 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MOSFET-P-CH-EN_60V_50A" (at 158.75 121.92 0) (do_not_autoplace)
@@ -1567,7 +1567,7 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
-          (reference "Q301") (unit 1)
+          (reference "Q302") (unit 1)
         )
       )
     )
@@ -2071,7 +2071,7 @@
   (symbol (lib_id "Janelia:MOSFET-N-CH-EN_100V_260mA") (at 113.03 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f22daefb-8a1c-47c9-9b35-1579b35d217a)
-    (property "Reference" "Q302" (at 118.11 130.81 0) (do_not_autoplace)
+    (property "Reference" "Q301" (at 118.11 130.81 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MOSFET-N-CH-EN_100V_260mA" (at 113.03 143.51 0)
@@ -2113,7 +2113,7 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
-          (reference "Q302") (unit 1)
+          (reference "Q301") (unit 1)
         )
       )
     )
