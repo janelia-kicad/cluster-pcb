@@ -6,7 +6,7 @@
 
   (title_block
     (title "honeycomb-pcb")
-    (date "2024-07-12")
+    (date "2024-07-16")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
   )
@@ -989,6 +989,10 @@
     (at 198.12 128.27 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1a032099-7d50-4216-a5b1-d452caf46e72)
+  )
+  (text "Convert 48V down to ~46V.\n" (at 196.85 50.8 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 543ecfde-28c0-478c-953c-742ad03ca00f)
   )
 
   (label "SWN" (at 153.67 90.17 0) (fields_autoplaced)

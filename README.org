@@ -18,4 +18,4 @@
   - [[https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico][W5500-EVB-Pico]]
   - [[https://www.analog.com/en/products/tmc5130.html][TMC5130]]
 
-[[./documentation/pcb/raytrace.png]]
+[[./documentation/pcb/pcb.png]]
