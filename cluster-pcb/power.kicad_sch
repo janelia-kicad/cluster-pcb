@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "honeycomb-pcb")
+    (title "cluster-pcb")
     (date "2024-07-16")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
@@ -1442,7 +1442,7 @@
     (pin "2" (uuid 04920da1-8839-4e84-84dd-d236fac05152))
     (pin "1" (uuid 8bb3b92e-436f-4660-bda4-623bba03e5da))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "T301") (unit 1)
         )
@@ -1467,7 +1467,7 @@
     )
     (pin "1" (uuid 7472424f-e8f6-44f5-83cc-004300b2a341))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "#FLG0301") (unit 1)
         )
@@ -1514,7 +1514,7 @@
     (pin "2" (uuid d3c2a387-66a4-4fe8-919d-d8360904c3af))
     (pin "1" (uuid b232185b-1be1-436e-bdb8-076884ca464c))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C303") (unit 1)
         )
@@ -1565,7 +1565,7 @@
     (pin "3" (uuid aaf6a8f8-3748-4fa2-b497-a634c47f5822))
     (pin "1" (uuid 2384f877-fdf4-48d2-90f7-d768de1cb6b3))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "Q301") (unit 1)
         )
@@ -1590,7 +1590,7 @@
     )
     (pin "1" (uuid 865546f6-d7bc-4313-bc6c-9ea9178f712c))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "#FLG0305") (unit 1)
         )
@@ -1646,7 +1646,7 @@
     (pin "5" (uuid 71a4d750-20a3-4507-b81f-3ee1deb48386))
     (pin "4" (uuid 472457de-9683-478e-b72e-77673b9e3fbc))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "U301") (unit 1)
         )
@@ -1671,7 +1671,7 @@
     )
     (pin "1" (uuid 48a748b8-a6a8-4614-adc9-6339ef45aa52))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "#FLG0302") (unit 1)
         )
@@ -1696,7 +1696,7 @@
     )
     (pin "1" (uuid e0918958-442b-46e2-8f87-4882ede42a7c))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "#FLG0304") (unit 1)
         )
@@ -1743,7 +1743,7 @@
     (pin "1" (uuid 566f6c31-3728-4af5-a2d9-a463c94793fd))
     (pin "2" (uuid f850e199-31bb-4b02-b285-c58db2826c06))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C302") (unit 1)
         )
@@ -1790,7 +1790,7 @@
     (pin "2" (uuid e4012dd9-cf58-4442-a854-035af7609e1d))
     (pin "1" (uuid 2266f3cb-5fe4-4581-83ce-82622a6268d0))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "R301") (unit 1)
         )
@@ -1846,7 +1846,7 @@
     (pin "1" (uuid d9063b82-26be-4e13-8374-5dec82d217a4))
     (pin "2" (uuid cccb0556-27cf-4c73-ad4b-6be66cd50e4b))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "D301") (unit 1)
         )
@@ -1893,7 +1893,7 @@
     (pin "1" (uuid a2aa0481-1484-425b-a790-548c939fc344))
     (pin "2" (uuid 62f2ccaf-b2bc-4101-b819-8fb17385f995))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C301") (unit 1)
         )
@@ -1940,7 +1940,7 @@
     (pin "1" (uuid 178e956b-ab39-4a41-ae70-750872931d22))
     (pin "2" (uuid 319a0f45-4256-47a5-a988-7c016a1ec27a))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "R302") (unit 1)
         )
@@ -1965,7 +1965,7 @@
     )
     (pin "1" (uuid e5e7fb68-8847-423b-9dfb-bec2269386bd))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "#FLG0303") (unit 1)
         )
@@ -2012,7 +2012,7 @@
     (pin "2" (uuid 95e79d61-51cc-46ba-8aca-b9af318fb842))
     (pin "1" (uuid 61cc26b5-b3ff-455e-b670-f65bdf2f7e7d))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C304") (unit 1)
         )
@@ -2060,7 +2060,7 @@
     (pin "3" (uuid 48d61fc1-95bc-42cd-a3dc-15b0303c676b))
     (pin "1" (uuid b447a08a-a309-418a-bd8b-f8a2f745074b))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "M301") (unit 1)
         )
@@ -2111,7 +2111,7 @@
     (pin "3" (uuid aab8fffe-c5d4-48e0-a4ca-c20ad3d1875e))
     (pin "2" (uuid 46d3c69b-e165-4195-9c11-b8fcaadd1aff))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "Q302") (unit 1)
         )

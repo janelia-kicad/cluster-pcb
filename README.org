@@ -1,7 +1,7 @@
 # This file is generated automatically from metadata
 # File edits may be overwritten!
-- Project Name: honeycomb-pcb
-- Synopsis: PCB for each tessellated maze honeycomb.
+- Project Name: cluster-pcb
+- Synopsis: PCB for each cluster of prisms in the Voigts Lab honeycomb maze.
 - Documentation Version: 1.0.0
 - Pcb Version: 1.0
 - Enclosure Version: 1.0
@@ -10,12 +10,12 @@
 - Creation Date: 2024-06-28
 - Kicad Version: 7.0.11
 - License: BSD-3-Clause
-- URL: https://github.com/janelia-kicad/honeycomb-pcb
+- URL: https://github.com/janelia-kicad/cluster-pcb
 - Author: Peter Polidoro
 - Email: peter@polidoro.io
 - Copyright: 2024 Howard Hughes Medical Institute
 - References:
+  - [[https://github.com/janelia-kicad/prism-pcb]]
   - [[https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico][W5500-EVB-Pico]]
-  - [[https://www.analog.com/en/products/tmc5130.html][TMC5130]]
 
 [[./documentation/pcb/pcb.png]]

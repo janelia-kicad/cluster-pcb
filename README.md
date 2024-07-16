@@ -1,20 +1,20 @@
-- [Repository Info](#org0319094)
-- [Images](#org7d120d9)
-- [Schematic](#org79ed83f)
-- [PCB](#orgfd6e906)
-- [Bill of Materials](#org04442b9)
-- [Development](#org972fae4)
+- [Repository Info](#org2b55fcd)
+- [Images](#org5169b93)
+- [Schematic](#orgcacbef1)
+- [PCB](#orgb78bfe3)
+- [Bill of Materials](#org907d70a)
+- [Development](#orgf7fa0d7)
 
     <!-- This file is generated automatically from metadata -->
     <!-- File edits may be overwritten! -->
 
 
-<a id="org0319094"></a>
+<a id="org2b55fcd"></a>
 
 # Repository Info
 
--   Project Name: honeycomb-pcb
--   Synopsis: PCB for each tessellated maze honeycomb.
+-   Project Name: cluster-pcb
+-   Synopsis: PCB for each cluster of prisms in the Voigts Lab honeycomb maze.
 -   Documentation Version: 1.0.0
 -   Pcb Version: 1.0
 -   Enclosure Version: 1.0
@@ -23,33 +23,33 @@
 -   Creation Date: 2024-06-28
 -   Kicad Version: 7.0.11
 -   License: BSD-3-Clause
--   URL: <https://github.com/janelia-kicad/honeycomb-pcb>
+-   URL: <https://github.com/janelia-kicad/cluster-pcb>
 -   Author: Peter Polidoro
 -   Email: peter@polidoro.io
 -   Copyright: 2024 Howard Hughes Medical Institute
 -   References:
+    -   <https://github.com/janelia-kicad/prism-pcb>
     -   [W5500-EVB-Pico](https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico)
-    -   [TMC5130](https://www.analog.com/en/products/tmc5130.html)
 
 ![img](./documentation/pcb/pcb.png)
 
 
-<a id="org7d120d9"></a>
+<a id="org5169b93"></a>
 
 # Images
 
 
-<a id="org79ed83f"></a>
+<a id="orgcacbef1"></a>
 
 # Schematic
 
 
-<a id="orgfd6e906"></a>
+<a id="orgb78bfe3"></a>
 
 # PCB
 
 
-<a id="org04442b9"></a>
+<a id="org907d70a"></a>
 
 # Bill of Materials
 
@@ -88,7 +88,7 @@
 |      | Supplemental BOM Version: 1.0   |                          |                 |          | Total | 45.05 |
 
 
-<a id="org972fae4"></a>
+<a id="orgf7fa0d7"></a>
 
 # Development
 

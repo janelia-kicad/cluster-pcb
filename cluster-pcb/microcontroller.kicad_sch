@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "honeycomb-pcb")
+    (title "cluster-pcb")
     (date "2024-07-16")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
@@ -667,7 +667,7 @@
     (pin "37" (uuid 13c041a9-1afb-4bb0-8e43-601058d537a1))
     (pin "16" (uuid 353dfa2c-ecc5-4897-b891-97c935722b7d))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/90ad6836-1738-4b32-a341-0a0b169f4662"
           (reference "A401") (unit 1)
         )
@@ -692,7 +692,7 @@
     )
     (pin "1" (uuid e0f50da7-379e-413c-b57e-f4e71486835f))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/90ad6836-1738-4b32-a341-0a0b169f4662"
           (reference "#FLG0401") (unit 1)
         )
@@ -717,7 +717,7 @@
     )
     (pin "1" (uuid d5c1a13d-7d4d-40e7-a081-fe476d1ff174))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/90ad6836-1738-4b32-a341-0a0b169f4662"
           (reference "#FLG0402") (unit 1)
         )
@@ -767,7 +767,7 @@
     (pin "1" (uuid 757e5d18-4fb7-4d08-a213-cba2d3d609ec))
     (pin "2" (uuid 2d9f83ab-6f26-4831-93fb-433ed3d75a12))
     (instances
-      (project "honeycomb-pcb"
+      (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/90ad6836-1738-4b32-a341-0a0b169f4662"
           (reference "D401") (unit 1)
         )

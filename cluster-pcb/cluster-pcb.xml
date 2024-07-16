@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/polidorop/Repositories/kicad/honeycomb-pcb/honeycomb-pcb/honeycomb-pcb.kicad_sch</source>
+    <source>/home/polidorop/Repositories/kicad/cluster-pcb/cluster-pcb/cluster-pcb.kicad_sch</source>
     <date>Tue 16 Jul 2024 10:56:51 AM EDT</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>honeycomb-pcb</title>
+        <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
         <date>2024-07-16</date>
-        <source>honeycomb-pcb.kicad_sch</source>
+        <source>cluster-pcb.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -24,7 +24,7 @@
     </sheet>
     <sheet number="2" name="/assembly/" tstamps="/0ec4fe58-7f94-4826-b0e2-2bc8f3ffe81e/">
       <title_block>
-        <title>honeycomb-pcb</title>
+        <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
         <date>2024-07-16</date>
@@ -42,7 +42,7 @@
     </sheet>
     <sheet number="3" name="/power/" tstamps="/c1dd8f61-494c-402f-8e59-08309c64fc3f/">
       <title_block>
-        <title>honeycomb-pcb</title>
+        <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
         <date>2024-07-16</date>
@@ -60,7 +60,7 @@
     </sheet>
     <sheet number="4" name="/microcontroller/" tstamps="/90ad6836-1738-4b32-a341-0a0b169f4662/">
       <title_block>
-        <title>honeycomb-pcb</title>
+        <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
         <date>2024-07-16</date>
@@ -78,7 +78,7 @@
     </sheet>
     <sheet number="5" name="/prism0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/">
       <title_block>
-        <title>honeycomb-pcb</title>
+        <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
         <date>2024-07-16</date>
@@ -96,7 +96,7 @@
     </sheet>
     <sheet number="6" name="/prism1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/">
       <title_block>
-        <title>honeycomb-pcb</title>
+        <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
         <date>2024-07-16</date>
@@ -114,7 +114,7 @@
     </sheet>
     <sheet number="7" name="/prism2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/">
       <title_block>
-        <title>honeycomb-pcb</title>
+        <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
         <date>2024-07-16</date>
@@ -132,7 +132,7 @@
     </sheet>
     <sheet number="8" name="/prism3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/">
       <title_block>
-        <title>honeycomb-pcb</title>
+        <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
         <date>2024-07-16</date>
@@ -150,7 +150,7 @@
     </sheet>
     <sheet number="9" name="/prism5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/">
       <title_block>
-        <title>honeycomb-pcb</title>
+        <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
         <date>2024-07-16</date>
@@ -168,7 +168,7 @@
     </sheet>
     <sheet number="10" name="/prism4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/">
       <title_block>
-        <title>honeycomb-pcb</title>
+        <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
         <date>2024-07-16</date>
@@ -186,7 +186,7 @@
     </sheet>
     <sheet number="11" name="/prism6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/">
       <title_block>
-        <title>honeycomb-pcb</title>
+        <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
         <date>2024-07-16</date>

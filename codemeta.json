@@ -2,12 +2,12 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "license": "https://spdx.org/licenses/BSD-3-Clause",
-    "codeRepository": "https://github.com/janelia-kicad/honeycomb-pcb",
+    "codeRepository": "https://github.com/janelia-kicad/cluster-pcb",
     "dateCreated": "2024-06-28",
     "dateModified": "2024-07-16",
-    "name": "honeycomb-pcb",
+    "name": "cluster-pcb",
     "version": "1.0",
-    "description": "PCB for each tessellated maze honeycomb.",
+    "description": "PCB for each cluster of prisms in the Voigts Lab honeycomb maze.",
     "programmingLanguage": [
         "KiCad"
     ],

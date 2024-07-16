@@ -11,12 +11,12 @@
 
 #+NAME: project-name
 #+BEGIN_SRC text :exports none :noweb yes
-honeycomb-pcb
+cluster-pcb
 #+END_SRC
 
 #+NAME: repository-name
 #+BEGIN_SRC text :exports none :noweb yes
-honeycomb-pcb
+cluster-pcb
 #+END_SRC
 
 #+NAME: documentation-version
@@ -41,13 +41,13 @@ honeycomb-pcb
 
 #+NAME: synopsis
 #+BEGIN_SRC text :exports none :noweb yes
-PCB for each tessellated maze honeycomb.
+PCB for each cluster of prisms in the Voigts Lab honeycomb maze.
 #+END_SRC
 
 #+NAME: references
 #+BEGIN_SRC text :exports none :noweb yes
+[[https://github.com/janelia-kicad/prism-pcb]]
 [[https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico][W5500-EVB-Pico]]
-[[https://www.analog.com/en/products/tmc5130.html][TMC5130]]
 #+END_SRC
 
 #+NAME: creation-date
