@@ -66,12 +66,12 @@
     "selection_filter": {
       "dimensions": false,
       "footprints": false,
-      "graphics": true,
+      "graphics": false,
       "keepouts": false,
       "lockedItems": false,
       "otherItems": false,
       "pads": true,
-      "text": true,
+      "text": false,
       "tracks": false,
       "vias": false,
       "zones": false
@@ -131,7 +131,7 @@
       "axes_enabled": true,
       "fast_grid_1": 4,
       "fast_grid_2": 5,
-      "last_size": 14,
+      "last_size": 5,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "show": true,
