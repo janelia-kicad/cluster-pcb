@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (title "cluster-pcb")
-    (date "2024-07-16")
+    (date "2024-07-18")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
   )
@@ -2515,7 +2515,7 @@
     (property "Vendor Part Number" "")
     (property "exclude_from_bom" "")
     (path "/90ad6836-1738-4b32-a341-0a0b169f4662/02ed9d8a-c491-4102-8df3-302b8eb9ef5f")
-    (attr through_hole)
+    (attr through_hole exclude_from_bom)
     (fp_text reference "A401" (at 0 2.5 180) (layer "F.SilkS")
         (effects (font (size 0.5 0.5) (thickness 0.125) bold))
       (tstamp a7ff99df-63fb-4554-8581-518baa25e6be)

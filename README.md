@@ -1,15 +1,15 @@
-- [Repository Info](#org2b55fcd)
-- [Images](#org5169b93)
-- [Schematic](#orgcacbef1)
-- [PCB](#orgb78bfe3)
-- [Bill of Materials](#org907d70a)
-- [Development](#orgf7fa0d7)
+- [Repository Info](#orgd2e345b)
+- [Images](#org8d33abc)
+- [Schematic](#org9c3ef99)
+- [PCB](#orgb497dfe)
+- [Bill of Materials](#org9a331e0)
+- [Development](#orgdf3c571)
 
     <!-- This file is generated automatically from metadata -->
     <!-- File edits may be overwritten! -->
 
 
-<a id="org2b55fcd"></a>
+<a id="orgd2e345b"></a>
 
 # Repository Info
 
@@ -19,7 +19,7 @@
 -   Pcb Version: 1.0
 -   Enclosure Version: 1.0
 -   Supplemental BOM Version: 1.0
--   Release Date: 2024-07-16
+-   Release Date: 2024-07-18
 -   Creation Date: 2024-06-28
 -   Kicad Version: 7.0.11
 -   License: BSD-3-Clause
@@ -34,22 +34,22 @@
 ![img](./documentation/pcb/pcb.png)
 
 
-<a id="org5169b93"></a>
+<a id="org8d33abc"></a>
 
 # Images
 
 
-<a id="orgcacbef1"></a>
+<a id="org9c3ef99"></a>
 
 # Schematic
 
 
-<a id="orgb78bfe3"></a>
+<a id="orgb497dfe"></a>
 
 # PCB
 
 
-<a id="org907d70a"></a>
+<a id="org9a331e0"></a>
 
 # Bill of Materials
 
@@ -64,11 +64,11 @@
 | 4    | CAP CER 1UF 35V X5R                       | CL05A105KL5NRNC          | Samsung Electro-Mechanics            | 7        | C502 C602 C702 C802 C902 C1002 C1102      | 0402               |
 | 5    | 50V 15A PowerDI-5 Super Barrier Rectifier | SBRT15U50SP5-13          | Diodes Incorporated                  | 1        | D301                                      | PowerDI-5          |
 | 6    | DIODE SCHOTTKY 20V 1A                     | MBR120VLSFT1G            | onsemi                               | 1        | D401                                      | SOD-123FL          |
-| 7    | DIODE GEN PURP 400V 2A                    | ES2G                     | ShunYe                               | 7        | D501 D601 D701 D801 D901 D1001 D1101      | SMB                |
-| 8    | DIODE ZENER 47V 1W                        | 1SMAF4756A               | Shikues                              | 7        | D502 D602 D702 D802 D902 D1002 D1102      | SMAF               |
+| 7    | DIODE ZENER 47V 1W                        | 1SMAF4756A               | Shikues                              | 7        | D501 D601 D701 D801 D901 D1001 D1101      | SMAF               |
+| 8    | DIODE GEN PURP 400V 2A                    | ES2G                     | ShunYe                               | 7        | D502 D602 D702 D802 D902 D1002 D1102      | SMB                |
 | 9    | CONN FFC FPC BOTTOM 10POS 1MM RA          | 1.0K-FX-10PWBG           | HDGC                                 | 7        | J501 J601 J701 J801 J901 J1001 J1101      | SMD P=1mm          |
-| 10   | 1PCSPChannel 60V 50A                      | 30P06-VB                 | VBsemi Elec                          | 1        | Q301                                      | TO-252-2           |
-| 11   | 100V 260mA N-Channel MOSFET               | 2SK1589-T1B-VB           | VBsemi Elec                          | 1        | Q302                                      | SOT-23             |
+| 10   | 100V 260mA N-Channel MOSFET               | 2SK1589-T1B-VB           | VBsemi Elec                          | 1        | Q301                                      | SOT-23             |
+| 11   | 1PCSPChannel 60V 50A                      | 30P06-VB                 | VBsemi Elec                          | 1        | Q302                                      | TO-252-2           |
 | 12   | RES SMD 1K OHM 1% 1/16W                   | RC0402FR-071KL           | YAGEO                                | 1        | R301                                      | 0402               |
 | 13   | RES SMD 3.6K OHM 1% 1/16W                 | RM04JTN362               | TA-I Tech                            | 1        | R302                                      | 0402               |
 | 14   | 1W 240m Surface Mount Resistor            | FRL2512JR240TS           | FOJAN                                | 7        | R501 R601 R701 R801 R901 R1001 R1101      | 2512               |
@@ -88,7 +88,7 @@
 |      | Supplemental BOM Version: 1.0   |                          |                 |          | Total | 45.05 |
 
 
-<a id="orgf7fa0d7"></a>
+<a id="orgdf3c571"></a>
 
 # Development
 

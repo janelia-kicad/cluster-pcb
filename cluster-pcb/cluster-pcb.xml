@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>/home/polidorop/Repositories/kicad/cluster-pcb/cluster-pcb/cluster-pcb.kicad_sch</source>
-    <date>Tue 16 Jul 2024 10:56:51 AM EDT</date>
+    <date>Thu 18 Jul 2024 11:22:35 AM EDT</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-07-16</date>
+        <date>2024-07-18</date>
         <source>cluster-pcb.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -27,7 +27,7 @@
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-07-16</date>
+        <date>2024-07-18</date>
         <source>assembly.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -45,7 +45,7 @@
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-07-16</date>
+        <date>2024-07-18</date>
         <source>power.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -63,7 +63,7 @@
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-07-16</date>
+        <date>2024-07-18</date>
         <source>microcontroller.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -76,12 +76,12 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="5" name="/prism0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/">
+    <sheet number="5" name="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/">
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-07-16</date>
+        <date>2024-07-18</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -94,12 +94,12 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="6" name="/prism1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/">
+    <sheet number="6" name="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/">
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-07-16</date>
+        <date>2024-07-18</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -112,12 +112,12 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="7" name="/prism2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/">
+    <sheet number="7" name="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/">
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-07-16</date>
+        <date>2024-07-18</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -130,12 +130,12 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="8" name="/prism3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/">
+    <sheet number="8" name="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/">
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-07-16</date>
+        <date>2024-07-18</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -148,12 +148,12 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="9" name="/prism5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/">
+    <sheet number="9" name="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/">
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-07-16</date>
+        <date>2024-07-18</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -166,12 +166,12 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="10" name="/prism4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/">
+    <sheet number="10" name="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/">
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-07-16</date>
+        <date>2024-07-18</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -184,12 +184,12 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="11" name="/prism6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/">
+    <sheet number="11" name="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/">
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-07-16</date>
+        <date>2024-07-18</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -341,35 +341,6 @@
       <tstamps>91ada921-aeaa-4d69-b9fe-93e3cceac3da</tstamps>
     </comp>
     <comp ref="Q301">
-      <value>MOSFET-P-CH-EN_60V_50A</value>
-      <footprint>Janelia:TO-252-2</footprint>
-      <fields>
-        <field name="LCSC">C709875</field>
-        <field name="Manufacturer">VBsemi Elec</field>
-        <field name="Manufacturer Part Number">30P06-VB</field>
-        <field name="Package">TO-252-2</field>
-        <field name="Sim.Enable">0</field>
-        <field name="Synopsis">1PCSPChannel 60V 50A</field>
-        <field name="Vendor">JLCPCB</field>
-        <field name="Vendor Part Number">C709875</field>
-      </fields>
-      <libsource lib="Janelia" part="MOSFET-P-CH-EN_60V_50A" description="60V 50A 25mΩ@10V,17A 2.5W 3V@250uA 1PCSPChannel TO-252-2 MOSFETs ROHS"/>
-      <property name="Synopsis" value="1PCSPChannel 60V 50A"/>
-      <property name="Manufacturer" value="VBsemi Elec"/>
-      <property name="Manufacturer Part Number" value="30P06-VB"/>
-      <property name="Vendor" value="JLCPCB"/>
-      <property name="Vendor Part Number" value="C709875"/>
-      <property name="Package" value="TO-252-2"/>
-      <property name="Sim.Enable" value="0"/>
-      <property name="LCSC" value="C709875"/>
-      <property name="Sheetname" value="power"/>
-      <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="60V 50A 25mΩ@10V,17A 2.5W 3V@250uA 1PCSPChannel TO-252-2 MOSFETs ROHS"/>
-      <property name="ki_keywords" value="P-Channel MOSFET"/>
-      <sheetpath names="/power/" tstamps="/c1dd8f61-494c-402f-8e59-08309c64fc3f/"/>
-      <tstamps>10f7d844-5caf-4887-a432-1aff072c0d62</tstamps>
-    </comp>
-    <comp ref="Q302">
       <value>MOSFET-N-CH-EN_100V_260mA</value>
       <footprint>Janelia:SOT-23</footprint>
       <fields>
@@ -397,6 +368,35 @@
       <property name="ki_keywords" value="N-Channel MOSFET"/>
       <sheetpath names="/power/" tstamps="/c1dd8f61-494c-402f-8e59-08309c64fc3f/"/>
       <tstamps>f22daefb-8a1c-47c9-9b35-1579b35d217a</tstamps>
+    </comp>
+    <comp ref="Q302">
+      <value>MOSFET-P-CH-EN_60V_50A</value>
+      <footprint>Janelia:TO-252-2</footprint>
+      <fields>
+        <field name="LCSC">C709875</field>
+        <field name="Manufacturer">VBsemi Elec</field>
+        <field name="Manufacturer Part Number">30P06-VB</field>
+        <field name="Package">TO-252-2</field>
+        <field name="Sim.Enable">0</field>
+        <field name="Synopsis">1PCSPChannel 60V 50A</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C709875</field>
+      </fields>
+      <libsource lib="Janelia" part="MOSFET-P-CH-EN_60V_50A" description="60V 50A 25mΩ@10V,17A 2.5W 3V@250uA 1PCSPChannel TO-252-2 MOSFETs ROHS"/>
+      <property name="Synopsis" value="1PCSPChannel 60V 50A"/>
+      <property name="Manufacturer" value="VBsemi Elec"/>
+      <property name="Manufacturer Part Number" value="30P06-VB"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C709875"/>
+      <property name="Package" value="TO-252-2"/>
+      <property name="Sim.Enable" value="0"/>
+      <property name="LCSC" value="C709875"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <property name="ki_description" value="60V 50A 25mΩ@10V,17A 2.5W 3V@250uA 1PCSPChannel TO-252-2 MOSFETs ROHS"/>
+      <property name="ki_keywords" value="P-Channel MOSFET"/>
+      <sheetpath names="/power/" tstamps="/c1dd8f61-494c-402f-8e59-08309c64fc3f/"/>
+      <tstamps>10f7d844-5caf-4887-a432-1aff072c0d62</tstamps>
     </comp>
     <comp ref="R301">
       <value>1k</value>
@@ -553,10 +553,10 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="LCSC" value="C162178"/>
-      <property name="Sheetname" value="prism0"/>
+      <property name="Sheetname" value="prism-0"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
+      <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
       <tstamps>40621629-c474-4d21-97d3-96dfc65ef0bd</tstamps>
     </comp>
     <comp ref="C502">
@@ -579,13 +579,40 @@
       <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
       <property name="Manufacturer Part Number" value="CL05A105KL5NRNC"/>
       <property name="LCSC" value="C307413"/>
-      <property name="Sheetname" value="prism0"/>
+      <property name="Sheetname" value="prism-0"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
+      <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
       <tstamps>5e4e61f5-19aa-4ac5-9b6c-479aafe5a603</tstamps>
     </comp>
     <comp ref="D501">
+      <value>D_Zener_47V_1W</value>
+      <footprint>Janelia:D_SMA</footprint>
+      <fields>
+        <field name="LCSC">C475448</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1SMAF4756A</field>
+        <field name="Package">SMAF</field>
+        <field name="Synopsis">DIODE ZENER 47V 1W</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
+      <property name="Manufacturer" value="Shikues"/>
+      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
+      <property name="Package" value="SMAF"/>
+      <property name="LCSC" value="C475448"/>
+      <property name="Sheetname" value="prism-0"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
+      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
+    </comp>
+    <comp ref="D502">
       <value>D</value>
       <footprint>Janelia:D_SMB</footprint>
       <fields>
@@ -609,39 +636,12 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="ES2G-FDICT-ND"/>
       <property name="LCSC" value="C4944961"/>
-      <property name="Sheetname" value="prism0"/>
+      <property name="Sheetname" value="prism-0"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1.25V@2A 60ns null 2A 400V SMB(DO-214AA) Diodes - Fast Recovery Rectifiers ROHS"/>
       <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
+      <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
       <tstamps>11799788-421c-49b0-84f6-65c0a6979930</tstamps>
-    </comp>
-    <comp ref="D502">
-      <value>D_Zener_47V_1W</value>
-      <footprint>Janelia:D_SMA</footprint>
-      <fields>
-        <field name="LCSC">C475448</field>
-        <field name="Manufacturer">Shikues</field>
-        <field name="Manufacturer Part Number">1SMAF4756A</field>
-        <field name="Package">SMAF</field>
-        <field name="Synopsis">DIODE ZENER 47V 1W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
-      </fields>
-      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
-      <property name="Manufacturer" value="Shikues"/>
-      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
-      <property name="Package" value="SMAF"/>
-      <property name="LCSC" value="C475448"/>
-      <property name="Sheetname" value="prism0"/>
-      <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
-      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
     </comp>
     <comp ref="J501">
       <value>FFC_P1mm_BOT_RA_SMD</value>
@@ -663,11 +663,11 @@
       <property name="Vendor" value="JLCPCB"/>
       <property name="Vendor Part Number" value="C2914097"/>
       <property name="LCSC" value="C2914097"/>
-      <property name="Sheetname" value="prism0"/>
+      <property name="Sheetname" value="prism-0"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="Slide Lock -20℃~+85℃ 10P Bottom Contact Surface Mount，Right Angle 1mm SMD,P=1mm,Surface Mount，Right Angle FFC/FPC Connectors ROHS"/>
       <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/prism0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
+      <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
       <tstamps>bfc0ec89-08d5-495e-a565-d852c8a97009</tstamps>
     </comp>
     <comp ref="R501">
@@ -690,10 +690,10 @@
       <property name="Manufacturer" value="FOJAN"/>
       <property name="Manufacturer Part Number" value="FRL2512JR240TS"/>
       <property name="LCSC" value="C2960776"/>
-      <property name="Sheetname" value="prism0"/>
+      <property name="Sheetname" value="prism-0"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1W Thick Film Resistors 500V ±5% ±200ppm/℃ 240mΩ 2512 Chip Resistor - Surface Mount ROHS"/>
-      <sheetpath names="/prism0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
+      <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
       <tstamps>9ac614d8-8d61-4a71-ade3-771163bd3174</tstamps>
     </comp>
     <comp ref="R502">
@@ -716,9 +716,9 @@
       <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
       <property name="LCSC" value="C25076"/>
-      <property name="Sheetname" value="prism0"/>
+      <property name="Sheetname" value="prism-0"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <sheetpath names="/prism0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
+      <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
       <tstamps>d6866040-62be-4f65-8c5d-e4fde897eca8</tstamps>
     </comp>
     <comp ref="U501">
@@ -741,11 +741,11 @@
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
       <property name="Package" value="TDFN-10-EP(3x3)"/>
-      <property name="Sheetname" value="prism0"/>
+      <property name="Sheetname" value="prism-0"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
       <property name="ki_keywords" value="transceiver"/>
-      <sheetpath names="/prism0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
+      <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
       <tstamps>b4dc50ff-af9b-49a0-b3a3-7a60d27a5455</tstamps>
     </comp>
     <comp ref="C601">
@@ -768,10 +768,10 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="LCSC" value="C162178"/>
-      <property name="Sheetname" value="prism1"/>
+      <property name="Sheetname" value="prism-1"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
+      <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
       <tstamps>40621629-c474-4d21-97d3-96dfc65ef0bd</tstamps>
     </comp>
     <comp ref="C602">
@@ -794,13 +794,40 @@
       <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
       <property name="Manufacturer Part Number" value="CL05A105KL5NRNC"/>
       <property name="LCSC" value="C307413"/>
-      <property name="Sheetname" value="prism1"/>
+      <property name="Sheetname" value="prism-1"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
+      <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
       <tstamps>5e4e61f5-19aa-4ac5-9b6c-479aafe5a603</tstamps>
     </comp>
     <comp ref="D601">
+      <value>D_Zener_47V_1W</value>
+      <footprint>Janelia:D_SMA</footprint>
+      <fields>
+        <field name="LCSC">C475448</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1SMAF4756A</field>
+        <field name="Package">SMAF</field>
+        <field name="Synopsis">DIODE ZENER 47V 1W</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
+      <property name="Manufacturer" value="Shikues"/>
+      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
+      <property name="Package" value="SMAF"/>
+      <property name="LCSC" value="C475448"/>
+      <property name="Sheetname" value="prism-1"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
+      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
+    </comp>
+    <comp ref="D602">
       <value>D</value>
       <footprint>Janelia:D_SMB</footprint>
       <fields>
@@ -824,39 +851,12 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="ES2G-FDICT-ND"/>
       <property name="LCSC" value="C4944961"/>
-      <property name="Sheetname" value="prism1"/>
+      <property name="Sheetname" value="prism-1"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1.25V@2A 60ns null 2A 400V SMB(DO-214AA) Diodes - Fast Recovery Rectifiers ROHS"/>
       <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
+      <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
       <tstamps>11799788-421c-49b0-84f6-65c0a6979930</tstamps>
-    </comp>
-    <comp ref="D602">
-      <value>D_Zener_47V_1W</value>
-      <footprint>Janelia:D_SMA</footprint>
-      <fields>
-        <field name="LCSC">C475448</field>
-        <field name="Manufacturer">Shikues</field>
-        <field name="Manufacturer Part Number">1SMAF4756A</field>
-        <field name="Package">SMAF</field>
-        <field name="Synopsis">DIODE ZENER 47V 1W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
-      </fields>
-      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
-      <property name="Manufacturer" value="Shikues"/>
-      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
-      <property name="Package" value="SMAF"/>
-      <property name="LCSC" value="C475448"/>
-      <property name="Sheetname" value="prism1"/>
-      <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
-      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
     </comp>
     <comp ref="J601">
       <value>FFC_P1mm_BOT_RA_SMD</value>
@@ -878,11 +878,11 @@
       <property name="Vendor" value="JLCPCB"/>
       <property name="Vendor Part Number" value="C2914097"/>
       <property name="LCSC" value="C2914097"/>
-      <property name="Sheetname" value="prism1"/>
+      <property name="Sheetname" value="prism-1"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="Slide Lock -20℃~+85℃ 10P Bottom Contact Surface Mount，Right Angle 1mm SMD,P=1mm,Surface Mount，Right Angle FFC/FPC Connectors ROHS"/>
       <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/prism1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
+      <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
       <tstamps>bfc0ec89-08d5-495e-a565-d852c8a97009</tstamps>
     </comp>
     <comp ref="R601">
@@ -905,10 +905,10 @@
       <property name="Manufacturer" value="FOJAN"/>
       <property name="Manufacturer Part Number" value="FRL2512JR240TS"/>
       <property name="LCSC" value="C2960776"/>
-      <property name="Sheetname" value="prism1"/>
+      <property name="Sheetname" value="prism-1"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1W Thick Film Resistors 500V ±5% ±200ppm/℃ 240mΩ 2512 Chip Resistor - Surface Mount ROHS"/>
-      <sheetpath names="/prism1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
+      <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
       <tstamps>9ac614d8-8d61-4a71-ade3-771163bd3174</tstamps>
     </comp>
     <comp ref="R602">
@@ -931,9 +931,9 @@
       <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
       <property name="LCSC" value="C25076"/>
-      <property name="Sheetname" value="prism1"/>
+      <property name="Sheetname" value="prism-1"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <sheetpath names="/prism1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
+      <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
       <tstamps>d6866040-62be-4f65-8c5d-e4fde897eca8</tstamps>
     </comp>
     <comp ref="U601">
@@ -956,11 +956,11 @@
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
       <property name="Package" value="TDFN-10-EP(3x3)"/>
-      <property name="Sheetname" value="prism1"/>
+      <property name="Sheetname" value="prism-1"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
       <property name="ki_keywords" value="transceiver"/>
-      <sheetpath names="/prism1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
+      <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
       <tstamps>b4dc50ff-af9b-49a0-b3a3-7a60d27a5455</tstamps>
     </comp>
     <comp ref="C701">
@@ -983,10 +983,10 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="LCSC" value="C162178"/>
-      <property name="Sheetname" value="prism2"/>
+      <property name="Sheetname" value="prism-2"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
+      <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
       <tstamps>40621629-c474-4d21-97d3-96dfc65ef0bd</tstamps>
     </comp>
     <comp ref="C702">
@@ -1009,13 +1009,40 @@
       <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
       <property name="Manufacturer Part Number" value="CL05A105KL5NRNC"/>
       <property name="LCSC" value="C307413"/>
-      <property name="Sheetname" value="prism2"/>
+      <property name="Sheetname" value="prism-2"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
+      <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
       <tstamps>5e4e61f5-19aa-4ac5-9b6c-479aafe5a603</tstamps>
     </comp>
     <comp ref="D701">
+      <value>D_Zener_47V_1W</value>
+      <footprint>Janelia:D_SMA</footprint>
+      <fields>
+        <field name="LCSC">C475448</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1SMAF4756A</field>
+        <field name="Package">SMAF</field>
+        <field name="Synopsis">DIODE ZENER 47V 1W</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
+      <property name="Manufacturer" value="Shikues"/>
+      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
+      <property name="Package" value="SMAF"/>
+      <property name="LCSC" value="C475448"/>
+      <property name="Sheetname" value="prism-2"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
+      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
+    </comp>
+    <comp ref="D702">
       <value>D</value>
       <footprint>Janelia:D_SMB</footprint>
       <fields>
@@ -1039,39 +1066,12 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="ES2G-FDICT-ND"/>
       <property name="LCSC" value="C4944961"/>
-      <property name="Sheetname" value="prism2"/>
+      <property name="Sheetname" value="prism-2"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1.25V@2A 60ns null 2A 400V SMB(DO-214AA) Diodes - Fast Recovery Rectifiers ROHS"/>
       <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
+      <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
       <tstamps>11799788-421c-49b0-84f6-65c0a6979930</tstamps>
-    </comp>
-    <comp ref="D702">
-      <value>D_Zener_47V_1W</value>
-      <footprint>Janelia:D_SMA</footprint>
-      <fields>
-        <field name="LCSC">C475448</field>
-        <field name="Manufacturer">Shikues</field>
-        <field name="Manufacturer Part Number">1SMAF4756A</field>
-        <field name="Package">SMAF</field>
-        <field name="Synopsis">DIODE ZENER 47V 1W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
-      </fields>
-      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
-      <property name="Manufacturer" value="Shikues"/>
-      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
-      <property name="Package" value="SMAF"/>
-      <property name="LCSC" value="C475448"/>
-      <property name="Sheetname" value="prism2"/>
-      <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
-      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
     </comp>
     <comp ref="J701">
       <value>FFC_P1mm_BOT_RA_SMD</value>
@@ -1093,11 +1093,11 @@
       <property name="Vendor" value="JLCPCB"/>
       <property name="Vendor Part Number" value="C2914097"/>
       <property name="LCSC" value="C2914097"/>
-      <property name="Sheetname" value="prism2"/>
+      <property name="Sheetname" value="prism-2"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="Slide Lock -20℃~+85℃ 10P Bottom Contact Surface Mount，Right Angle 1mm SMD,P=1mm,Surface Mount，Right Angle FFC/FPC Connectors ROHS"/>
       <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/prism2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
+      <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
       <tstamps>bfc0ec89-08d5-495e-a565-d852c8a97009</tstamps>
     </comp>
     <comp ref="R701">
@@ -1120,10 +1120,10 @@
       <property name="Manufacturer" value="FOJAN"/>
       <property name="Manufacturer Part Number" value="FRL2512JR240TS"/>
       <property name="LCSC" value="C2960776"/>
-      <property name="Sheetname" value="prism2"/>
+      <property name="Sheetname" value="prism-2"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1W Thick Film Resistors 500V ±5% ±200ppm/℃ 240mΩ 2512 Chip Resistor - Surface Mount ROHS"/>
-      <sheetpath names="/prism2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
+      <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
       <tstamps>9ac614d8-8d61-4a71-ade3-771163bd3174</tstamps>
     </comp>
     <comp ref="R702">
@@ -1146,9 +1146,9 @@
       <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
       <property name="LCSC" value="C25076"/>
-      <property name="Sheetname" value="prism2"/>
+      <property name="Sheetname" value="prism-2"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <sheetpath names="/prism2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
+      <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
       <tstamps>d6866040-62be-4f65-8c5d-e4fde897eca8</tstamps>
     </comp>
     <comp ref="U701">
@@ -1171,11 +1171,11 @@
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
       <property name="Package" value="TDFN-10-EP(3x3)"/>
-      <property name="Sheetname" value="prism2"/>
+      <property name="Sheetname" value="prism-2"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
       <property name="ki_keywords" value="transceiver"/>
-      <sheetpath names="/prism2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
+      <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
       <tstamps>b4dc50ff-af9b-49a0-b3a3-7a60d27a5455</tstamps>
     </comp>
     <comp ref="C801">
@@ -1198,10 +1198,10 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="LCSC" value="C162178"/>
-      <property name="Sheetname" value="prism3"/>
+      <property name="Sheetname" value="prism-3"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
+      <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
       <tstamps>40621629-c474-4d21-97d3-96dfc65ef0bd</tstamps>
     </comp>
     <comp ref="C802">
@@ -1224,13 +1224,40 @@
       <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
       <property name="Manufacturer Part Number" value="CL05A105KL5NRNC"/>
       <property name="LCSC" value="C307413"/>
-      <property name="Sheetname" value="prism3"/>
+      <property name="Sheetname" value="prism-3"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
+      <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
       <tstamps>5e4e61f5-19aa-4ac5-9b6c-479aafe5a603</tstamps>
     </comp>
     <comp ref="D801">
+      <value>D_Zener_47V_1W</value>
+      <footprint>Janelia:D_SMA</footprint>
+      <fields>
+        <field name="LCSC">C475448</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1SMAF4756A</field>
+        <field name="Package">SMAF</field>
+        <field name="Synopsis">DIODE ZENER 47V 1W</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
+      <property name="Manufacturer" value="Shikues"/>
+      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
+      <property name="Package" value="SMAF"/>
+      <property name="LCSC" value="C475448"/>
+      <property name="Sheetname" value="prism-3"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
+      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
+    </comp>
+    <comp ref="D802">
       <value>D</value>
       <footprint>Janelia:D_SMB</footprint>
       <fields>
@@ -1254,39 +1281,12 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="ES2G-FDICT-ND"/>
       <property name="LCSC" value="C4944961"/>
-      <property name="Sheetname" value="prism3"/>
+      <property name="Sheetname" value="prism-3"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1.25V@2A 60ns null 2A 400V SMB(DO-214AA) Diodes - Fast Recovery Rectifiers ROHS"/>
       <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
+      <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
       <tstamps>11799788-421c-49b0-84f6-65c0a6979930</tstamps>
-    </comp>
-    <comp ref="D802">
-      <value>D_Zener_47V_1W</value>
-      <footprint>Janelia:D_SMA</footprint>
-      <fields>
-        <field name="LCSC">C475448</field>
-        <field name="Manufacturer">Shikues</field>
-        <field name="Manufacturer Part Number">1SMAF4756A</field>
-        <field name="Package">SMAF</field>
-        <field name="Synopsis">DIODE ZENER 47V 1W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
-      </fields>
-      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
-      <property name="Manufacturer" value="Shikues"/>
-      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
-      <property name="Package" value="SMAF"/>
-      <property name="LCSC" value="C475448"/>
-      <property name="Sheetname" value="prism3"/>
-      <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
-      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
     </comp>
     <comp ref="J801">
       <value>FFC_P1mm_BOT_RA_SMD</value>
@@ -1308,11 +1308,11 @@
       <property name="Vendor" value="JLCPCB"/>
       <property name="Vendor Part Number" value="C2914097"/>
       <property name="LCSC" value="C2914097"/>
-      <property name="Sheetname" value="prism3"/>
+      <property name="Sheetname" value="prism-3"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="Slide Lock -20℃~+85℃ 10P Bottom Contact Surface Mount，Right Angle 1mm SMD,P=1mm,Surface Mount，Right Angle FFC/FPC Connectors ROHS"/>
       <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/prism3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
+      <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
       <tstamps>bfc0ec89-08d5-495e-a565-d852c8a97009</tstamps>
     </comp>
     <comp ref="R801">
@@ -1335,10 +1335,10 @@
       <property name="Manufacturer" value="FOJAN"/>
       <property name="Manufacturer Part Number" value="FRL2512JR240TS"/>
       <property name="LCSC" value="C2960776"/>
-      <property name="Sheetname" value="prism3"/>
+      <property name="Sheetname" value="prism-3"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1W Thick Film Resistors 500V ±5% ±200ppm/℃ 240mΩ 2512 Chip Resistor - Surface Mount ROHS"/>
-      <sheetpath names="/prism3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
+      <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
       <tstamps>9ac614d8-8d61-4a71-ade3-771163bd3174</tstamps>
     </comp>
     <comp ref="R802">
@@ -1361,9 +1361,9 @@
       <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
       <property name="LCSC" value="C25076"/>
-      <property name="Sheetname" value="prism3"/>
+      <property name="Sheetname" value="prism-3"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <sheetpath names="/prism3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
+      <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
       <tstamps>d6866040-62be-4f65-8c5d-e4fde897eca8</tstamps>
     </comp>
     <comp ref="U801">
@@ -1386,11 +1386,11 @@
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
       <property name="Package" value="TDFN-10-EP(3x3)"/>
-      <property name="Sheetname" value="prism3"/>
+      <property name="Sheetname" value="prism-3"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
       <property name="ki_keywords" value="transceiver"/>
-      <sheetpath names="/prism3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
+      <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
       <tstamps>b4dc50ff-af9b-49a0-b3a3-7a60d27a5455</tstamps>
     </comp>
     <comp ref="C901">
@@ -1413,10 +1413,10 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="LCSC" value="C162178"/>
-      <property name="Sheetname" value="prism5"/>
+      <property name="Sheetname" value="prism-5"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
+      <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
       <tstamps>40621629-c474-4d21-97d3-96dfc65ef0bd</tstamps>
     </comp>
     <comp ref="C902">
@@ -1439,13 +1439,40 @@
       <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
       <property name="Manufacturer Part Number" value="CL05A105KL5NRNC"/>
       <property name="LCSC" value="C307413"/>
-      <property name="Sheetname" value="prism5"/>
+      <property name="Sheetname" value="prism-5"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
+      <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
       <tstamps>5e4e61f5-19aa-4ac5-9b6c-479aafe5a603</tstamps>
     </comp>
     <comp ref="D901">
+      <value>D_Zener_47V_1W</value>
+      <footprint>Janelia:D_SMA</footprint>
+      <fields>
+        <field name="LCSC">C475448</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1SMAF4756A</field>
+        <field name="Package">SMAF</field>
+        <field name="Synopsis">DIODE ZENER 47V 1W</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
+      <property name="Manufacturer" value="Shikues"/>
+      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
+      <property name="Package" value="SMAF"/>
+      <property name="LCSC" value="C475448"/>
+      <property name="Sheetname" value="prism-5"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
+      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
+    </comp>
+    <comp ref="D902">
       <value>D</value>
       <footprint>Janelia:D_SMB</footprint>
       <fields>
@@ -1469,39 +1496,12 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="ES2G-FDICT-ND"/>
       <property name="LCSC" value="C4944961"/>
-      <property name="Sheetname" value="prism5"/>
+      <property name="Sheetname" value="prism-5"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1.25V@2A 60ns null 2A 400V SMB(DO-214AA) Diodes - Fast Recovery Rectifiers ROHS"/>
       <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
+      <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
       <tstamps>11799788-421c-49b0-84f6-65c0a6979930</tstamps>
-    </comp>
-    <comp ref="D902">
-      <value>D_Zener_47V_1W</value>
-      <footprint>Janelia:D_SMA</footprint>
-      <fields>
-        <field name="LCSC">C475448</field>
-        <field name="Manufacturer">Shikues</field>
-        <field name="Manufacturer Part Number">1SMAF4756A</field>
-        <field name="Package">SMAF</field>
-        <field name="Synopsis">DIODE ZENER 47V 1W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
-      </fields>
-      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
-      <property name="Manufacturer" value="Shikues"/>
-      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
-      <property name="Package" value="SMAF"/>
-      <property name="LCSC" value="C475448"/>
-      <property name="Sheetname" value="prism5"/>
-      <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
-      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
     </comp>
     <comp ref="J901">
       <value>FFC_P1mm_BOT_RA_SMD</value>
@@ -1523,11 +1523,11 @@
       <property name="Vendor" value="JLCPCB"/>
       <property name="Vendor Part Number" value="C2914097"/>
       <property name="LCSC" value="C2914097"/>
-      <property name="Sheetname" value="prism5"/>
+      <property name="Sheetname" value="prism-5"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="Slide Lock -20℃~+85℃ 10P Bottom Contact Surface Mount，Right Angle 1mm SMD,P=1mm,Surface Mount，Right Angle FFC/FPC Connectors ROHS"/>
       <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/prism5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
+      <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
       <tstamps>bfc0ec89-08d5-495e-a565-d852c8a97009</tstamps>
     </comp>
     <comp ref="R901">
@@ -1550,10 +1550,10 @@
       <property name="Manufacturer" value="FOJAN"/>
       <property name="Manufacturer Part Number" value="FRL2512JR240TS"/>
       <property name="LCSC" value="C2960776"/>
-      <property name="Sheetname" value="prism5"/>
+      <property name="Sheetname" value="prism-5"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1W Thick Film Resistors 500V ±5% ±200ppm/℃ 240mΩ 2512 Chip Resistor - Surface Mount ROHS"/>
-      <sheetpath names="/prism5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
+      <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
       <tstamps>9ac614d8-8d61-4a71-ade3-771163bd3174</tstamps>
     </comp>
     <comp ref="R902">
@@ -1576,9 +1576,9 @@
       <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
       <property name="LCSC" value="C25076"/>
-      <property name="Sheetname" value="prism5"/>
+      <property name="Sheetname" value="prism-5"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <sheetpath names="/prism5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
+      <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
       <tstamps>d6866040-62be-4f65-8c5d-e4fde897eca8</tstamps>
     </comp>
     <comp ref="U901">
@@ -1601,11 +1601,11 @@
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
       <property name="Package" value="TDFN-10-EP(3x3)"/>
-      <property name="Sheetname" value="prism5"/>
+      <property name="Sheetname" value="prism-5"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
       <property name="ki_keywords" value="transceiver"/>
-      <sheetpath names="/prism5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
+      <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
       <tstamps>b4dc50ff-af9b-49a0-b3a3-7a60d27a5455</tstamps>
     </comp>
     <comp ref="C1001">
@@ -1628,10 +1628,10 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="LCSC" value="C162178"/>
-      <property name="Sheetname" value="prism4"/>
+      <property name="Sheetname" value="prism-4"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
+      <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
       <tstamps>40621629-c474-4d21-97d3-96dfc65ef0bd</tstamps>
     </comp>
     <comp ref="C1002">
@@ -1654,13 +1654,40 @@
       <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
       <property name="Manufacturer Part Number" value="CL05A105KL5NRNC"/>
       <property name="LCSC" value="C307413"/>
-      <property name="Sheetname" value="prism4"/>
+      <property name="Sheetname" value="prism-4"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
+      <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
       <tstamps>5e4e61f5-19aa-4ac5-9b6c-479aafe5a603</tstamps>
     </comp>
     <comp ref="D1001">
+      <value>D_Zener_47V_1W</value>
+      <footprint>Janelia:D_SMA</footprint>
+      <fields>
+        <field name="LCSC">C475448</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1SMAF4756A</field>
+        <field name="Package">SMAF</field>
+        <field name="Synopsis">DIODE ZENER 47V 1W</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
+      <property name="Manufacturer" value="Shikues"/>
+      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
+      <property name="Package" value="SMAF"/>
+      <property name="LCSC" value="C475448"/>
+      <property name="Sheetname" value="prism-4"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
+      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
+    </comp>
+    <comp ref="D1002">
       <value>D</value>
       <footprint>Janelia:D_SMB</footprint>
       <fields>
@@ -1684,39 +1711,12 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="ES2G-FDICT-ND"/>
       <property name="LCSC" value="C4944961"/>
-      <property name="Sheetname" value="prism4"/>
+      <property name="Sheetname" value="prism-4"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1.25V@2A 60ns null 2A 400V SMB(DO-214AA) Diodes - Fast Recovery Rectifiers ROHS"/>
       <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
+      <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
       <tstamps>11799788-421c-49b0-84f6-65c0a6979930</tstamps>
-    </comp>
-    <comp ref="D1002">
-      <value>D_Zener_47V_1W</value>
-      <footprint>Janelia:D_SMA</footprint>
-      <fields>
-        <field name="LCSC">C475448</field>
-        <field name="Manufacturer">Shikues</field>
-        <field name="Manufacturer Part Number">1SMAF4756A</field>
-        <field name="Package">SMAF</field>
-        <field name="Synopsis">DIODE ZENER 47V 1W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
-      </fields>
-      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
-      <property name="Manufacturer" value="Shikues"/>
-      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
-      <property name="Package" value="SMAF"/>
-      <property name="LCSC" value="C475448"/>
-      <property name="Sheetname" value="prism4"/>
-      <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
-      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
     </comp>
     <comp ref="J1001">
       <value>FFC_P1mm_BOT_RA_SMD</value>
@@ -1738,11 +1738,11 @@
       <property name="Vendor" value="JLCPCB"/>
       <property name="Vendor Part Number" value="C2914097"/>
       <property name="LCSC" value="C2914097"/>
-      <property name="Sheetname" value="prism4"/>
+      <property name="Sheetname" value="prism-4"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="Slide Lock -20℃~+85℃ 10P Bottom Contact Surface Mount，Right Angle 1mm SMD,P=1mm,Surface Mount，Right Angle FFC/FPC Connectors ROHS"/>
       <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/prism4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
+      <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
       <tstamps>bfc0ec89-08d5-495e-a565-d852c8a97009</tstamps>
     </comp>
     <comp ref="R1001">
@@ -1765,10 +1765,10 @@
       <property name="Manufacturer" value="FOJAN"/>
       <property name="Manufacturer Part Number" value="FRL2512JR240TS"/>
       <property name="LCSC" value="C2960776"/>
-      <property name="Sheetname" value="prism4"/>
+      <property name="Sheetname" value="prism-4"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1W Thick Film Resistors 500V ±5% ±200ppm/℃ 240mΩ 2512 Chip Resistor - Surface Mount ROHS"/>
-      <sheetpath names="/prism4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
+      <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
       <tstamps>9ac614d8-8d61-4a71-ade3-771163bd3174</tstamps>
     </comp>
     <comp ref="R1002">
@@ -1791,9 +1791,9 @@
       <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
       <property name="LCSC" value="C25076"/>
-      <property name="Sheetname" value="prism4"/>
+      <property name="Sheetname" value="prism-4"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <sheetpath names="/prism4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
+      <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
       <tstamps>d6866040-62be-4f65-8c5d-e4fde897eca8</tstamps>
     </comp>
     <comp ref="U1001">
@@ -1816,11 +1816,11 @@
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
       <property name="Package" value="TDFN-10-EP(3x3)"/>
-      <property name="Sheetname" value="prism4"/>
+      <property name="Sheetname" value="prism-4"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
       <property name="ki_keywords" value="transceiver"/>
-      <sheetpath names="/prism4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
+      <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
       <tstamps>b4dc50ff-af9b-49a0-b3a3-7a60d27a5455</tstamps>
     </comp>
     <comp ref="C1101">
@@ -1843,10 +1843,10 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="LCSC" value="C162178"/>
-      <property name="Sheetname" value="prism6"/>
+      <property name="Sheetname" value="prism-6"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
+      <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
       <tstamps>40621629-c474-4d21-97d3-96dfc65ef0bd</tstamps>
     </comp>
     <comp ref="C1102">
@@ -1869,13 +1869,40 @@
       <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
       <property name="Manufacturer Part Number" value="CL05A105KL5NRNC"/>
       <property name="LCSC" value="C307413"/>
-      <property name="Sheetname" value="prism6"/>
+      <property name="Sheetname" value="prism-6"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
-      <sheetpath names="/prism6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
+      <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
       <tstamps>5e4e61f5-19aa-4ac5-9b6c-479aafe5a603</tstamps>
     </comp>
     <comp ref="D1101">
+      <value>D_Zener_47V_1W</value>
+      <footprint>Janelia:D_SMA</footprint>
+      <fields>
+        <field name="LCSC">C475448</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1SMAF4756A</field>
+        <field name="Package">SMAF</field>
+        <field name="Synopsis">DIODE ZENER 47V 1W</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
+      <property name="Manufacturer" value="Shikues"/>
+      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
+      <property name="Package" value="SMAF"/>
+      <property name="LCSC" value="C475448"/>
+      <property name="Sheetname" value="prism-6"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
+      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
+    </comp>
+    <comp ref="D1102">
       <value>D</value>
       <footprint>Janelia:D_SMB</footprint>
       <fields>
@@ -1899,39 +1926,12 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="ES2G-FDICT-ND"/>
       <property name="LCSC" value="C4944961"/>
-      <property name="Sheetname" value="prism6"/>
+      <property name="Sheetname" value="prism-6"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1.25V@2A 60ns null 2A 400V SMB(DO-214AA) Diodes - Fast Recovery Rectifiers ROHS"/>
       <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
+      <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
       <tstamps>11799788-421c-49b0-84f6-65c0a6979930</tstamps>
-    </comp>
-    <comp ref="D1102">
-      <value>D_Zener_47V_1W</value>
-      <footprint>Janelia:D_SMA</footprint>
-      <fields>
-        <field name="LCSC">C475448</field>
-        <field name="Manufacturer">Shikues</field>
-        <field name="Manufacturer Part Number">1SMAF4756A</field>
-        <field name="Package">SMAF</field>
-        <field name="Synopsis">DIODE ZENER 47V 1W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">3372-1SMA4756ATR-ND</field>
-      </fields>
-      <libsource lib="Janelia" part="D_Zener_47V_1W" description="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="Synopsis" value="DIODE ZENER 47V 1W"/>
-      <property name="Manufacturer" value="Shikues"/>
-      <property name="Manufacturer Part Number" value="1SMAF4756A"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="3372-1SMA4756ATR-ND"/>
-      <property name="Package" value="SMAF"/>
-      <property name="LCSC" value="C475448"/>
-      <property name="Sheetname" value="prism6"/>
-      <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="Zener Diode 47 V 1 W ±5% Surface Mount DO-214AC (SMA)"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/prism6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
-      <tstamps>a68aac12-bc61-4f31-8672-244f8d0805b4</tstamps>
     </comp>
     <comp ref="J1101">
       <value>FFC_P1mm_BOT_RA_SMD</value>
@@ -1953,11 +1953,11 @@
       <property name="Vendor" value="JLCPCB"/>
       <property name="Vendor Part Number" value="C2914097"/>
       <property name="LCSC" value="C2914097"/>
-      <property name="Sheetname" value="prism6"/>
+      <property name="Sheetname" value="prism-6"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="Slide Lock -20℃~+85℃ 10P Bottom Contact Surface Mount，Right Angle 1mm SMD,P=1mm,Surface Mount，Right Angle FFC/FPC Connectors ROHS"/>
       <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/prism6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
+      <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
       <tstamps>bfc0ec89-08d5-495e-a565-d852c8a97009</tstamps>
     </comp>
     <comp ref="R1101">
@@ -1980,10 +1980,10 @@
       <property name="Manufacturer" value="FOJAN"/>
       <property name="Manufacturer Part Number" value="FRL2512JR240TS"/>
       <property name="LCSC" value="C2960776"/>
-      <property name="Sheetname" value="prism6"/>
+      <property name="Sheetname" value="prism-6"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="1W Thick Film Resistors 500V ±5% ±200ppm/℃ 240mΩ 2512 Chip Resistor - Surface Mount ROHS"/>
-      <sheetpath names="/prism6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
+      <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
       <tstamps>9ac614d8-8d61-4a71-ade3-771163bd3174</tstamps>
     </comp>
     <comp ref="R1102">
@@ -2006,9 +2006,9 @@
       <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
       <property name="LCSC" value="C25076"/>
-      <property name="Sheetname" value="prism6"/>
+      <property name="Sheetname" value="prism-6"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <sheetpath names="/prism6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
+      <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
       <tstamps>d6866040-62be-4f65-8c5d-e4fde897eca8</tstamps>
     </comp>
     <comp ref="U1101">
@@ -2031,11 +2031,11 @@
       <property name="Vendor Part Number" value="MAX13431EETB+TCT-ND"/>
       <property name="LCSC" value="C2672811"/>
       <property name="Package" value="TDFN-10-EP(3x3)"/>
-      <property name="Sheetname" value="prism6"/>
+      <property name="Sheetname" value="prism-6"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
       <property name="ki_description" value="transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS"/>
       <property name="ki_keywords" value="transceiver"/>
-      <sheetpath names="/prism6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
+      <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
       <tstamps>b4dc50ff-af9b-49a0-b3a3-7a60d27a5455</tstamps>
     </comp>
   </components>
@@ -2288,31 +2288,6 @@
         <field name="Sim.Enable">0</field>
       </fields>
     </libpart>
-    <libpart lib="Janelia" part="Fan_5VDC_25x25x8mm">
-      <description>Fan Tubeaxial 5VDC Square - 25mm L x 25mm H Sintec 1.2 CFM (0.034m³/min) 2 Wire Leads</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>PinHeader*P2.54mm*</fp>
-        <fp>TerminalBlock*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">M</field>
-        <field name="Value">Fan_5VDC_25x25x8mm</field>
-        <field name="Footprint">Janelia:FAN_5VDC_25x25x8mm</field>
-        <field name="Datasheet">~</field>
-        <field name="Synopsis">FAN AXIAL 25X8MM 5VDC WIRE</field>
-        <field name="Manufacturer">ebm-papst Inc.</field>
-        <field name="Manufacturer Part Number">255M</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">381-2353-ND</field>
-        <field name="Sim.Enable">0</field>
-      </fields>
-      <pins>
-        <pin num="1" name="+5V" type="passive"/>
-        <pin num="2" name="GND" type="passive"/>
-        <pin num="3" name="MH" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Janelia" part="MAX13431E">
       <description>transceiver 16Mbps 1/1 TDFN-10-EP(3x3) RS-485/RS-422 ICs ROHS</description>
       <footprints>
@@ -2412,7 +2387,7 @@
       <fields>
         <field name="Reference">A</field>
         <field name="Value">PICO_W5500_EVB</field>
-        <field name="Footprint">Janelia:Pico_Header_Holes</field>
+        <field name="Footprint">Janelia:Pico-W5500-EVB_Header_Holes</field>
         <field name="Sim.Enable">0</field>
       </fields>
       <pins>
@@ -2683,7 +2658,7 @@
       <node ref="U1101" pin="3" pinfunction="DE" pintype="input"/>
     </net>
     <net code="10" name="/ENABLE_VCC">
-      <node ref="Q302" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="Q301" pin="1" pinfunction="G" pintype="input"/>
     </net>
     <net code="11" name="/GND">
       <node ref="C1001" pin="2" pintype="passive"/>
@@ -2704,13 +2679,13 @@
       <node ref="C802" pin="2" pintype="passive"/>
       <node ref="C901" pin="2" pintype="passive"/>
       <node ref="C902" pin="2" pintype="passive"/>
-      <node ref="D1002" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D1102" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D502" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D602" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D702" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D802" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D902" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D1001" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D1101" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D501" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D601" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D701" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D801" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D901" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="J1001" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="J1001" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J1001" pin="7" pinfunction="Pin_7" pintype="passive"/>
@@ -2739,7 +2714,7 @@
       <node ref="J901" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J901" pin="7" pinfunction="Pin_7" pintype="passive"/>
       <node ref="J901" pin="8" pinfunction="Pin_8" pintype="passive"/>
-      <node ref="Q302" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q301" pin="2" pinfunction="S" pintype="passive"/>
       <node ref="T301" pin="2" pinfunction="P2" pintype="passive"/>
       <node ref="U1001" pin="11" pinfunction="EP" pintype="power_in"/>
       <node ref="U1001" pin="6" pinfunction="GND" pintype="power_in"/>
@@ -2777,7 +2752,7 @@
     </net>
     <net code="14" name="/VCC">
       <node ref="C303" pin="1" pintype="passive"/>
-      <node ref="Q301" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q302" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R1001" pin="1" pintype="passive"/>
       <node ref="R1101" pin="1" pintype="passive"/>
       <node ref="R501" pin="1" pintype="passive"/>
@@ -2799,165 +2774,165 @@
       <node ref="C301" pin="1" pintype="passive"/>
       <node ref="C302" pin="1" pintype="passive"/>
       <node ref="D301" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="Q301" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q302" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="R301" pin="1" pintype="passive"/>
       <node ref="U301" pin="2" pinfunction="EN" pintype="input"/>
       <node ref="U301" pin="3" pinfunction="VIN" pintype="power_in"/>
     </net>
     <net code="18" name="/power/~{ENABLE_VCC}">
-      <node ref="Q301" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="Q302" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R301" pin="2" pintype="passive"/>
       <node ref="R302" pin="1" pintype="passive"/>
     </net>
-    <net code="19" name="/prism0/SWN">
+    <net code="19" name="/prism-0/SWN">
       <node ref="J501" pin="10" pinfunction="Pin_10" pintype="passive"/>
       <node ref="R502" pin="2" pintype="passive"/>
       <node ref="U501" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
-    <net code="20" name="/prism0/SWP">
+    <net code="20" name="/prism-0/SWP">
       <node ref="J501" pin="9" pinfunction="Pin_9" pintype="passive"/>
       <node ref="R502" pin="1" pintype="passive"/>
       <node ref="U501" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
-    <net code="21" name="/prism0/VBB">
-      <node ref="D501" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D502" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="21" name="/prism-0/VBB">
+      <node ref="D501" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D502" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R501" pin="2" pintype="passive"/>
     </net>
-    <net code="22" name="/prism0/VCC">
-      <node ref="D501" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="22" name="/prism-0/VCC">
+      <node ref="D502" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J501" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J501" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J501" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J501" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="23" name="/prism1/SWN">
+    <net code="23" name="/prism-1/SWN">
       <node ref="J601" pin="10" pinfunction="Pin_10" pintype="passive"/>
       <node ref="R602" pin="2" pintype="passive"/>
       <node ref="U601" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
-    <net code="24" name="/prism1/SWP">
+    <net code="24" name="/prism-1/SWP">
       <node ref="J601" pin="9" pinfunction="Pin_9" pintype="passive"/>
       <node ref="R602" pin="1" pintype="passive"/>
       <node ref="U601" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
-    <net code="25" name="/prism1/VBB">
-      <node ref="D601" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D602" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="25" name="/prism-1/VBB">
+      <node ref="D601" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D602" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R601" pin="2" pintype="passive"/>
     </net>
-    <net code="26" name="/prism1/VCC">
-      <node ref="D601" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="26" name="/prism-1/VCC">
+      <node ref="D602" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J601" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J601" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J601" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J601" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="27" name="/prism2/SWN">
+    <net code="27" name="/prism-2/SWN">
       <node ref="J701" pin="10" pinfunction="Pin_10" pintype="passive"/>
       <node ref="R702" pin="2" pintype="passive"/>
       <node ref="U701" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
-    <net code="28" name="/prism2/SWP">
+    <net code="28" name="/prism-2/SWP">
       <node ref="J701" pin="9" pinfunction="Pin_9" pintype="passive"/>
       <node ref="R702" pin="1" pintype="passive"/>
       <node ref="U701" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
-    <net code="29" name="/prism2/VBB">
-      <node ref="D701" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D702" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="29" name="/prism-2/VBB">
+      <node ref="D701" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D702" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R701" pin="2" pintype="passive"/>
     </net>
-    <net code="30" name="/prism2/VCC">
-      <node ref="D701" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="30" name="/prism-2/VCC">
+      <node ref="D702" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J701" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J701" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J701" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J701" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="31" name="/prism3/SWN">
+    <net code="31" name="/prism-3/SWN">
       <node ref="J801" pin="10" pinfunction="Pin_10" pintype="passive"/>
       <node ref="R802" pin="2" pintype="passive"/>
       <node ref="U801" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
-    <net code="32" name="/prism3/SWP">
+    <net code="32" name="/prism-3/SWP">
       <node ref="J801" pin="9" pinfunction="Pin_9" pintype="passive"/>
       <node ref="R802" pin="1" pintype="passive"/>
       <node ref="U801" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
-    <net code="33" name="/prism3/VBB">
-      <node ref="D801" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D802" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="33" name="/prism-3/VBB">
+      <node ref="D801" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D802" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R801" pin="2" pintype="passive"/>
     </net>
-    <net code="34" name="/prism3/VCC">
-      <node ref="D801" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="34" name="/prism-3/VCC">
+      <node ref="D802" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J801" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J801" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J801" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J801" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="35" name="/prism4/SWN">
+    <net code="35" name="/prism-4/SWN">
       <node ref="J1001" pin="10" pinfunction="Pin_10" pintype="passive"/>
       <node ref="R1002" pin="2" pintype="passive"/>
       <node ref="U1001" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
-    <net code="36" name="/prism4/SWP">
+    <net code="36" name="/prism-4/SWP">
       <node ref="J1001" pin="9" pinfunction="Pin_9" pintype="passive"/>
       <node ref="R1002" pin="1" pintype="passive"/>
       <node ref="U1001" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
-    <net code="37" name="/prism4/VBB">
-      <node ref="D1001" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D1002" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="37" name="/prism-4/VBB">
+      <node ref="D1001" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D1002" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R1001" pin="2" pintype="passive"/>
     </net>
-    <net code="38" name="/prism4/VCC">
-      <node ref="D1001" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="38" name="/prism-4/VCC">
+      <node ref="D1002" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J1001" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J1001" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J1001" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J1001" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="39" name="/prism5/SWN">
+    <net code="39" name="/prism-5/SWN">
       <node ref="J901" pin="10" pinfunction="Pin_10" pintype="passive"/>
       <node ref="R902" pin="2" pintype="passive"/>
       <node ref="U901" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
-    <net code="40" name="/prism5/SWP">
+    <net code="40" name="/prism-5/SWP">
       <node ref="J901" pin="9" pinfunction="Pin_9" pintype="passive"/>
       <node ref="R902" pin="1" pintype="passive"/>
       <node ref="U901" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
-    <net code="41" name="/prism5/VBB">
-      <node ref="D901" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D902" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="41" name="/prism-5/VBB">
+      <node ref="D901" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D902" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R901" pin="2" pintype="passive"/>
     </net>
-    <net code="42" name="/prism5/VCC">
-      <node ref="D901" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="42" name="/prism-5/VCC">
+      <node ref="D902" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J901" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J901" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J901" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J901" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="43" name="/prism6/SWN">
+    <net code="43" name="/prism-6/SWN">
       <node ref="J1101" pin="10" pinfunction="Pin_10" pintype="passive"/>
       <node ref="R1102" pin="2" pintype="passive"/>
       <node ref="U1101" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
-    <net code="44" name="/prism6/SWP">
+    <net code="44" name="/prism-6/SWP">
       <node ref="J1101" pin="9" pinfunction="Pin_9" pintype="passive"/>
       <node ref="R1102" pin="1" pintype="passive"/>
       <node ref="U1101" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
-    <net code="45" name="/prism6/VBB">
-      <node ref="D1101" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D1102" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="45" name="/prism-6/VBB">
+      <node ref="D1101" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D1102" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R1101" pin="2" pintype="passive"/>
     </net>
-    <net code="46" name="/prism6/VCC">
-      <node ref="D1101" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="46" name="/prism-6/VCC">
+      <node ref="D1102" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J1101" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J1101" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J1101" pin="3" pinfunction="Pin_3" pintype="passive"/>
@@ -2984,8 +2959,8 @@
     <net code="53" name="/~{ENABLE_RX_6}">
       <node ref="U1101" pin="4" pinfunction="~{RE}" pintype="input"/>
     </net>
-    <net code="54" name="Net-(Q302-D)">
-      <node ref="Q302" pin="3" pinfunction="D" pintype="passive"/>
+    <net code="54" name="Net-(Q301-D)">
+      <node ref="Q301" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="R302" pin="2" pintype="passive"/>
     </net>
     <net code="75" name="unconnected-(U301-BOOT-Pad7)">
