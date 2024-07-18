@@ -99,7 +99,7 @@
     "version": 2
   },
   "pcb_display": {
-    "active_layer_preset": "",
+    "active_layer_preset": "All Layers",
     "layer_presets": []
   },
   "printing": {

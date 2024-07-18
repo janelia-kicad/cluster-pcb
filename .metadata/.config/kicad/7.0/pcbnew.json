@@ -36,7 +36,7 @@
   },
   "drc_dialog": {
     "refill_zones": true,
-    "severities": 24,
+    "severities": 16,
     "test_all_track_errors": false,
     "test_footprints": false
   },
@@ -390,7 +390,7 @@
       "axes_enabled": false,
       "fast_grid_1": 4,
       "fast_grid_2": 5,
-      "last_size": 14,
+      "last_size": 15,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "show": true,
