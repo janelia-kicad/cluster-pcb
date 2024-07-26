@@ -36,7 +36,7 @@
   },
   "drc_dialog": {
     "refill_zones": true,
-    "severities": 16,
+    "severities": 24,
     "test_all_track_errors": false,
     "test_footprints": false
   },
@@ -344,7 +344,7 @@
     "first_run_shown": false,
     "last_footprint3d_dir": "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes",
     "last_footprint_lib_dir": "/home/polidorop/Downloads/BUK7D36_60EX/KiCADv6/footprints.pretty",
-    "last_imperial_units": 5,
+    "last_imperial_units": 0,
     "last_metric_units": 1,
     "max_undo_items": 0,
     "units": 1
@@ -390,7 +390,7 @@
       "axes_enabled": false,
       "fast_grid_1": 4,
       "fast_grid_2": 5,
-      "last_size": 15,
+      "last_size": 13,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "show": true,

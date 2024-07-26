@@ -509,11 +509,11 @@
         "pattern": "/+5V"
       },
       {
-        "netclass": "Super Power",
+        "netclass": "Power",
         "pattern": "/GND"
       },
       {
-        "netclass": "High Current",
+        "netclass": "Power",
         "pattern": "/power/VAA"
       },
       {
@@ -529,7 +529,7 @@
         "pattern": "/ENABLE_VCC"
       },
       {
-        "netclass": "Power",
+        "netclass": "Super Power",
         "pattern": "*VSYS"
       },
       {
@@ -537,7 +537,7 @@
         "pattern": "/power/VBB"
       },
       {
-        "netclass": "High Current",
+        "netclass": "Power",
         "pattern": "/VCC"
       },
       {
