@@ -1,15 +1,15 @@
-- [Repository Info](#orgd2e345b)
-- [Images](#org8d33abc)
-- [Schematic](#org9c3ef99)
-- [PCB](#orgb497dfe)
-- [Bill of Materials](#org9a331e0)
-- [Development](#orgdf3c571)
+- [Repository Info](#org08f72e3)
+- [Images](#org893f6f0)
+- [Schematic](#org535f482)
+- [PCB](#orgb02c874)
+- [Bill of Materials](#org4aa7bee)
+- [Development](#orgad2bc16)
 
     <!-- This file is generated automatically from metadata -->
     <!-- File edits may be overwritten! -->
 
 
-<a id="orgd2e345b"></a>
+<a id="org08f72e3"></a>
 
 # Repository Info
 
@@ -19,7 +19,7 @@
 -   Pcb Version: 1.0
 -   Enclosure Version: 1.0
 -   Supplemental BOM Version: 1.0
--   Release Date: 2024-07-18
+-   Release Date: 2024-07-26
 -   Creation Date: 2024-06-28
 -   Kicad Version: 7.0.11
 -   License: BSD-3-Clause
@@ -34,22 +34,68 @@
 ![img](./documentation/pcb/pcb.png)
 
 
-<a id="org8d33abc"></a>
+<a id="org893f6f0"></a>
 
 # Images
 
+<img src="./documentation/pcb/top.png" width="1920">
 
-<a id="org9c3ef99"></a>
+<img src="./documentation/pcb/bottom.png" width="1920">
+
+<img src="./documentation/pcb/front.png" width="1920">
+
+<img src="./documentation/pcb/back.png" width="1920">
+
+<img src="./documentation/pcb/left.png" width="1920">
+
+<img src="./documentation/pcb/right.png" width="1920">
+
+
+<a id="org535f482"></a>
 
 # Schematic
 
+[./documentation/schematic/cluster-pcb.pdf](./documentation/schematic/cluster-pcb.pdf)
 
-<a id="orgb497dfe"></a>
+<img src="./documentation/schematic/cluster-pcb.svg" width="1920">
+
+<img src="./documentation/schematic/cluster-pcb-assembly.svg" width="1920">
+
+<img src="./documentation/schematic/cluster-pcb-power.svg" width="1920">
+
+<img src="./documentation/schematic/cluster-pcb-microcontroller.svg" width="1920">
+
+<img src="./documentation/schematic/cluster-pcb-prism-0.svg" width="1920">
+
+<img src="./documentation/schematic/cluster-pcb-prism-1.svg" width="1920">
+
+<img src="./documentation/schematic/cluster-pcb-prism-2.svg" width="1920">
+
+<img src="./documentation/schematic/cluster-pcb-prism-3.svg" width="1920">
+
+<img src="./documentation/schematic/cluster-pcb-prism-5.svg" width="1920">
+
+<img src="./documentation/schematic/cluster-pcb-prism-4.svg" width="1920">
+
+<img src="./documentation/schematic/cluster-pcb-prism-6.svg" width="1920">
+
+
+<a id="orgb02c874"></a>
 
 # PCB
 
+<img src="./documentation/pcb/cluster-pcb-User_Drawings.svg" width="1920">
 
-<a id="org9a331e0"></a>
+<img src="./documentation/pcb/cluster-pcb-F_Silkscreen.svg" width="1920">
+
+<img src="./documentation/pcb/cluster-pcb-B_Silkscreen.svg" width="1920">
+
+<img src="./documentation/pcb/cluster-pcb-F_Fab.svg" width="1920">
+
+<img src="./documentation/pcb/cluster-pcb-B_Fab.svg" width="1920">
+
+
+<a id="org4aa7bee"></a>
 
 # Bill of Materials
 
@@ -84,11 +130,10 @@
 |---- |------------------------------- |------------------------ |--------------- |-------- |----- |----- |
 | 1    | TERM BLOCK PLUG 2POS STR 5.08MM | 1758364                  | Phoenix Contact | 1        | 1.63  | 1.63  |
 | 2    | W5100S-EVB-PICO RP2040 W5100S   | W5100S-EVB-PICO          | WIZnet          | 1        | 9.95  | 9.95  |
-| 3    | FAN AXIAL 25X8MM 5VDC WIRE      | 255M                     | ebm-papst Inc.  | 1        | 33.47 | 33.47 |
-|      | Supplemental BOM Version: 1.0   |                          |                 |          | Total | 45.05 |
+|      | Supplemental BOM Version: 1.0   |                          |                 |          | Total | 11.58 |
 
 
-<a id="orgdf3c571"></a>
+<a id="orgad2bc16"></a>
 
 # Development
 
@@ -105,7 +150,7 @@
 
 1.  3D Viewer
 
-    Output directory: ../documentation/fabrication/gerbers
+    Output directory: ../documentation/pcb
     
     -   pcb.png
     -   top.png
@@ -125,6 +170,8 @@
     
     Output directory: ../documentation/schematic
     
+    Plot All Pages
+    
     -   Output format PDF
     -   Page Size = Schematic size
     -   Plot drawing sheet
@@ -137,6 +184,8 @@
     File -> Plot
     
     Output directory: ../documentation/schematic
+    
+    Plot All Pages
     
     -   Output format SVG
     -   Page Size = Schematic size
@@ -171,75 +220,88 @@
         make cropped-svg
 
 
-### Gerber Files
+### Fabrication Files
 
-File -> Fabrication Outputs -> Gerbers (.gbr)
+1.  Gerbers
 
-Output directory: ../documentation/fabrication/gerbers
+    File -> Fabrication Outputs -> Gerbers (.gbr)
+    
+    Output directory: ../documentation/fabrication/gerbers
+    
+    Include Layers:
+    
+    -   F.Cu
+    -   F.Paste
+    -   F.Silks
+    -   F.Mask
+    -   F.Fab
+    -   B.Cu
+    -   B.Paste
+    -   B.Silks
+    -   B.Mask
+    -   B.Fab
+    -   Edge.Cuts - (contain the board outline/cutouts.)
+    -   In1.Cu, In2.Cu … - (needed for 4/6 layer designs.)
+    
+    Options:
+    
+    -   Select Plot reference designators, otherwise designators will not appear on silkscreen layers.
+    -   Select Check zone fills before plotting
+    -   Select Use Protel filename extensions, this is recommended as JLCPCB prefers Protel filename extensions.
+    -   Select Subtract soldermask from silkscreen, this ensures no silkscreen on pads.
+    -   Coordinate format 4.6 unit mm
 
-Include Layers:
+2.  Drill and Map Files
 
--   F.Cu
--   F.Paste
--   F.Silks
--   F.Mask
--   B.Cu
--   B.Paste
--   B.Silks
--   B.Mask
--   Edge.Cuts - (contain the board outline/cutouts.)
--   In1.Cu, In2.Cu … - (needed for 4/6 layer designs.)
+    Output directory: ../documentation/fabrication/gerbers
+    
+    Options:
+    
+    -   Excellon drill file format
+    -   Check Use alternate drill mode for "Oval Holes Drill Mode".
+    -   Check Absolute for "Drill Origin".
+    -   Check Millimeters for "Drill Units".
+    -   Check Decimal format for "Zeros Format".
+    -   Gerber X2 map file format
+    
+    Zip gerber files
+    
+        zip gerbers.zip gerbers/*
 
-Options:
+3.  BOM
 
--   Select Plot reference designators, otherwise designators will not appear on silkscreen layers.
--   Select Check zone fills before plotting
--   Select Use Protel filename extensions, this is recommended as JLCPCB prefers Protel filename extensions.
--   Select Subtract soldermask from silkscreen, this ensures no silkscreen on pads.
--   Coordinate format 4.6 unit mm
+    Generate BOM from schematic editor using blank command line to create bom xml file.
 
+4.  POS
 
-### Drill and Map Files
+    File -> Fabrication Outputs -> Component Placement (.pos)
+    
+    Output directory: ../documentation/fabrication/
+    
+    Settings:
+    
+    -   Format = CSV
+    -   Units = Millimeters
+    -   Files = Single file for board
+    -   Do not use drill/place file origin
+    
+    Modify pos files:
+    
+    -   Ref -> Designator
+    -   PosX -> Mid X
+    -   PosY -> Mid Y
+    -   Rot -> Rotation
+    -   Side -> Layer
 
-Options:
+5.  Step
 
--   Excellon drill file format
--   Check Use alternate drill mode for "Oval Holes Drill Mode".
--   Check Absolute for "Drill Origin".
--   Check Millimeters for "Drill Units".
--   Check Decimal format for "Zeros Format".
--   Gerber X2 map file format
-
-Zip gerber files
-
-    zip gerbers.zip gerbers/*
-
-
-### BOM
-
-Generate BOM from schematic editor using blank command line to create bom xml file.
-
-
-### POS
-
-File -> Fabrication Outputs -> Component Placement (.pos)
-
-Output directory: ../documentation/fabrication/
-
-Settings:
-
--   Format = CSV
--   Units = Millimeters
--   Files = Single file for board
--   Do not use drill/place file origin
-
-Modify pos files:
-
--   Ref -> Designator
--   PosX -> Mid X
--   PosY -> Mid Y
--   Rot -> Rotation
--   Side -> Layer
+    File -> Export -> Step
+    
+    Output directory: ../documentation/3dmodels/pcb.step
+    
+    -   Drill/place file origin
+    -   Overwrite old file
+    -   Standard Board outline chaining tolerance
 
 
 ## Edit metadata.org
