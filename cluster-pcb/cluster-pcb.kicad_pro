@@ -568,7 +568,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../documentation/3dmodels/cluster-pcb.step",
+      "step": "../documentation/3dmodels/pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
