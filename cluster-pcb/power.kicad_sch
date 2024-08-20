@@ -6,8 +6,8 @@
 
   (title_block
     (title "cluster-pcb")
-    (date "2024-07-26")
-    (rev "1.0")
+    (date "2024-08-19")
+    (rev "1.1")
     (company "Howard Hughes Medical Institute")
   )
 
@@ -1190,7 +1190,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 2109aece-2a5d-42ba-aca6-90aff99b7aeb)
   )
-  (label "VCC" (at 187.96 57.15 180) (fields_autoplaced)
+  (label "VDD" (at 187.96 57.15 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 2945bfa8-6c04-4403-95d5-516a6e275baa)
   )
@@ -1226,7 +1226,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 77a56985-a783-4e66-a945-58cb0b94d5db)
   )
-  (label "VCC" (at 167.64 53.34 90) (fields_autoplaced)
+  (label "VDD" (at 167.64 53.34 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 79391728-e8cd-4cdd-982b-6008d76eb57a)
   )
@@ -1242,7 +1242,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid a59804e3-c34f-4405-b731-e15a8799418c)
   )
-  (label "VCC" (at 187.96 74.93 180) (fields_autoplaced)
+  (label "VDD" (at 187.96 74.93 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid ab1f5a9c-e0bd-493f-89d1-190f726f5e94)
   )
