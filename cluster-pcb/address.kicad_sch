@@ -6,7 +6,7 @@
 
   (title_block
     (title "cluster-pcb")
-    (date "2024-09-10")
+    (date "2024-09-12")
     (rev "1.2")
     (company "Howard Hughes Medical Institute")
   )
@@ -963,7 +963,7 @@
   (symbol (lib_id "Janelia:R_10.0k_0402") (at 128.27 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 213e7886-7df7-41c2-b681-8b9d704d4560)
-    (property "Reference" "R1202" (at 129.54 128.27 0)
+    (property "Reference" "R1203" (at 129.54 128.27 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10.0k" (at 128.4478 128.2446 90) (do_not_autoplace)
@@ -1001,7 +1001,7 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/4efcb6a8-711f-428b-9f4e-1f72ad1e6234"
-          (reference "R1202") (unit 1)
+          (reference "R1203") (unit 1)
         )
       )
     )
@@ -1010,7 +1010,7 @@
   (symbol (lib_id "Janelia:R_10.0k_0402") (at 55.88 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d42e113-eb99-4f14-965c-a407bad6777d)
-    (property "Reference" "R1209" (at 57.15 90.17 0)
+    (property "Reference" "R1201" (at 57.15 90.17 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10.0k" (at 56.0578 90.1446 90) (do_not_autoplace)
@@ -1048,7 +1048,7 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/4efcb6a8-711f-428b-9f4e-1f72ad1e6234"
-          (reference "R1209") (unit 1)
+          (reference "R1201") (unit 1)
         )
       )
     )
@@ -1119,7 +1119,7 @@
   (symbol (lib_id "Janelia:R_10.0k_0402") (at 172.72 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 58004334-346b-4bbf-8e12-6eec58752bd1)
-    (property "Reference" "R1207" (at 173.99 128.27 0)
+    (property "Reference" "R1208" (at 173.99 128.27 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10.0k" (at 172.8978 128.2446 90) (do_not_autoplace)
@@ -1157,7 +1157,7 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/4efcb6a8-711f-428b-9f4e-1f72ad1e6234"
-          (reference "R1207") (unit 1)
+          (reference "R1208") (unit 1)
         )
       )
     )
@@ -1166,7 +1166,7 @@
   (symbol (lib_id "Janelia:R_10.0k_0402") (at 137.16 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 66bf83d1-a52c-4c33-8517-f5b4484417c1)
-    (property "Reference" "R1203" (at 138.43 128.27 0)
+    (property "Reference" "R1204" (at 138.43 128.27 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10.0k" (at 137.3378 128.2446 90) (do_not_autoplace)
@@ -1204,7 +1204,7 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/4efcb6a8-711f-428b-9f4e-1f72ad1e6234"
-          (reference "R1203") (unit 1)
+          (reference "R1204") (unit 1)
         )
       )
     )
@@ -1274,7 +1274,7 @@
   (symbol (lib_id "Janelia:R_10.0k_0402") (at 154.94 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 88811d7f-e00c-45b3-859e-8fe0c6cea50d)
-    (property "Reference" "R1205" (at 156.21 128.27 0)
+    (property "Reference" "R1206" (at 156.21 128.27 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10.0k" (at 155.1178 128.2446 90) (do_not_autoplace)
@@ -1312,7 +1312,7 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/4efcb6a8-711f-428b-9f4e-1f72ad1e6234"
-          (reference "R1205") (unit 1)
+          (reference "R1206") (unit 1)
         )
       )
     )
@@ -1321,7 +1321,7 @@
   (symbol (lib_id "Janelia:R_10.0k_0402") (at 181.61 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8a33d3b4-dbad-4e49-912b-af7d80202263)
-    (property "Reference" "R1208" (at 182.88 128.27 0)
+    (property "Reference" "R1209" (at 182.88 128.27 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10.0k" (at 181.7878 128.2446 90) (do_not_autoplace)
@@ -1359,7 +1359,7 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/4efcb6a8-711f-428b-9f4e-1f72ad1e6234"
-          (reference "R1208") (unit 1)
+          (reference "R1209") (unit 1)
         )
       )
     )
@@ -1462,7 +1462,7 @@
   (symbol (lib_id "Janelia:R_10.0k_0402") (at 146.05 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a754995f-f312-4b26-94e9-06ac98cc22e2)
-    (property "Reference" "R1204" (at 147.32 128.27 0)
+    (property "Reference" "R1205" (at 147.32 128.27 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10.0k" (at 146.2278 128.2446 90) (do_not_autoplace)
@@ -1500,7 +1500,7 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/4efcb6a8-711f-428b-9f4e-1f72ad1e6234"
-          (reference "R1204") (unit 1)
+          (reference "R1205") (unit 1)
         )
       )
     )
@@ -1509,7 +1509,7 @@
   (symbol (lib_id "Janelia:R_10.0k_0402") (at 163.83 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea711c0f-96d7-4202-bdec-779840b43af6)
-    (property "Reference" "R1206" (at 165.1 128.27 0)
+    (property "Reference" "R1207" (at 165.1 128.27 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10.0k" (at 164.0078 128.2446 90) (do_not_autoplace)
@@ -1547,7 +1547,7 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/4efcb6a8-711f-428b-9f4e-1f72ad1e6234"
-          (reference "R1206") (unit 1)
+          (reference "R1207") (unit 1)
         )
       )
     )
@@ -1556,7 +1556,7 @@
   (symbol (lib_id "Janelia:R_10.0k_0402") (at 119.38 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fd76aeca-8b05-4d33-8a84-ea1bcaa3bf4d)
-    (property "Reference" "R1201" (at 120.65 128.27 0)
+    (property "Reference" "R1202" (at 120.65 128.27 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10.0k" (at 119.5578 128.2446 90) (do_not_autoplace)
@@ -1594,7 +1594,7 @@
     (instances
       (project "cluster-pcb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/4efcb6a8-711f-428b-9f4e-1f72ad1e6234"
-          (reference "R1201") (unit 1)
+          (reference "R1202") (unit 1)
         )
       )
     )

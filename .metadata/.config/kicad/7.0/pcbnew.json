@@ -164,7 +164,7 @@
     "pos_y": 269,
     "size_x": 1280,
     "size_y": 720,
-    "zoom": 1.6112764462439917,
+    "zoom": 7.089196119660978,
     "zoom_factors": []
   },
   "footprint_wizard": {
@@ -250,7 +250,7 @@
   },
   "lib_tree": {
     "column_widths": {
-      "Description": 686,
+      "Description": 688,
       "Item": 687
     },
     "columns": [
