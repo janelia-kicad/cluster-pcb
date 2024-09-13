@@ -6,7 +6,7 @@
 
   (title_block
     (title "cluster-pcb")
-    (date "2024-09-12")
+    (date "2024-09-13")
     (rev "1.2")
     (company "Howard Hughes Medical Institute")
   )
@@ -202,10 +202,6 @@
           (stroke (width 0.127) (type default))
           (fill (type none))
         )
-        (pin power_out line (at 0 -26.67 90) (length 5.08)
-          (name "VSS" (effects (font (size 1.27 1.27))))
-          (number "27" (effects (font (size 1.27 1.27))))
-        )
       )
       (symbol "Multiplexer_2chan_8to1_MUX507IDWR_1_0"
         (pin passive line (at 17.78 -11.43 180) (length 5.08)
@@ -285,6 +281,10 @@
         (pin passive line (at 17.78 -16.51 180) (length 5.08)
           (name "S8A" (effects (font (size 1.27 1.27))))
           (number "26" (effects (font (size 1.27 1.27))))
+        )
+        (pin power_in line (at 0 -26.67 90) (length 5.08)
+          (name "VSS" (effects (font (size 1.27 1.27))))
+          (number "27" (effects (font (size 1.27 1.27))))
         )
         (pin passive line (at -17.78 1.27 0) (length 5.08)
           (name "DA" (effects (font (size 1.27 1.27))))
