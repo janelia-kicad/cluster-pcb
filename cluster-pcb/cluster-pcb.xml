@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/polidorop/Repositories/kicad/cluster-pcb/cluster-pcb/cluster-pcb.kicad_sch</source>
-    <date>Fri 13 Sep 2024 03:08:13 PM EDT</date>
+    <date>Fri 13 Sep 2024 03:45:55 PM EDT</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -2525,11 +2525,27 @@
     </comp>
     <comp ref="U1301">
       <value>MUX507</value>
-      <footprint>DW28_TEX</footprint>
-      <datasheet>MUX507IDWR</datasheet>
-      <libsource lib="Janelia" part="Multiplexer_2chan_8to1_MUX507IDWR" description=""/>
+      <footprint>Janelia:DW28_TEX</footprint>
+      <fields>
+        <field name="LCSC">C193367</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">MUX507IDWR</field>
+        <field name="Package">SOIC-28-300mil</field>
+        <field name="Synopsis">IC MUX DUAL 8:1 200OHM</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">296-47545-1-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="Multiplexer_2chan_8to1_MUX507IDWR" description="2 200Ω SOIC-28-300mil Analog Switches, Multiplexers ROHS"/>
+      <property name="Synopsis" value="IC MUX DUAL 8:1 200OHM"/>
+      <property name="Package" value="SOIC-28-300mil"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="MUX507IDWR"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="296-47545-1-ND"/>
+      <property name="LCSC" value="C193367"/>
       <property name="Sheetname" value="multiplexer"/>
       <property name="Sheetfile" value="multiplexer.kicad_sch"/>
+      <property name="ki_description" value="2 200Ω SOIC-28-300mil Analog Switches, Multiplexers ROHS"/>
       <property name="ki_keywords" value="MUX507IDWR"/>
       <sheetpath names="/multiplexer/" tstamps="/6263f048-a0b9-4a20-a0ec-2762a3a0da32/"/>
       <tstamps>674e4caa-78a3-4160-a334-16221408fe04</tstamps>
@@ -3143,7 +3159,7 @@
       </pins>
     </libpart>
     <libpart lib="Janelia" part="Multiplexer_2chan_8to1_MUX507IDWR">
-      <docs>MUX507IDWR</docs>
+      <description>2 200Ω SOIC-28-300mil Analog Switches, Multiplexers ROHS</description>
       <footprints>
         <fp>DW28_TEX</fp>
         <fp>DW28_TEX-M</fp>
@@ -3152,8 +3168,14 @@
       <fields>
         <field name="Reference">U</field>
         <field name="Value">MUX507</field>
-        <field name="Footprint">DW28_TEX</field>
-        <field name="Datasheet">MUX507IDWR</field>
+        <field name="Footprint">Janelia:DW28_TEX</field>
+        <field name="Synopsis">IC MUX DUAL 8:1 200OHM</field>
+        <field name="Package">SOIC-28-300mil</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">MUX507IDWR</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">296-47545-1-ND</field>
+        <field name="LCSC">C193367</field>
       </fields>
       <pins>
         <pin num="1" name="VDD" type="power_in"/>

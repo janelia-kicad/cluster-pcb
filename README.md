@@ -1,15 +1,15 @@
-- [Repository Info](#org6eba98a)
-- [Images](#org7e658c2)
-- [Schematic](#org5c33669)
-- [PCB](#org2031064)
-- [Bill of Materials](#orgd3ccab1)
-- [Development](#org4b06038)
+- [Repository Info](#orgf4c35d5)
+- [Images](#org467ed44)
+- [Schematic](#orgb1fcd42)
+- [PCB](#org53c0083)
+- [Bill of Materials](#org2275c22)
+- [Development](#orgf7e648f)
 
     <!-- This file is generated automatically from metadata -->
     <!-- File edits may be overwritten! -->
 
 
-<a id="org6eba98a"></a>
+<a id="orgf4c35d5"></a>
 
 # Repository Info
 
@@ -34,7 +34,7 @@
 ![img](./documentation/pcb/pcb.png)
 
 
-<a id="org7e658c2"></a>
+<a id="org467ed44"></a>
 
 # Images
 
@@ -51,7 +51,7 @@
 <img src="./documentation/pcb/right.png" width="1920">
 
 
-<a id="org5c33669"></a>
+<a id="orgb1fcd42"></a>
 
 # Schematic
 
@@ -86,7 +86,7 @@
 <img src="./documentation/schematic/cluster-pcb-audio.svg" width="1920">
 
 
-<a id="org2031064"></a>
+<a id="org53c0083"></a>
 
 # PCB
 
@@ -101,7 +101,7 @@
 <img src="./documentation/pcb/cluster-pcb-B_Fab.svg" width="1920">
 
 
-<a id="orgd3ccab1"></a>
+<a id="org2275c22"></a>
 
 # Bill of Materials
 
@@ -132,8 +132,9 @@
 | 20   | DC-DC 5V 600mA Output 3-65V Input         | TPSM365R6V5RDNR          | Texas Instruments                    | 1        | U301                                                        | QFN-11(3.5x4.5)    |
 | 21   | IC TRANSCEIVER HALF 1/1                   | MAX13431EETB+T           | Analog Devices Inc./Maxim Integrated | 7        | U501 U601 U701 U801 U901 U1001 U1101                        | TDFN-10-EP(3x3)    |
 | 22   | IC XPNDR 400KHZ I2C SMBUS                 | TCA6408ARGTR             | Texas Instruments                    | 1        | U1201                                                       | QFN-16-EP(3x3)     |
-| 23   | IC AMP CLASS AB MONO 1.7W                 | TPA6204A1DRBR            | Texas Instruments                    | 1        | U1401                                                       | QFN-8-EP(3x3)      |
-|      | IC PWR DRIVER N-CHAN 1:1                  |                          | Texas Instruments                    | 8        | U502 U602 U702 U802 U902 U1002 U1102 U1301                  | EMSOP-8-EP         |
+| 23   | IC MUX DUAL 8:1 200OHM                    | MUX507IDWR               | Texas Instruments                    | 1        | U1301                                                       | SOIC-28-300mil     |
+| 24   | IC AMP CLASS AB MONO 1.7W                 | TPA6204A1DRBR            | Texas Instruments                    | 1        | U1401                                                       | QFN-8-EP(3x3)      |
+|      | IC PWR DRIVER N-CHAN 1:1                  |                          | Texas Instruments                    | 7        | U502 U602 U702 U802 U902 U1002 U1102                        | EMSOP-8-EP         |
 
 
 ## Supplemental
@@ -146,7 +147,7 @@
 | 4    | Supplemental BOM Version: 1.2   |                          |                 |          | Total | 15.35 |
 
 
-<a id="org4b06038"></a>
+<a id="orgf7e648f"></a>
 
 # Development
 
