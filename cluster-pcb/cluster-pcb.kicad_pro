@@ -421,8 +421,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
-        "via_diameter": 0.75,
-        "via_drill": 0.25,
+        "via_diameter": 0.4,
+        "via_drill": 0.2,
         "wire_width": 6
       },
       {
@@ -513,15 +513,15 @@
         "pattern": "/GND"
       },
       {
-        "netclass": "Power",
+        "netclass": "High Current",
         "pattern": "/power/VAA"
       },
       {
-        "netclass": "High Current",
+        "netclass": "Super Power",
         "pattern": "/prism*/VBB"
       },
       {
-        "netclass": "Super Power",
+        "netclass": "High Current",
         "pattern": "/prism*/VCC"
       },
       {
@@ -546,11 +546,11 @@
       },
       {
         "netclass": "Signal",
-        "pattern": "/RX"
+        "pattern": "/RX*"
       },
       {
         "netclass": "Signal",
-        "pattern": "/TX"
+        "pattern": "/TX*"
       },
       {
         "netclass": "Signal",
@@ -559,6 +559,14 @@
       {
         "netclass": "Signal",
         "pattern": "/prism*/SWN"
+      },
+      {
+        "netclass": "Super Power",
+        "pattern": "/VAA"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/MUX*"
       }
     ]
   },
