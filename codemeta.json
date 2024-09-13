@@ -4,9 +4,9 @@
     "license": "https://spdx.org/licenses/BSD-3-Clause",
     "codeRepository": "https://github.com/janelia-kicad/cluster-pcb",
     "dateCreated": "2024-06-28",
-    "dateModified": "2024-08-26",
+    "dateModified": "2024-09-13",
     "name": "cluster-pcb",
-    "version": "1.1",
+    "version": "1.2",
     "description": "PCB for each cluster of prisms in the Voigts Lab honeycomb maze.",
     "programmingLanguage": [
         "KiCad"

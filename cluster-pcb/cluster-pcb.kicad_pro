@@ -575,7 +575,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "cluster-pcb.dsn",
       "step": "../documentation/3dmodels/pcb.step",
       "vrml": ""
     },
