@@ -5,8 +5,8 @@
 - Documentation Version: 1.2.0
 - Pcb Version: 1.2
 - Enclosure Version: 1.0
-- Supplemental BOM Version: 1.2
-- Release Date: 2024-09-13
+- Supplemental BOM Version: 1.2.1
+- Release Date: 2024-09-16
 - Creation Date: 2024-06-28
 - Kicad Version: 7.0.11
 - License: BSD-3-Clause

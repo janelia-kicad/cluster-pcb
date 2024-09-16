@@ -36,7 +36,7 @@ cluster-pcb
 
 #+NAME: supplemental-bom-version
 #+BEGIN_SRC text :exports none :noweb yes
-1.2
+1.2.1
 #+END_SRC
 
 #+NAME: synopsis
@@ -231,11 +231,15 @@ Hello $addressee
 #+BEGIN_SRC org :noweb yes
 | Item | Synopsis                                               | Manufacturer Part Number | Manufacturer    | Quantity |  Cost | Total |
 |------+--------------------------------------------------------+--------------------------+-----------------+----------+-------+-------|
-|    1 | TERM BLOCK PLUG 4POS STR 3.5MM                         | 277-2418-ND              | Phoenix Contact |        1 |  3.77 |  3.77 |
-|    2 | TERM BLOCK PLUG 2POS STR 5.08MM                        | 1758364                  | Phoenix Contact |        1 |  1.63 |  1.63 |
-|    3 | W5100S-EVB-PICO RP2040 W5100S                          | W5100S-EVB-PICO          | WIZnet          |        1 |  9.95 |  9.95 |
+|    1 | TERM BLOCK PLUG 2POS STR 5.08MM                        |                  1758364 | Phoenix Contact |        1 |  1.63 |  1.63 |
+|    2 | CONN FERRULE DIN 16AWG BLACK                           |                  3200043 | Phoenix Contact |        4 |  0.14 |  0.56 |
+|    3 | POWER CABLE BULK SJT 16/3                              |                    H-137 | GlobTek, Inc.   |        1 |  2.40 |  2.40 |
+|    4 | TERM BLOCK PLUG 4POS STR 3.5MM                         |              277-2418-ND | Phoenix Contact |        7 |  3.77 | 26.39 |
+|    5 | CONN FERRULE 24AWG YELLOW                              |                  3203024 | Phoenix Contact |       14 |  0.36 |  5.04 |
+|    6 | CONN FERRULE DIN 18AWG GRAY                            |                  3200519 | Phoenix Contact |       14 |  0.23 |  3.22 |
+|    7 | W5100S-EVB-PICO RP2040 W5100S                          |          W5100S-EVB-PICO | WIZnet          |        1 |  9.95 |  9.95 |
 |------+--------------------------------------------------------+--------------------------+-----------------+----------+-------+-------|
-|    4 | Supplemental BOM Version: <<supplemental-bom-version>> |                          |                 |          | Total | 15.35 |
+|    8 | Supplemental BOM Version: <<supplemental-bom-version>> |                          |                 |          | Total | 49.19 |
 ,#+TBLFM: $1=@#-1::$7=$5*$6;%0.2f::@>$7=vsum(@2..@-1);%0.2f
 #+END_SRC
 

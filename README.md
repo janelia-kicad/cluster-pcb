@@ -1,15 +1,15 @@
-- [Repository Info](#orgf4c35d5)
-- [Images](#org467ed44)
-- [Schematic](#orgb1fcd42)
-- [PCB](#org53c0083)
-- [Bill of Materials](#org2275c22)
-- [Development](#orgf7e648f)
+- [Repository Info](#org0d72d40)
+- [Images](#org33fa26f)
+- [Schematic](#org649f77f)
+- [PCB](#org191712e)
+- [Bill of Materials](#orge23c06e)
+- [Development](#org722ebcb)
 
     <!-- This file is generated automatically from metadata -->
     <!-- File edits may be overwritten! -->
 
 
-<a id="orgf4c35d5"></a>
+<a id="org0d72d40"></a>
 
 # Repository Info
 
@@ -18,8 +18,8 @@
 -   Documentation Version: 1.2.0
 -   Pcb Version: 1.2
 -   Enclosure Version: 1.0
--   Supplemental BOM Version: 1.2
--   Release Date: 2024-09-13
+-   Supplemental BOM Version: 1.2.1
+-   Release Date: 2024-09-16
 -   Creation Date: 2024-06-28
 -   Kicad Version: 7.0.11
 -   License: BSD-3-Clause
@@ -34,7 +34,7 @@
 ![img](./documentation/pcb/pcb.png)
 
 
-<a id="org467ed44"></a>
+<a id="org33fa26f"></a>
 
 # Images
 
@@ -51,7 +51,7 @@
 <img src="./documentation/pcb/right.png" width="1920">
 
 
-<a id="orgb1fcd42"></a>
+<a id="org649f77f"></a>
 
 # Schematic
 
@@ -86,7 +86,7 @@
 <img src="./documentation/schematic/cluster-pcb-audio.svg" width="1920">
 
 
-<a id="org53c0083"></a>
+<a id="org191712e"></a>
 
 # PCB
 
@@ -101,7 +101,7 @@
 <img src="./documentation/pcb/cluster-pcb-B_Fab.svg" width="1920">
 
 
-<a id="org2275c22"></a>
+<a id="orge23c06e"></a>
 
 # Bill of Materials
 
@@ -144,10 +144,10 @@
 | 1    | TERM BLOCK PLUG 4POS STR 3.5MM  | 277-2418-ND              | Phoenix Contact | 1        | 3.77  | 3.77  |
 | 2    | TERM BLOCK PLUG 2POS STR 5.08MM | 1758364                  | Phoenix Contact | 1        | 1.63  | 1.63  |
 | 3    | W5100S-EVB-PICO RP2040 W5100S   | W5100S-EVB-PICO          | WIZnet          | 1        | 9.95  | 9.95  |
-| 4    | Supplemental BOM Version: 1.2   |                          |                 |          | Total | 15.35 |
+| 4    | Supplemental BOM Version: 1.2.1 |                          |                 |          | Total | 15.35 |
 
 
-<a id="orgf7e648f"></a>
+<a id="org722ebcb"></a>
 
 # Development
 
