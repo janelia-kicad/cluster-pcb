@@ -64,17 +64,17 @@
     "polar_coords": false,
     "rotation_angle": 900,
     "selection_filter": {
-      "dimensions": false,
-      "footprints": false,
-      "graphics": false,
-      "keepouts": false,
+      "dimensions": true,
+      "footprints": true,
+      "graphics": true,
+      "keepouts": true,
       "lockedItems": false,
-      "otherItems": false,
+      "otherItems": true,
       "pads": true,
-      "text": false,
-      "tracks": false,
-      "vias": false,
-      "zones": false
+      "text": true,
+      "tracks": true,
+      "vias": true,
+      "zones": true
     }
   },
   "find_replace": {
