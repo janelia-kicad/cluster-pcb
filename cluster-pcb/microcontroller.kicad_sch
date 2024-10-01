@@ -6,7 +6,7 @@
 
   (title_block
     (title "cluster-pcb")
-    (date "2024-09-30")
+    (date "2024-10-01")
     (rev "2.0")
     (company "Howard Hughes Medical Institute")
   )
@@ -630,7 +630,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 02459900-be39-4092-aa8e-f826a75a10a0)
   )
-  (hierarchical_label "ENABLE_PRISMS" (shape output) (at 91.44 116.84 180) (fields_autoplaced)
+  (hierarchical_label "~{PRISMS_RESET}" (shape output) (at 91.44 116.84 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 056ad53a-253f-42cd-86a7-89bd3fe8d922)
   )
