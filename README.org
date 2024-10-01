@@ -2,11 +2,11 @@
 # File edits may be overwritten!
 - Project Name: cluster-pcb
 - Synopsis: PCB for each cluster of prisms in the Voigts Lab honeycomb maze.
-- Documentation Version: 1.2.0
-- Pcb Version: 1.2
+- Documentation Version: 2.0.0
+- Pcb Version: 2.0
 - Enclosure Version: 1.0
-- Supplemental BOM Version: 1.2.1
-- Release Date: 2024-09-16
+- Supplemental BOM Version: 2.0.0
+- Release Date: 2024-10-01
 - Creation Date: 2024-06-28
 - Kicad Version: 7.0.11
 - License: BSD-3-Clause
