@@ -521,7 +521,7 @@
         "pattern": "/prism*/VBB"
       },
       {
-        "netclass": "High Current",
+        "netclass": "Super Power",
         "pattern": "/prism*/VCC"
       },
       {
