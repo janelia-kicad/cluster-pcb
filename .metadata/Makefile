@@ -67,4 +67,4 @@ trimmed-images:
 
 .PHONY: zipped-gerbers
 zipped-gerbers:
-	$(GUIX-SHELL) -- sh -c "rm -f documentation/gerbers/*.zip && zip -j -r documentation/gerbers/cluster-pcb-1.2.zip documentation/gerbers"
+	$(GUIX-SHELL) -- sh -c "rm -f documentation/gerbers/*.zip && zip -j -r documentation/gerbers/cluster-pcb-1.3.zip documentation/gerbers"

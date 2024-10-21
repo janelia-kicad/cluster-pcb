@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>/home/polidorop/Repositories/kicad/cluster-pcb/cluster-pcb/cluster-pcb.kicad_sch</source>
-    <date>Fri 13 Sep 2024 03:45:55 PM EDT</date>
+    <date>Mon 21 Oct 2024 02:31:57 PM EDT</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>cluster-pcb.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -26,8 +26,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>assembly.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -44,8 +44,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>power.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -62,8 +62,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>microcontroller.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -80,8 +80,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -98,8 +98,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -116,8 +116,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -134,8 +134,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -152,8 +152,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -170,8 +170,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -188,8 +188,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -206,8 +206,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>address.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -224,8 +224,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>multiplexer.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -242,8 +242,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>1.2</rev>
-        <date>2024-09-13</date>
+        <rev>1.3</rev>
+        <date>2024-10-21</date>
         <source>audio.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -366,27 +366,27 @@
       <value>47uF_10V</value>
       <footprint>Janelia:C_0805_2012Metric</footprint>
       <fields>
-        <field name="LCSC">C2182652</field>
-        <field name="Manufacturer">TDK Corporation</field>
-        <field name="Manufacturer Part Number">C2012X5R1A476M125AC</field>
+        <field name="LCSC">C6119904</field>
+        <field name="Manufacturer">HRE</field>
+        <field name="Manufacturer Part Number">CGA0805X5R476M100MT</field>
         <field name="Package">0805</field>
         <field name="Synopsis">CAP CER 47UF 10V X5R</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">445-8239-1-ND</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C6119904</field>
       </fields>
-      <libsource lib="Janelia" part="C_47uF_10V_0805" description="47 µF ±20% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="445-8239-1-ND"/>
-      <property name="Package" value="0805"/>
-      <property name="Manufacturer" value="TDK Corporation"/>
-      <property name="Manufacturer Part Number" value="C2012X5R1A476M125AC"/>
+      <libsource lib="Janelia" part="C_47uF_10V_0805" description="10V 47uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C6119904"/>
       <property name="Synopsis" value="CAP CER 47UF 10V X5R"/>
-      <property name="LCSC" value="C2182652"/>
+      <property name="Package" value="0805"/>
+      <property name="Manufacturer" value="HRE"/>
+      <property name="Manufacturer Part Number" value="CGA0805X5R476M100MT"/>
+      <property name="LCSC" value="C6119904"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="47 µF ±20% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"/>
+      <property name="ki_description" value="10V 47uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
       <sheetpath names="/power/" tstamps="/c1dd8f61-494c-402f-8e59-08309c64fc3f/"/>
-      <tstamps>29ffe78a-ca40-43e5-b993-4477d1ca67ef</tstamps>
+      <tstamps>f69f422d-e282-40ea-9ff4-087f6e6d8f2d</tstamps>
     </comp>
     <comp ref="D301">
       <value>D_50V_15A</value>
@@ -689,59 +689,56 @@
       <tstamps>c57a5f27-630f-413c-8ee0-0ece93352614</tstamps>
     </comp>
     <comp ref="J501">
-      <value>Conn_01x04_P3.5mm_TBH_Horizontal_Screw</value>
-      <footprint>Janelia:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal_Screw</footprint>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
-        <field name="LCSC">C480590</field>
-        <field name="Manufacturer">Phoenix Contact</field>
-        <field name="Manufacturer Part Number">1844236</field>
-        <field name="Package">Push-Pull P=3.5mm</field>
-        <field name="Sim.Enable">0</field>
-        <field name="Synopsis">TERM BLOCK HDR 4POS 90DEG 3.5MM</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">277-2419-ND</field>
+        <field name="LCSC">C963218</field>
+        <field name="Manufacturer">G-Switch</field>
+        <field name="Manufacturer Part Number">GT-USB-7047C</field>
+        <field name="Package">SMD</field>
+        <field name="Synopsis">USB Type-C 2.0 16P 5A</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="Conn_01x04_P3.5mm_TBH_Horizontal_Screw" description="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="Manufacturer" value="Phoenix Contact"/>
-      <property name="Manufacturer Part Number" value="1844236"/>
-      <property name="Synopsis" value="TERM BLOCK HDR 4POS 90DEG 3.5MM"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="277-2419-ND"/>
-      <property name="Sim.Enable" value="0"/>
-      <property name="LCSC" value="C480590"/>
-      <property name="Package" value="Push-Pull P=3.5mm"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
+      <property name="Package" value="SMD"/>
+      <property name="Manufacturer" value="G-Switch"/>
+      <property name="Manufacturer Part Number" value="GT-USB-7047C"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C963218"/>
+      <property name="LCSC" value="C963218"/>
       <property name="Sheetname" value="prism-0"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="ki_keywords" value="connector"/>
+      <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
-      <tstamps>8c9b257a-ea03-4baa-b23a-84b4f19886e2</tstamps>
+      <tstamps>418308b0-fa57-4af6-93ca-05211e851fd2</tstamps>
     </comp>
     <comp ref="R501">
-      <value>120</value>
+      <value>100</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C114758</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402FR-07120RL</field>
+        <field name="LCSC">C25076</field>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Part Number">0402WGF1000TCE</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES SMD 120 OHM 1% 62.5mW</field>
+        <field name="Synopsis">RES SMD 100 OHM 1% 62.5mW</field>
         <field name="Vendor">JLCPCB</field>
-        <field name="Vendor Part Number">C114758</field>
+        <field name="Vendor Part Number">C25076</field>
       </fields>
-      <libsource lib="Janelia" part="R_120_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
+      <libsource lib="Janelia" part="R_100_0402" description=""/>
       <property name="Vendor" value="JLCPCB"/>
-      <property name="Vendor Part Number" value="C114758"/>
-      <property name="Synopsis" value="RES SMD 120 OHM 1% 62.5mW"/>
+      <property name="Vendor Part Number" value="C25076"/>
+      <property name="Synopsis" value="RES SMD 100 OHM 1% 62.5mW"/>
       <property name="Package" value="0402"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402FR-07120RL"/>
-      <property name="LCSC" value="C114758"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
+      <property name="LCSC" value="C25076"/>
       <property name="Sheetname" value="prism-0"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
-      <tstamps>ac38a00e-6185-4859-a488-ae9e6870bdd9</tstamps>
+      <tstamps>569db310-4930-4358-956e-a54adea3a503</tstamps>
     </comp>
     <comp ref="R502">
       <value>4.7k</value>
@@ -903,59 +900,56 @@
       <tstamps>c57a5f27-630f-413c-8ee0-0ece93352614</tstamps>
     </comp>
     <comp ref="J601">
-      <value>Conn_01x04_P3.5mm_TBH_Horizontal_Screw</value>
-      <footprint>Janelia:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal_Screw</footprint>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
-        <field name="LCSC">C480590</field>
-        <field name="Manufacturer">Phoenix Contact</field>
-        <field name="Manufacturer Part Number">1844236</field>
-        <field name="Package">Push-Pull P=3.5mm</field>
-        <field name="Sim.Enable">0</field>
-        <field name="Synopsis">TERM BLOCK HDR 4POS 90DEG 3.5MM</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">277-2419-ND</field>
+        <field name="LCSC">C963218</field>
+        <field name="Manufacturer">G-Switch</field>
+        <field name="Manufacturer Part Number">GT-USB-7047C</field>
+        <field name="Package">SMD</field>
+        <field name="Synopsis">USB Type-C 2.0 16P 5A</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="Conn_01x04_P3.5mm_TBH_Horizontal_Screw" description="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="Manufacturer" value="Phoenix Contact"/>
-      <property name="Manufacturer Part Number" value="1844236"/>
-      <property name="Synopsis" value="TERM BLOCK HDR 4POS 90DEG 3.5MM"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="277-2419-ND"/>
-      <property name="Sim.Enable" value="0"/>
-      <property name="LCSC" value="C480590"/>
-      <property name="Package" value="Push-Pull P=3.5mm"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
+      <property name="Package" value="SMD"/>
+      <property name="Manufacturer" value="G-Switch"/>
+      <property name="Manufacturer Part Number" value="GT-USB-7047C"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C963218"/>
+      <property name="LCSC" value="C963218"/>
       <property name="Sheetname" value="prism-1"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="ki_keywords" value="connector"/>
+      <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
-      <tstamps>8c9b257a-ea03-4baa-b23a-84b4f19886e2</tstamps>
+      <tstamps>418308b0-fa57-4af6-93ca-05211e851fd2</tstamps>
     </comp>
     <comp ref="R601">
-      <value>120</value>
+      <value>100</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C114758</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402FR-07120RL</field>
+        <field name="LCSC">C25076</field>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Part Number">0402WGF1000TCE</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES SMD 120 OHM 1% 62.5mW</field>
+        <field name="Synopsis">RES SMD 100 OHM 1% 62.5mW</field>
         <field name="Vendor">JLCPCB</field>
-        <field name="Vendor Part Number">C114758</field>
+        <field name="Vendor Part Number">C25076</field>
       </fields>
-      <libsource lib="Janelia" part="R_120_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
+      <libsource lib="Janelia" part="R_100_0402" description=""/>
       <property name="Vendor" value="JLCPCB"/>
-      <property name="Vendor Part Number" value="C114758"/>
-      <property name="Synopsis" value="RES SMD 120 OHM 1% 62.5mW"/>
+      <property name="Vendor Part Number" value="C25076"/>
+      <property name="Synopsis" value="RES SMD 100 OHM 1% 62.5mW"/>
       <property name="Package" value="0402"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402FR-07120RL"/>
-      <property name="LCSC" value="C114758"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
+      <property name="LCSC" value="C25076"/>
       <property name="Sheetname" value="prism-1"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
-      <tstamps>ac38a00e-6185-4859-a488-ae9e6870bdd9</tstamps>
+      <tstamps>569db310-4930-4358-956e-a54adea3a503</tstamps>
     </comp>
     <comp ref="R602">
       <value>4.7k</value>
@@ -1117,59 +1111,56 @@
       <tstamps>c57a5f27-630f-413c-8ee0-0ece93352614</tstamps>
     </comp>
     <comp ref="J701">
-      <value>Conn_01x04_P3.5mm_TBH_Horizontal_Screw</value>
-      <footprint>Janelia:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal_Screw</footprint>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
-        <field name="LCSC">C480590</field>
-        <field name="Manufacturer">Phoenix Contact</field>
-        <field name="Manufacturer Part Number">1844236</field>
-        <field name="Package">Push-Pull P=3.5mm</field>
-        <field name="Sim.Enable">0</field>
-        <field name="Synopsis">TERM BLOCK HDR 4POS 90DEG 3.5MM</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">277-2419-ND</field>
+        <field name="LCSC">C963218</field>
+        <field name="Manufacturer">G-Switch</field>
+        <field name="Manufacturer Part Number">GT-USB-7047C</field>
+        <field name="Package">SMD</field>
+        <field name="Synopsis">USB Type-C 2.0 16P 5A</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="Conn_01x04_P3.5mm_TBH_Horizontal_Screw" description="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="Manufacturer" value="Phoenix Contact"/>
-      <property name="Manufacturer Part Number" value="1844236"/>
-      <property name="Synopsis" value="TERM BLOCK HDR 4POS 90DEG 3.5MM"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="277-2419-ND"/>
-      <property name="Sim.Enable" value="0"/>
-      <property name="LCSC" value="C480590"/>
-      <property name="Package" value="Push-Pull P=3.5mm"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
+      <property name="Package" value="SMD"/>
+      <property name="Manufacturer" value="G-Switch"/>
+      <property name="Manufacturer Part Number" value="GT-USB-7047C"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C963218"/>
+      <property name="LCSC" value="C963218"/>
       <property name="Sheetname" value="prism-2"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="ki_keywords" value="connector"/>
+      <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
-      <tstamps>8c9b257a-ea03-4baa-b23a-84b4f19886e2</tstamps>
+      <tstamps>418308b0-fa57-4af6-93ca-05211e851fd2</tstamps>
     </comp>
     <comp ref="R701">
-      <value>120</value>
+      <value>100</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C114758</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402FR-07120RL</field>
+        <field name="LCSC">C25076</field>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Part Number">0402WGF1000TCE</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES SMD 120 OHM 1% 62.5mW</field>
+        <field name="Synopsis">RES SMD 100 OHM 1% 62.5mW</field>
         <field name="Vendor">JLCPCB</field>
-        <field name="Vendor Part Number">C114758</field>
+        <field name="Vendor Part Number">C25076</field>
       </fields>
-      <libsource lib="Janelia" part="R_120_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
+      <libsource lib="Janelia" part="R_100_0402" description=""/>
       <property name="Vendor" value="JLCPCB"/>
-      <property name="Vendor Part Number" value="C114758"/>
-      <property name="Synopsis" value="RES SMD 120 OHM 1% 62.5mW"/>
+      <property name="Vendor Part Number" value="C25076"/>
+      <property name="Synopsis" value="RES SMD 100 OHM 1% 62.5mW"/>
       <property name="Package" value="0402"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402FR-07120RL"/>
-      <property name="LCSC" value="C114758"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
+      <property name="LCSC" value="C25076"/>
       <property name="Sheetname" value="prism-2"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
-      <tstamps>ac38a00e-6185-4859-a488-ae9e6870bdd9</tstamps>
+      <tstamps>569db310-4930-4358-956e-a54adea3a503</tstamps>
     </comp>
     <comp ref="R702">
       <value>4.7k</value>
@@ -1331,59 +1322,56 @@
       <tstamps>c57a5f27-630f-413c-8ee0-0ece93352614</tstamps>
     </comp>
     <comp ref="J801">
-      <value>Conn_01x04_P3.5mm_TBH_Horizontal_Screw</value>
-      <footprint>Janelia:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal_Screw</footprint>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
-        <field name="LCSC">C480590</field>
-        <field name="Manufacturer">Phoenix Contact</field>
-        <field name="Manufacturer Part Number">1844236</field>
-        <field name="Package">Push-Pull P=3.5mm</field>
-        <field name="Sim.Enable">0</field>
-        <field name="Synopsis">TERM BLOCK HDR 4POS 90DEG 3.5MM</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">277-2419-ND</field>
+        <field name="LCSC">C963218</field>
+        <field name="Manufacturer">G-Switch</field>
+        <field name="Manufacturer Part Number">GT-USB-7047C</field>
+        <field name="Package">SMD</field>
+        <field name="Synopsis">USB Type-C 2.0 16P 5A</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="Conn_01x04_P3.5mm_TBH_Horizontal_Screw" description="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="Manufacturer" value="Phoenix Contact"/>
-      <property name="Manufacturer Part Number" value="1844236"/>
-      <property name="Synopsis" value="TERM BLOCK HDR 4POS 90DEG 3.5MM"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="277-2419-ND"/>
-      <property name="Sim.Enable" value="0"/>
-      <property name="LCSC" value="C480590"/>
-      <property name="Package" value="Push-Pull P=3.5mm"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
+      <property name="Package" value="SMD"/>
+      <property name="Manufacturer" value="G-Switch"/>
+      <property name="Manufacturer Part Number" value="GT-USB-7047C"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C963218"/>
+      <property name="LCSC" value="C963218"/>
       <property name="Sheetname" value="prism-3"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="ki_keywords" value="connector"/>
+      <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
-      <tstamps>8c9b257a-ea03-4baa-b23a-84b4f19886e2</tstamps>
+      <tstamps>418308b0-fa57-4af6-93ca-05211e851fd2</tstamps>
     </comp>
     <comp ref="R801">
-      <value>120</value>
+      <value>100</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C114758</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402FR-07120RL</field>
+        <field name="LCSC">C25076</field>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Part Number">0402WGF1000TCE</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES SMD 120 OHM 1% 62.5mW</field>
+        <field name="Synopsis">RES SMD 100 OHM 1% 62.5mW</field>
         <field name="Vendor">JLCPCB</field>
-        <field name="Vendor Part Number">C114758</field>
+        <field name="Vendor Part Number">C25076</field>
       </fields>
-      <libsource lib="Janelia" part="R_120_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
+      <libsource lib="Janelia" part="R_100_0402" description=""/>
       <property name="Vendor" value="JLCPCB"/>
-      <property name="Vendor Part Number" value="C114758"/>
-      <property name="Synopsis" value="RES SMD 120 OHM 1% 62.5mW"/>
+      <property name="Vendor Part Number" value="C25076"/>
+      <property name="Synopsis" value="RES SMD 100 OHM 1% 62.5mW"/>
       <property name="Package" value="0402"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402FR-07120RL"/>
-      <property name="LCSC" value="C114758"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
+      <property name="LCSC" value="C25076"/>
       <property name="Sheetname" value="prism-3"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
-      <tstamps>ac38a00e-6185-4859-a488-ae9e6870bdd9</tstamps>
+      <tstamps>569db310-4930-4358-956e-a54adea3a503</tstamps>
     </comp>
     <comp ref="R802">
       <value>4.7k</value>
@@ -1545,59 +1533,56 @@
       <tstamps>c57a5f27-630f-413c-8ee0-0ece93352614</tstamps>
     </comp>
     <comp ref="J901">
-      <value>Conn_01x04_P3.5mm_TBH_Horizontal_Screw</value>
-      <footprint>Janelia:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal_Screw</footprint>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
-        <field name="LCSC">C480590</field>
-        <field name="Manufacturer">Phoenix Contact</field>
-        <field name="Manufacturer Part Number">1844236</field>
-        <field name="Package">Push-Pull P=3.5mm</field>
-        <field name="Sim.Enable">0</field>
-        <field name="Synopsis">TERM BLOCK HDR 4POS 90DEG 3.5MM</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">277-2419-ND</field>
+        <field name="LCSC">C963218</field>
+        <field name="Manufacturer">G-Switch</field>
+        <field name="Manufacturer Part Number">GT-USB-7047C</field>
+        <field name="Package">SMD</field>
+        <field name="Synopsis">USB Type-C 2.0 16P 5A</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="Conn_01x04_P3.5mm_TBH_Horizontal_Screw" description="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="Manufacturer" value="Phoenix Contact"/>
-      <property name="Manufacturer Part Number" value="1844236"/>
-      <property name="Synopsis" value="TERM BLOCK HDR 4POS 90DEG 3.5MM"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="277-2419-ND"/>
-      <property name="Sim.Enable" value="0"/>
-      <property name="LCSC" value="C480590"/>
-      <property name="Package" value="Push-Pull P=3.5mm"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
+      <property name="Package" value="SMD"/>
+      <property name="Manufacturer" value="G-Switch"/>
+      <property name="Manufacturer Part Number" value="GT-USB-7047C"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C963218"/>
+      <property name="LCSC" value="C963218"/>
       <property name="Sheetname" value="prism-5"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="ki_keywords" value="connector"/>
+      <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
-      <tstamps>8c9b257a-ea03-4baa-b23a-84b4f19886e2</tstamps>
+      <tstamps>418308b0-fa57-4af6-93ca-05211e851fd2</tstamps>
     </comp>
     <comp ref="R901">
-      <value>120</value>
+      <value>100</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C114758</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402FR-07120RL</field>
+        <field name="LCSC">C25076</field>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Part Number">0402WGF1000TCE</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES SMD 120 OHM 1% 62.5mW</field>
+        <field name="Synopsis">RES SMD 100 OHM 1% 62.5mW</field>
         <field name="Vendor">JLCPCB</field>
-        <field name="Vendor Part Number">C114758</field>
+        <field name="Vendor Part Number">C25076</field>
       </fields>
-      <libsource lib="Janelia" part="R_120_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
+      <libsource lib="Janelia" part="R_100_0402" description=""/>
       <property name="Vendor" value="JLCPCB"/>
-      <property name="Vendor Part Number" value="C114758"/>
-      <property name="Synopsis" value="RES SMD 120 OHM 1% 62.5mW"/>
+      <property name="Vendor Part Number" value="C25076"/>
+      <property name="Synopsis" value="RES SMD 100 OHM 1% 62.5mW"/>
       <property name="Package" value="0402"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402FR-07120RL"/>
-      <property name="LCSC" value="C114758"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
+      <property name="LCSC" value="C25076"/>
       <property name="Sheetname" value="prism-5"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
-      <tstamps>ac38a00e-6185-4859-a488-ae9e6870bdd9</tstamps>
+      <tstamps>569db310-4930-4358-956e-a54adea3a503</tstamps>
     </comp>
     <comp ref="R902">
       <value>4.7k</value>
@@ -1759,59 +1744,56 @@
       <tstamps>c57a5f27-630f-413c-8ee0-0ece93352614</tstamps>
     </comp>
     <comp ref="J1001">
-      <value>Conn_01x04_P3.5mm_TBH_Horizontal_Screw</value>
-      <footprint>Janelia:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal_Screw</footprint>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
-        <field name="LCSC">C480590</field>
-        <field name="Manufacturer">Phoenix Contact</field>
-        <field name="Manufacturer Part Number">1844236</field>
-        <field name="Package">Push-Pull P=3.5mm</field>
-        <field name="Sim.Enable">0</field>
-        <field name="Synopsis">TERM BLOCK HDR 4POS 90DEG 3.5MM</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">277-2419-ND</field>
+        <field name="LCSC">C963218</field>
+        <field name="Manufacturer">G-Switch</field>
+        <field name="Manufacturer Part Number">GT-USB-7047C</field>
+        <field name="Package">SMD</field>
+        <field name="Synopsis">USB Type-C 2.0 16P 5A</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="Conn_01x04_P3.5mm_TBH_Horizontal_Screw" description="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="Manufacturer" value="Phoenix Contact"/>
-      <property name="Manufacturer Part Number" value="1844236"/>
-      <property name="Synopsis" value="TERM BLOCK HDR 4POS 90DEG 3.5MM"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="277-2419-ND"/>
-      <property name="Sim.Enable" value="0"/>
-      <property name="LCSC" value="C480590"/>
-      <property name="Package" value="Push-Pull P=3.5mm"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
+      <property name="Package" value="SMD"/>
+      <property name="Manufacturer" value="G-Switch"/>
+      <property name="Manufacturer Part Number" value="GT-USB-7047C"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C963218"/>
+      <property name="LCSC" value="C963218"/>
       <property name="Sheetname" value="prism-4"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="ki_keywords" value="connector"/>
+      <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
-      <tstamps>8c9b257a-ea03-4baa-b23a-84b4f19886e2</tstamps>
+      <tstamps>418308b0-fa57-4af6-93ca-05211e851fd2</tstamps>
     </comp>
     <comp ref="R1001">
-      <value>120</value>
+      <value>100</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C114758</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402FR-07120RL</field>
+        <field name="LCSC">C25076</field>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Part Number">0402WGF1000TCE</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES SMD 120 OHM 1% 62.5mW</field>
+        <field name="Synopsis">RES SMD 100 OHM 1% 62.5mW</field>
         <field name="Vendor">JLCPCB</field>
-        <field name="Vendor Part Number">C114758</field>
+        <field name="Vendor Part Number">C25076</field>
       </fields>
-      <libsource lib="Janelia" part="R_120_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
+      <libsource lib="Janelia" part="R_100_0402" description=""/>
       <property name="Vendor" value="JLCPCB"/>
-      <property name="Vendor Part Number" value="C114758"/>
-      <property name="Synopsis" value="RES SMD 120 OHM 1% 62.5mW"/>
+      <property name="Vendor Part Number" value="C25076"/>
+      <property name="Synopsis" value="RES SMD 100 OHM 1% 62.5mW"/>
       <property name="Package" value="0402"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402FR-07120RL"/>
-      <property name="LCSC" value="C114758"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
+      <property name="LCSC" value="C25076"/>
       <property name="Sheetname" value="prism-4"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
-      <tstamps>ac38a00e-6185-4859-a488-ae9e6870bdd9</tstamps>
+      <tstamps>569db310-4930-4358-956e-a54adea3a503</tstamps>
     </comp>
     <comp ref="R1002">
       <value>4.7k</value>
@@ -1973,59 +1955,56 @@
       <tstamps>c57a5f27-630f-413c-8ee0-0ece93352614</tstamps>
     </comp>
     <comp ref="J1101">
-      <value>Conn_01x04_P3.5mm_TBH_Horizontal_Screw</value>
-      <footprint>Janelia:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal_Screw</footprint>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
-        <field name="LCSC">C480590</field>
-        <field name="Manufacturer">Phoenix Contact</field>
-        <field name="Manufacturer Part Number">1844236</field>
-        <field name="Package">Push-Pull P=3.5mm</field>
-        <field name="Sim.Enable">0</field>
-        <field name="Synopsis">TERM BLOCK HDR 4POS 90DEG 3.5MM</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">277-2419-ND</field>
+        <field name="LCSC">C963218</field>
+        <field name="Manufacturer">G-Switch</field>
+        <field name="Manufacturer Part Number">GT-USB-7047C</field>
+        <field name="Package">SMD</field>
+        <field name="Synopsis">USB Type-C 2.0 16P 5A</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="Conn_01x04_P3.5mm_TBH_Horizontal_Screw" description="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="Manufacturer" value="Phoenix Contact"/>
-      <property name="Manufacturer Part Number" value="1844236"/>
-      <property name="Synopsis" value="TERM BLOCK HDR 4POS 90DEG 3.5MM"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="277-2419-ND"/>
-      <property name="Sim.Enable" value="0"/>
-      <property name="LCSC" value="C480590"/>
-      <property name="Package" value="Push-Pull P=3.5mm"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
+      <property name="Package" value="SMD"/>
+      <property name="Manufacturer" value="G-Switch"/>
+      <property name="Manufacturer Part Number" value="GT-USB-7047C"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C963218"/>
+      <property name="LCSC" value="C963218"/>
       <property name="Sheetname" value="prism-6"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS"/>
-      <property name="ki_keywords" value="connector"/>
+      <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
-      <tstamps>8c9b257a-ea03-4baa-b23a-84b4f19886e2</tstamps>
+      <tstamps>418308b0-fa57-4af6-93ca-05211e851fd2</tstamps>
     </comp>
     <comp ref="R1101">
-      <value>120</value>
+      <value>100</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C114758</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402FR-07120RL</field>
+        <field name="LCSC">C25076</field>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Part Number">0402WGF1000TCE</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES SMD 120 OHM 1% 62.5mW</field>
+        <field name="Synopsis">RES SMD 100 OHM 1% 62.5mW</field>
         <field name="Vendor">JLCPCB</field>
-        <field name="Vendor Part Number">C114758</field>
+        <field name="Vendor Part Number">C25076</field>
       </fields>
-      <libsource lib="Janelia" part="R_120_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
+      <libsource lib="Janelia" part="R_100_0402" description=""/>
       <property name="Vendor" value="JLCPCB"/>
-      <property name="Vendor Part Number" value="C114758"/>
-      <property name="Synopsis" value="RES SMD 120 OHM 1% 62.5mW"/>
+      <property name="Vendor Part Number" value="C25076"/>
+      <property name="Synopsis" value="RES SMD 100 OHM 1% 62.5mW"/>
       <property name="Package" value="0402"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402FR-07120RL"/>
-      <property name="LCSC" value="C114758"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Part Number" value="0402WGF1000TCE"/>
+      <property name="LCSC" value="C25076"/>
       <property name="Sheetname" value="prism-6"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
-      <tstamps>ac38a00e-6185-4859-a488-ae9e6870bdd9</tstamps>
+      <tstamps>569db310-4930-4358-956e-a54adea3a503</tstamps>
     </comp>
     <comp ref="R1102">
       <value>4.7k</value>
@@ -2911,7 +2890,7 @@
       </pins>
     </libpart>
     <libpart lib="Janelia" part="C_47uF_10V_0805">
-      <description>47 µF ±20% 10V Ceramic Capacitor X5R 0805 (2012 Metric)</description>
+      <description>10V 47uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
       <footprints>
         <fp>SM*</fp>
         <fp>C?</fp>
@@ -2921,42 +2900,54 @@
         <field name="Reference">C</field>
         <field name="Value">47uF_10V</field>
         <field name="Footprint">Janelia:C_0805_2012Metric</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">445-8239-1-ND</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C6119904</field>
         <field name="Synopsis">CAP CER 47UF 10V X5R</field>
         <field name="Package">0805</field>
-        <field name="Manufacturer">TDK Corporation</field>
-        <field name="Manufacturer Part Number">C2012X5R1A476M125AC</field>
-        <field name="LCSC">C2182652</field>
+        <field name="Manufacturer">HRE</field>
+        <field name="Manufacturer Part Number">CGA0805X5R476M100MT</field>
+        <field name="LCSC">C6119904</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Janelia" part="Conn_01x04_P3.5mm_TBH_Horizontal_Screw">
-      <description>160V 8A 4 Bend 1 3.5mm 1x4P Green Board Edge/Receptacle-Close Push-Pull P=3.5mm Pluggable System Terminal Block ROHS</description>
+    <libpart lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C">
+      <description>5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS</description>
       <footprints>
-        <fp>Connector*:*_1x??_*</fp>
+        <fp>USB*C*Receptacle*</fp>
       </footprints>
       <fields>
         <field name="Reference">J</field>
-        <field name="Value">Conn_01x04_P3.5mm_TBH_Horizontal_Screw</field>
-        <field name="Footprint">Janelia:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal_Screw</field>
-        <field name="Manufacturer">Phoenix Contact</field>
-        <field name="Manufacturer Part Number">1844236</field>
-        <field name="Synopsis">TERM BLOCK HDR 4POS 90DEG 3.5MM</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">277-2419-ND</field>
-        <field name="Sim.Enable">0</field>
-        <field name="LCSC">C480590</field>
-        <field name="Package">Push-Pull P=3.5mm</field>
+        <field name="Value">Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</field>
+        <field name="Footprint">Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</field>
+        <field name="Synopsis">USB Type-C 2.0 16P 5A</field>
+        <field name="Package">SMD</field>
+        <field name="Manufacturer">G-Switch</field>
+        <field name="Manufacturer Part Number">GT-USB-7047C</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C963218</field>
+        <field name="LCSC">C963218</field>
       </fields>
       <pins>
-        <pin num="1" name="Pin_1" type="passive"/>
-        <pin num="2" name="Pin_2" type="passive"/>
-        <pin num="3" name="Pin_3" type="passive"/>
-        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Janelia" part="D_50V_15A">
@@ -3310,8 +3301,7 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Janelia" part="R_120_0402">
-      <description>62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS</description>
+    <libpart lib="Janelia" part="R_100_0402">
       <footprints>
         <fp>R?</fp>
         <fp>SM0603</fp>
@@ -3321,15 +3311,15 @@
       </footprints>
       <fields>
         <field name="Reference">R</field>
-        <field name="Value">120</field>
+        <field name="Value">100</field>
         <field name="Footprint">Janelia:R_0402_1005Metric</field>
         <field name="Vendor">JLCPCB</field>
-        <field name="Vendor Part Number">C114758</field>
-        <field name="Synopsis">RES SMD 120 OHM 1% 62.5mW</field>
+        <field name="Vendor Part Number">C25076</field>
+        <field name="Synopsis">RES SMD 100 OHM 1% 62.5mW</field>
         <field name="Package">0402</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402FR-07120RL</field>
-        <field name="LCSC">C114758</field>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Part Number">0402WGF1000TCE</field>
+        <field name="LCSC">C25076</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3687,13 +3677,41 @@
       <node ref="C901" pin="2" pintype="passive"/>
       <node ref="C902" pin="2" pintype="passive"/>
       <node ref="D302" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J1001" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J1101" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J501" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J601" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J701" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J801" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J901" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J1001" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1001" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1001" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1001" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1001" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1101" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1101" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1101" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1101" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1101" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J501" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J501" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J501" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J501" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J501" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J601" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J601" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J601" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J601" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J601" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J701" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J701" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J701" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J701" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J701" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J801" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J801" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J801" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J801" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J801" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J901" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J901" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J901" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J901" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J901" pin="S1" pinfunction="SHIELD" pintype="passive"/>
       <node ref="R1203" pin="2" pintype="passive"/>
       <node ref="R1204" pin="2" pintype="passive"/>
       <node ref="R1205" pin="2" pintype="passive"/>
@@ -3943,12 +3961,14 @@
       <node ref="U301" pin="8" pinfunction="VCC" pintype="unspecified"/>
     </net>
     <net code="52" name="/prism-0/SWN">
-      <node ref="J501" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J501" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J501" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="R501" pin="2" pintype="passive"/>
       <node ref="U501" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
     <net code="53" name="/prism-0/SWP">
-      <node ref="J501" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J501" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J501" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="R501" pin="1" pintype="passive"/>
       <node ref="U501" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
@@ -3958,15 +3978,20 @@
     </net>
     <net code="55" name="/prism-0/VCC">
       <node ref="D501" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J501" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J501" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J501" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J501" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J501" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
     <net code="56" name="/prism-1/SWN">
-      <node ref="J601" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J601" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J601" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="R601" pin="2" pintype="passive"/>
       <node ref="U601" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
     <net code="57" name="/prism-1/SWP">
-      <node ref="J601" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J601" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J601" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="R601" pin="1" pintype="passive"/>
       <node ref="U601" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
@@ -3976,15 +4001,20 @@
     </net>
     <net code="59" name="/prism-1/VCC">
       <node ref="D601" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J601" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J601" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J601" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J601" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J601" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
     <net code="60" name="/prism-2/SWN">
-      <node ref="J701" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J701" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J701" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="R701" pin="2" pintype="passive"/>
       <node ref="U701" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
     <net code="61" name="/prism-2/SWP">
-      <node ref="J701" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J701" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J701" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="R701" pin="1" pintype="passive"/>
       <node ref="U701" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
@@ -3994,15 +4024,20 @@
     </net>
     <net code="63" name="/prism-2/VCC">
       <node ref="D701" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J701" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J701" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J701" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J701" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J701" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
     <net code="64" name="/prism-3/SWN">
-      <node ref="J801" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J801" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J801" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="R801" pin="2" pintype="passive"/>
       <node ref="U801" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
     <net code="65" name="/prism-3/SWP">
-      <node ref="J801" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J801" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J801" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="R801" pin="1" pintype="passive"/>
       <node ref="U801" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
@@ -4012,15 +4047,20 @@
     </net>
     <net code="67" name="/prism-3/VCC">
       <node ref="D801" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J801" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J801" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J801" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J801" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J801" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
     <net code="68" name="/prism-4/SWN">
-      <node ref="J1001" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J1001" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1001" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="R1001" pin="2" pintype="passive"/>
       <node ref="U1001" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
     <net code="69" name="/prism-4/SWP">
-      <node ref="J1001" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J1001" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1001" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="R1001" pin="1" pintype="passive"/>
       <node ref="U1001" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
@@ -4030,15 +4070,20 @@
     </net>
     <net code="71" name="/prism-4/VCC">
       <node ref="D1001" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J1001" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J1001" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1001" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1001" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1001" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
     <net code="72" name="/prism-5/SWN">
-      <node ref="J901" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J901" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J901" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="R901" pin="2" pintype="passive"/>
       <node ref="U901" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
     <net code="73" name="/prism-5/SWP">
-      <node ref="J901" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J901" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J901" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="R901" pin="1" pintype="passive"/>
       <node ref="U901" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
@@ -4048,15 +4093,20 @@
     </net>
     <net code="75" name="/prism-5/VCC">
       <node ref="D901" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J901" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J901" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J901" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J901" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J901" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
     <net code="76" name="/prism-6/SWN">
-      <node ref="J1101" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J1101" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1101" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="R1101" pin="2" pintype="passive"/>
       <node ref="U1101" pin="9" pinfunction="B" pintype="bidirectional"/>
     </net>
     <net code="77" name="/prism-6/SWP">
-      <node ref="J1101" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J1101" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1101" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="R1101" pin="1" pintype="passive"/>
       <node ref="U1101" pin="8" pinfunction="A" pintype="bidirectional"/>
     </net>
@@ -4066,7 +4116,10 @@
     </net>
     <net code="79" name="/prism-6/VCC">
       <node ref="D1101" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J1101" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J1101" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1101" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1101" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1101" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
     <net code="80" name="/~{ADDRESS_INT}">
       <node ref="R1202" pin="2" pintype="passive"/>
@@ -4112,58 +4165,142 @@
       <node ref="R1102" pin="2" pintype="passive"/>
       <node ref="U1102" pin="1" pinfunction="IN" pintype="input"/>
     </net>
-    <net code="110" name="unconnected-(SP1401-NC-Pad3)">
+    <net code="110" name="unconnected-(J501-CC1-PadA5)">
+      <node ref="J501" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(J501-CC2-PadB5)">
+      <node ref="J501" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(J501-SBU1-PadA8)">
+      <node ref="J501" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(J501-SBU2-PadB8)">
+      <node ref="J501" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(J601-CC1-PadA5)">
+      <node ref="J601" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(J601-CC2-PadB5)">
+      <node ref="J601" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(J601-SBU1-PadA8)">
+      <node ref="J601" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(J601-SBU2-PadB8)">
+      <node ref="J601" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(J701-CC1-PadA5)">
+      <node ref="J701" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(J701-CC2-PadB5)">
+      <node ref="J701" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(J701-SBU1-PadA8)">
+      <node ref="J701" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(J701-SBU2-PadB8)">
+      <node ref="J701" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(J801-CC1-PadA5)">
+      <node ref="J801" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(J801-CC2-PadB5)">
+      <node ref="J801" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(J801-SBU1-PadA8)">
+      <node ref="J801" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(J801-SBU2-PadB8)">
+      <node ref="J801" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(J901-CC1-PadA5)">
+      <node ref="J901" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(J901-CC2-PadB5)">
+      <node ref="J901" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(J901-SBU1-PadA8)">
+      <node ref="J901" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(J901-SBU2-PadB8)">
+      <node ref="J901" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(J1001-CC1-PadA5)">
+      <node ref="J1001" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(J1001-CC2-PadB5)">
+      <node ref="J1001" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(J1001-SBU1-PadA8)">
+      <node ref="J1001" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(J1001-SBU2-PadB8)">
+      <node ref="J1001" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(J1101-CC1-PadA5)">
+      <node ref="J1101" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(J1101-CC2-PadB5)">
+      <node ref="J1101" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(J1101-SBU1-PadA8)">
+      <node ref="J1101" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="137" name="unconnected-(J1101-SBU2-PadB8)">
+      <node ref="J1101" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="138" name="unconnected-(SP1401-NC-Pad3)">
       <node ref="SP1401" pin="3" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="111" name="unconnected-(SP1401-NC-Pad4)">
+    <net code="139" name="unconnected-(SP1401-NC-Pad4)">
       <node ref="SP1401" pin="4" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="112" name="unconnected-(U301-BOOT-Pad7)">
+    <net code="140" name="unconnected-(U301-BOOT-Pad7)">
       <node ref="U301" pin="7" pinfunction="BOOT" pintype="unspecified+no_connect"/>
     </net>
-    <net code="113" name="unconnected-(U301-PGOOD-Pad1)">
+    <net code="141" name="unconnected-(U301-PGOOD-Pad1)">
       <node ref="U301" pin="1" pinfunction="PGOOD" pintype="open_collector+no_connect"/>
     </net>
-    <net code="114" name="unconnected-(U301-SW-Pad5)">
+    <net code="142" name="unconnected-(U301-SW-Pad5)">
       <node ref="U301" pin="5" pinfunction="SW" pintype="unspecified+no_connect"/>
     </net>
-    <net code="115" name="unconnected-(U301-SW-Pad6)">
+    <net code="143" name="unconnected-(U301-SW-Pad6)">
       <node ref="U301" pin="6" pinfunction="SW" pintype="unspecified+no_connect"/>
     </net>
-    <net code="116" name="unconnected-(U502-~{FAULT}-Pad3)">
+    <net code="144" name="unconnected-(U502-~{FAULT}-Pad3)">
       <node ref="U502" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="117" name="unconnected-(U602-~{FAULT}-Pad3)">
+    <net code="145" name="unconnected-(U602-~{FAULT}-Pad3)">
       <node ref="U602" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="118" name="unconnected-(U702-~{FAULT}-Pad3)">
+    <net code="146" name="unconnected-(U702-~{FAULT}-Pad3)">
       <node ref="U702" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="119" name="unconnected-(U802-~{FAULT}-Pad3)">
+    <net code="147" name="unconnected-(U802-~{FAULT}-Pad3)">
       <node ref="U802" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="120" name="unconnected-(U902-~{FAULT}-Pad3)">
+    <net code="148" name="unconnected-(U902-~{FAULT}-Pad3)">
       <node ref="U902" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="121" name="unconnected-(U1002-~{FAULT}-Pad3)">
+    <net code="149" name="unconnected-(U1002-~{FAULT}-Pad3)">
       <node ref="U1002" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="122" name="unconnected-(U1102-~{FAULT}-Pad3)">
+    <net code="150" name="unconnected-(U1102-~{FAULT}-Pad3)">
       <node ref="U1102" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="123" name="unconnected-(U1301-NC-Pad3)">
+    <net code="151" name="unconnected-(U1301-NC-Pad3)">
       <node ref="U1301" pin="3" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="124" name="unconnected-(U1301-NC-Pad13)">
+    <net code="152" name="unconnected-(U1301-NC-Pad13)">
       <node ref="U1301" pin="13" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="125" name="unconnected-(U1301-NC-Pad14)">
+    <net code="153" name="unconnected-(U1301-NC-Pad14)">
       <node ref="U1301" pin="14" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="126" name="unconnected-(U1301-S8A-Pad26)">
+    <net code="154" name="unconnected-(U1301-S8A-Pad26)">
       <node ref="U1301" pin="26" pinfunction="S8A" pintype="passive+no_connect"/>
     </net>
-    <net code="127" name="unconnected-(U1301-S8B-Pad4)">
+    <net code="155" name="unconnected-(U1301-S8B-Pad4)">
       <node ref="U1301" pin="4" pinfunction="S8B" pintype="passive+no_connect"/>
     </net>
   </nets>

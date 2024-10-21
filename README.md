@@ -1,25 +1,25 @@
-- [Repository Info](#org0d72d40)
-- [Images](#org33fa26f)
-- [Schematic](#org649f77f)
-- [PCB](#org191712e)
-- [Bill of Materials](#orge23c06e)
-- [Development](#org722ebcb)
+- [Repository Info](#org30eb492)
+- [Images](#orgc958a1d)
+- [Schematic](#org5d11a17)
+- [PCB](#orgaa55392)
+- [Bill of Materials](#org891651f)
+- [Development](#orgef97937)
 
     <!-- This file is generated automatically from metadata -->
     <!-- File edits may be overwritten! -->
 
 
-<a id="org0d72d40"></a>
+<a id="org30eb492"></a>
 
 # Repository Info
 
 -   Project Name: cluster-pcb
 -   Synopsis: PCB for each cluster of prisms in the Voigts Lab honeycomb maze.
--   Documentation Version: 1.2.0
--   Pcb Version: 1.2
+-   Documentation Version: 1.3.0
+-   Pcb Version: 1.3
 -   Enclosure Version: 1.0
--   Supplemental BOM Version: 1.2.1
--   Release Date: 2024-09-16
+-   Supplemental BOM Version: 1.3.0
+-   Release Date: 2024-10-21
 -   Creation Date: 2024-06-28
 -   Kicad Version: 7.0.11
 -   License: BSD-3-Clause
@@ -34,7 +34,7 @@
 ![img](./documentation/pcb/pcb.png)
 
 
-<a id="org33fa26f"></a>
+<a id="orgc958a1d"></a>
 
 # Images
 
@@ -51,7 +51,7 @@
 <img src="./documentation/pcb/right.png" width="1920">
 
 
-<a id="org649f77f"></a>
+<a id="org5d11a17"></a>
 
 # Schematic
 
@@ -86,7 +86,7 @@
 <img src="./documentation/schematic/cluster-pcb-audio.svg" width="1920">
 
 
-<a id="org191712e"></a>
+<a id="orgaa55392"></a>
 
 # PCB
 
@@ -101,7 +101,7 @@
 <img src="./documentation/pcb/cluster-pcb-B_Fab.svg" width="1920">
 
 
-<a id="orge23c06e"></a>
+<a id="org891651f"></a>
 
 # Bill of Materials
 
@@ -113,16 +113,16 @@
 | 1    | 50V 3.3uF                                 | FS32X335K500EGG          | PSA(Prosperity Dielectrics)          | 1        | C301                                                        | 1210               |
 | 2    | CAP CER 0.1UF 100V X5R                    | GRM155R62A104KE14D       | Murata Electronics                   | 10       | C302 C501 C601 C701 C801 C901 C1001 C1101 C1201 C1202       | 0402               |
 | 3    | CAP CER 1UF 25V X5R                       | GRT155R61E105KE01D       | Murata Electronics                   | 2        | C303 C304                                                   | 0402               |
-| 4    | CAP CER 47UF 10V X5R                      | C2012X5R1A476M125AC      | TDK Corporation                      | 1        | C305                                                        | 0805               |
+| 4    | CAP CER 47UF 10V X5R                      | CGA0805X5R476M100MT      | HRE                                  | 1        | C305                                                        | 0805               |
 | 5    | CAP CER 1UF 35V X5R                       | CL05A105KL5NRNC          | Samsung Electro-Mechanics            | 10       | C502 C602 C702 C802 C902 C1002 C1102 C1301 C1302 C1401      | 0402               |
 | 6    | CAP CER 0.22UF 25V X6S                    | GRT155C81E224KE01D       | Murata Electronics                   | 3        | C1402 C1403 C1404                                           | 0402               |
 | 7    | 50V 15A PowerDI-5 Super Barrier Rectifier | SBRT15U50SP5-13          | Diodes Incorporated                  | 1        | D301                                                        | PowerDI-5          |
 | 8    | LED RED CLEAR CHIP SMD                    | APHHS1005SURCK           | Kingbright                           | 1        | D302                                                        | 0402               |
 | 9    | DIODE SCHOTTKY 20V 1A                     | MBR120VLSFT1G            | onsemi                               | 8        | D401 D501 D601 D701 D801 D901 D1001 D1101                   | SOD-123FL          |
-| 10   | TERM BLOCK HDR 4POS 90DEG 3.5MM           | 1844236                  | Phoenix Contact                      | 7        | J501 J601 J701 J801 J901 J1001 J1101                        | Push-Pull P=3.5mm  |
+| 10   | USB Type-C 2.0 16P 5A                     | GT-USB-7047C             | G-Switch                             | 7        | J501 J601 J701 J801 J901 J1001 J1101                        | SMD                |
 | 11   | RA73F 2A 2K32 0.1% 5K RL                  | RA73F2A2K32BTD           | TE Connectivity Passive Product      | 1        | R301                                                        | 0805               |
 | 12   | RES SMD 1.8K OHM 5% 100mW                 | ERJ2GEJ182X              | PANASONIC                            | 2        | R401 R402                                                   | 0402               |
-| 13   | RES SMD 120 OHM 1% 62.5mW                 | RC0402FR-07120RL         | YAGEO                                | 7        | R501 R601 R701 R801 R901 R1001 R1101                        | 0402               |
+| 13   | RES SMD 100 OHM 1% 62.5mW                 | 0402WGF1000TCE           | UNI-ROYAL(Uniroyal Elec)             | 7        | R501 R601 R701 R801 R901 R1001 R1101                        | 0402               |
 | 14   | RES SMD 4.7K OHM 1% 6.25mW                | 0402WGF4701TCE           | UNI-ROYAL(Uniroyal Elec)             | 7        | R502 R602 R702 R802 R902 R1002 R1102                        | 0402               |
 | 15   | RES SMD 10K OHM 5% 1/10W                  | ERJ2GEJ103X              | PANASONIC                            | 10       | R1201 R1202 R1203 R1204 R1205 R1206 R1207 R1208 R1209 R1210 | 0402               |
 | 16   | RES SMD 40k OHM 1% 100mW                  | SCR0603F40K              | VO                                   | 2        | R1401 R1402                                                 | 0603               |
@@ -141,13 +141,14 @@
 
 | Item | Synopsis                        | Manufacturer Part Number | Manufacturer    | Quantity | Cost  | Total |
 |---- |------------------------------- |------------------------ |--------------- |-------- |----- |----- |
-| 1    | TERM BLOCK PLUG 4POS STR 3.5MM  | 277-2418-ND              | Phoenix Contact | 1        | 3.77  | 3.77  |
-| 2    | TERM BLOCK PLUG 2POS STR 5.08MM | 1758364                  | Phoenix Contact | 1        | 1.63  | 1.63  |
-| 3    | W5100S-EVB-PICO RP2040 W5100S   | W5100S-EVB-PICO          | WIZnet          | 1        | 9.95  | 9.95  |
-| 4    | Supplemental BOM Version: 1.2.1 |                          |                 |          | Total | 15.35 |
+| 1    | TERM BLOCK PLUG 2POS STR 5.08MM | 1758364                  | Phoenix Contact | 1        | 1.63  | 1.63  |
+| 2    | CONN FERRULE DIN 16AWG BLACK    | 3200043                  | Phoenix Contact | 4        | 0.14  | 0.56  |
+| 3    | POWER CABLE BULK SJT 16/3       | H-137                    | GlobTek, Inc.   | 1        | 2.40  | 2.40  |
+| 4    | W5100S-EVB-PICO RP2040 W5100S   | W5100S-EVB-PICO          | WIZnet          | 1        | 9.95  | 9.95  |
+| 5    | Supplemental BOM Version: 1.3.0 |                          |                 |          | Total | 14.54 |
 
 
-<a id="org722ebcb"></a>
+<a id="orgef97937"></a>
 
 # Development
 
@@ -287,7 +288,7 @@ rm -rf ./documentation/3dmodels/* && rm -rf ./documentation/bom/* && rm -rf ./do
     
     Zip gerber files
     
-        zip gerbers.zip gerbers/*
+        zip ./documentation/fabrication/gerbers.zip ./documentation/fabrication/gerbers/*
 
 3.  BOM
 
