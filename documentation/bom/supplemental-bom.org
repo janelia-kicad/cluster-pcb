@@ -4,7 +4,7 @@
 * Supplemental BOM
 - Project Name: cluster-pcb
 - Synopsis: PCB for each cluster of prisms in the Voigts Lab honeycomb maze.
-- Release Date: 2024-10-01
+- Release Date: 2024-10-22
 - URL: https://github.com/janelia-kicad/cluster-pcb
 - Author: Peter Polidoro
 - Email: peter@polidoro.io
@@ -18,7 +18,7 @@
 |    3 | POWER CABLE BULK SJT 16/3                              | H-137                    | GlobTek, Inc.   |        1 |  2.40 |  2.40 |
 |    4 | W5100S-EVB-PICO RP2040 W5100S                          | W5100S-EVB-PICO          | WIZnet          |        1 |  9.95 |  9.95 |
 |------+--------------------------------------------------------+--------------------------+-----------------+----------+-------+-------|
-|    5 | Supplemental BOM Version: 2.0.0 |                          |                 |          | Total | 14.54 |
+|    5 | Supplemental BOM Version: 2.1.0 |                          |                 |          | Total | 14.54 |
 #+TBLFM: $1=@#-1::$7=$5*$6;%0.2f::@>$7=vsum(@2..@-1);%0.2f
 #+LATEX: }
 #+END_TABLE

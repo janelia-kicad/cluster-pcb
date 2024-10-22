@@ -136,7 +136,7 @@
   },
   "lib_tree": {
     "column_widths": {
-      "Description": 388,
+      "Description": 390,
       "Item": 389
     },
     "columns": [
@@ -270,7 +270,7 @@
     "pos_x": 0,
     "pos_y": 25,
     "size_x": 1070,
-    "size_y": 702,
+    "size_y": 726,
     "zoom_factors": [
       0.05,
       0.07,

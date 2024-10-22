@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>/home/polidorop/Repositories/kicad/cluster-pcb/cluster-pcb/cluster-pcb.kicad_sch</source>
-    <date>Tue 01 Oct 2024 10:46:31 AM EDT</date>
+    <date>Tue 22 Oct 2024 03:28:07 PM EDT</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>cluster-pcb.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -26,8 +26,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>assembly.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -44,8 +44,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>power.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -62,8 +62,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>microcontroller.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -80,8 +80,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -98,8 +98,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -116,8 +116,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -134,8 +134,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -152,8 +152,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -170,8 +170,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -188,8 +188,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>prism.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -206,8 +206,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>address.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -224,8 +224,8 @@
       <title_block>
         <title>cluster-pcb</title>
         <company>Howard Hughes Medical Institute</company>
-        <rev>2.0</rev>
-        <date>2024-10-01</date>
+        <rev>2.1</rev>
+        <date>2024-10-22</date>
         <source>audio.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -348,25 +348,25 @@
       <value>47uF_10V</value>
       <footprint>Janelia:C_0805_2012Metric</footprint>
       <fields>
-        <field name="LCSC">C2182652</field>
-        <field name="Manufacturer">TDK Corporation</field>
-        <field name="Manufacturer Part Number">C2012X5R1A476M125AC</field>
+        <field name="LCSC">C6119904</field>
+        <field name="Manufacturer">HRE</field>
+        <field name="Manufacturer Part Number">CGA0805X5R476M100MT</field>
         <field name="Package">0805</field>
         <field name="Synopsis">CAP CER 47UF 10V X5R</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">445-8239-1-ND</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C6119904</field>
       </fields>
-      <libsource lib="Janelia" part="C_47uF_10V_0805" description="47 µF ±20% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="445-8239-1-ND"/>
+      <libsource lib="Janelia" part="C_47uF_10V_0805" description="10V 47uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C6119904"/>
       <property name="Package" value="0805"/>
-      <property name="Manufacturer" value="TDK Corporation"/>
-      <property name="Manufacturer Part Number" value="C2012X5R1A476M125AC"/>
+      <property name="Manufacturer" value="HRE"/>
+      <property name="Manufacturer Part Number" value="CGA0805X5R476M100MT"/>
       <property name="Synopsis" value="CAP CER 47UF 10V X5R"/>
-      <property name="LCSC" value="C2182652"/>
+      <property name="LCSC" value="C6119904"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="47 µF ±20% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"/>
+      <property name="ki_description" value="10V 47uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
       <sheetpath names="/power/" tstamps="/c1dd8f61-494c-402f-8e59-08309c64fc3f/"/>
       <tstamps>29ffe78a-ca40-43e5-b993-4477d1ca67ef</tstamps>
     </comp>
@@ -666,6 +666,32 @@
       <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
       <tstamps>d997718f-4c96-44db-9958-dd29b2b987e8</tstamps>
     </comp>
+    <comp ref="C504">
+      <value>0.1uF_100V</value>
+      <footprint>Janelia:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C162178</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">CAP CER 0.1UF 100V X5R</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">490-10458-1-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="C_0.1uF_100V_0402" description="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="490-10458-1-ND"/>
+      <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
+      <property name="Package" value="0402"/>
+      <property name="LCSC" value="C162178"/>
+      <property name="Sheetname" value="prism-0"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
+      <tstamps>018a4495-019a-4e78-987b-70ceb2732701</tstamps>
+    </comp>
     <comp ref="D501">
       <value>D_SCHOTTKY_20V_1A</value>
       <footprint>Janelia:SOD-123FL</footprint>
@@ -722,7 +748,7 @@
       <tstamps>9fd2ef91-e740-4ac9-98f7-6669140ccfa9</tstamps>
     </comp>
     <comp ref="J501">
-      <value>USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
       <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
         <field name="LCSC">C963218</field>
@@ -733,7 +759,7 @@
         <field name="Vendor">JLCPCB</field>
         <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
       <property name="Package" value="SMD"/>
       <property name="Manufacturer" value="G-Switch"/>
@@ -746,7 +772,7 @@
       <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
-      <tstamps>c87374d2-6037-4deb-93d8-92eba141903f</tstamps>
+      <tstamps>27f34946-4770-4f0e-be48-75445b67b69e</tstamps>
     </comp>
     <comp ref="R501">
       <value>100</value>
@@ -852,30 +878,56 @@
       <tstamps>8e31b176-348c-4604-8231-bd09e6759cae</tstamps>
     </comp>
     <comp ref="R505">
-      <value>100k</value>
+      <value>1.8k</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C106234</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402JR-07100KL</field>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES 100K OHM 5% 1/16W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">311-100KJRCT-ND</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
       </fields>
-      <libsource lib="Janelia" part="R_100k_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="311-100KJRCT-ND"/>
-      <property name="Synopsis" value="RES 100K OHM 5% 1/16W"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402JR-07100KL"/>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
       <property name="Package" value="0402"/>
-      <property name="LCSC" value="C106234"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
       <property name="Sheetname" value="prism-0"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
-      <tstamps>2b941127-e6fb-4bb9-a837-64d818138e7c</tstamps>
+      <tstamps>2285ae7b-4a9d-4b58-88c5-459b468af867</tstamps>
+    </comp>
+    <comp ref="R506">
+      <value>1.8k</value>
+      <footprint>Janelia:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
+      </fields>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
+      <property name="Package" value="0402"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
+      <property name="Sheetname" value="prism-0"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
+      <tstamps>ca96d237-6948-4c6d-a68f-7b2cd6c533e9</tstamps>
     </comp>
     <comp ref="TR501">
       <value>1:1</value>
@@ -956,6 +1008,34 @@
       <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
       <tstamps>e7973adc-5fad-498a-b0ec-b0dfcb918e7e</tstamps>
     </comp>
+    <comp ref="U503">
+      <value>Buffer_74LVC1G125DRYR</value>
+      <footprint>Janelia:DRY6</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C527546</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">SN74LVC1G125DRYR</field>
+        <field name="Package">USON-6(1x1.5)</field>
+        <field name="Synopsis">IC BUFF NON-INVERT 1.65-5.5V</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">296-21816-1-ND </field>
+      </fields>
+      <libsource lib="Janelia" part="Buffer_74LVC1G125DRYR" description="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="Synopsis" value="IC BUFF NON-INVERT 1.65-5.5V"/>
+      <property name="Package" value="USON-6(1x1.5)"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="SN74LVC1G125DRYR"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="296-21816-1-ND "/>
+      <property name="LCSC" value="C527546"/>
+      <property name="Sheetname" value="prism-0"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="ki_keywords" value="Single Gate Buff Tri-State LVC CMOS"/>
+      <sheetpath names="/prism-0/" tstamps="/622b6afe-64ba-4b4f-894e-aa16e3fefe2c/"/>
+      <tstamps>eb4d822f-ab9c-46ed-8483-922d73548c1a</tstamps>
+    </comp>
     <comp ref="C601">
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
@@ -1032,6 +1112,32 @@
       <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
       <tstamps>d997718f-4c96-44db-9958-dd29b2b987e8</tstamps>
     </comp>
+    <comp ref="C604">
+      <value>0.1uF_100V</value>
+      <footprint>Janelia:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C162178</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">CAP CER 0.1UF 100V X5R</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">490-10458-1-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="C_0.1uF_100V_0402" description="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="490-10458-1-ND"/>
+      <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
+      <property name="Package" value="0402"/>
+      <property name="LCSC" value="C162178"/>
+      <property name="Sheetname" value="prism-1"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
+      <tstamps>018a4495-019a-4e78-987b-70ceb2732701</tstamps>
+    </comp>
     <comp ref="D601">
       <value>D_SCHOTTKY_20V_1A</value>
       <footprint>Janelia:SOD-123FL</footprint>
@@ -1088,7 +1194,7 @@
       <tstamps>9fd2ef91-e740-4ac9-98f7-6669140ccfa9</tstamps>
     </comp>
     <comp ref="J601">
-      <value>USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
       <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
         <field name="LCSC">C963218</field>
@@ -1099,7 +1205,7 @@
         <field name="Vendor">JLCPCB</field>
         <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
       <property name="Package" value="SMD"/>
       <property name="Manufacturer" value="G-Switch"/>
@@ -1112,7 +1218,7 @@
       <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
-      <tstamps>c87374d2-6037-4deb-93d8-92eba141903f</tstamps>
+      <tstamps>27f34946-4770-4f0e-be48-75445b67b69e</tstamps>
     </comp>
     <comp ref="R601">
       <value>100</value>
@@ -1218,30 +1324,56 @@
       <tstamps>8e31b176-348c-4604-8231-bd09e6759cae</tstamps>
     </comp>
     <comp ref="R605">
-      <value>100k</value>
+      <value>1.8k</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C106234</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402JR-07100KL</field>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES 100K OHM 5% 1/16W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">311-100KJRCT-ND</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
       </fields>
-      <libsource lib="Janelia" part="R_100k_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="311-100KJRCT-ND"/>
-      <property name="Synopsis" value="RES 100K OHM 5% 1/16W"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402JR-07100KL"/>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
       <property name="Package" value="0402"/>
-      <property name="LCSC" value="C106234"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
       <property name="Sheetname" value="prism-1"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
-      <tstamps>2b941127-e6fb-4bb9-a837-64d818138e7c</tstamps>
+      <tstamps>2285ae7b-4a9d-4b58-88c5-459b468af867</tstamps>
+    </comp>
+    <comp ref="R606">
+      <value>1.8k</value>
+      <footprint>Janelia:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
+      </fields>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
+      <property name="Package" value="0402"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
+      <property name="Sheetname" value="prism-1"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
+      <tstamps>ca96d237-6948-4c6d-a68f-7b2cd6c533e9</tstamps>
     </comp>
     <comp ref="TR601">
       <value>1:1</value>
@@ -1322,6 +1454,34 @@
       <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
       <tstamps>e7973adc-5fad-498a-b0ec-b0dfcb918e7e</tstamps>
     </comp>
+    <comp ref="U603">
+      <value>Buffer_74LVC1G125DRYR</value>
+      <footprint>Janelia:DRY6</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C527546</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">SN74LVC1G125DRYR</field>
+        <field name="Package">USON-6(1x1.5)</field>
+        <field name="Synopsis">IC BUFF NON-INVERT 1.65-5.5V</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">296-21816-1-ND </field>
+      </fields>
+      <libsource lib="Janelia" part="Buffer_74LVC1G125DRYR" description="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="Synopsis" value="IC BUFF NON-INVERT 1.65-5.5V"/>
+      <property name="Package" value="USON-6(1x1.5)"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="SN74LVC1G125DRYR"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="296-21816-1-ND "/>
+      <property name="LCSC" value="C527546"/>
+      <property name="Sheetname" value="prism-1"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="ki_keywords" value="Single Gate Buff Tri-State LVC CMOS"/>
+      <sheetpath names="/prism-1/" tstamps="/a71d32da-f9cb-43f1-ab25-5fee9e3817d5/"/>
+      <tstamps>eb4d822f-ab9c-46ed-8483-922d73548c1a</tstamps>
+    </comp>
     <comp ref="C701">
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
@@ -1398,6 +1558,32 @@
       <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
       <tstamps>d997718f-4c96-44db-9958-dd29b2b987e8</tstamps>
     </comp>
+    <comp ref="C704">
+      <value>0.1uF_100V</value>
+      <footprint>Janelia:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C162178</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">CAP CER 0.1UF 100V X5R</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">490-10458-1-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="C_0.1uF_100V_0402" description="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="490-10458-1-ND"/>
+      <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
+      <property name="Package" value="0402"/>
+      <property name="LCSC" value="C162178"/>
+      <property name="Sheetname" value="prism-2"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
+      <tstamps>018a4495-019a-4e78-987b-70ceb2732701</tstamps>
+    </comp>
     <comp ref="D701">
       <value>D_SCHOTTKY_20V_1A</value>
       <footprint>Janelia:SOD-123FL</footprint>
@@ -1454,7 +1640,7 @@
       <tstamps>9fd2ef91-e740-4ac9-98f7-6669140ccfa9</tstamps>
     </comp>
     <comp ref="J701">
-      <value>USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
       <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
         <field name="LCSC">C963218</field>
@@ -1465,7 +1651,7 @@
         <field name="Vendor">JLCPCB</field>
         <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
       <property name="Package" value="SMD"/>
       <property name="Manufacturer" value="G-Switch"/>
@@ -1478,7 +1664,7 @@
       <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
-      <tstamps>c87374d2-6037-4deb-93d8-92eba141903f</tstamps>
+      <tstamps>27f34946-4770-4f0e-be48-75445b67b69e</tstamps>
     </comp>
     <comp ref="R701">
       <value>100</value>
@@ -1584,30 +1770,56 @@
       <tstamps>8e31b176-348c-4604-8231-bd09e6759cae</tstamps>
     </comp>
     <comp ref="R705">
-      <value>100k</value>
+      <value>1.8k</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C106234</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402JR-07100KL</field>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES 100K OHM 5% 1/16W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">311-100KJRCT-ND</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
       </fields>
-      <libsource lib="Janelia" part="R_100k_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="311-100KJRCT-ND"/>
-      <property name="Synopsis" value="RES 100K OHM 5% 1/16W"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402JR-07100KL"/>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
       <property name="Package" value="0402"/>
-      <property name="LCSC" value="C106234"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
       <property name="Sheetname" value="prism-2"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
-      <tstamps>2b941127-e6fb-4bb9-a837-64d818138e7c</tstamps>
+      <tstamps>2285ae7b-4a9d-4b58-88c5-459b468af867</tstamps>
+    </comp>
+    <comp ref="R706">
+      <value>1.8k</value>
+      <footprint>Janelia:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
+      </fields>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
+      <property name="Package" value="0402"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
+      <property name="Sheetname" value="prism-2"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
+      <tstamps>ca96d237-6948-4c6d-a68f-7b2cd6c533e9</tstamps>
     </comp>
     <comp ref="TR701">
       <value>1:1</value>
@@ -1688,6 +1900,34 @@
       <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
       <tstamps>e7973adc-5fad-498a-b0ec-b0dfcb918e7e</tstamps>
     </comp>
+    <comp ref="U703">
+      <value>Buffer_74LVC1G125DRYR</value>
+      <footprint>Janelia:DRY6</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C527546</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">SN74LVC1G125DRYR</field>
+        <field name="Package">USON-6(1x1.5)</field>
+        <field name="Synopsis">IC BUFF NON-INVERT 1.65-5.5V</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">296-21816-1-ND </field>
+      </fields>
+      <libsource lib="Janelia" part="Buffer_74LVC1G125DRYR" description="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="Synopsis" value="IC BUFF NON-INVERT 1.65-5.5V"/>
+      <property name="Package" value="USON-6(1x1.5)"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="SN74LVC1G125DRYR"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="296-21816-1-ND "/>
+      <property name="LCSC" value="C527546"/>
+      <property name="Sheetname" value="prism-2"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="ki_keywords" value="Single Gate Buff Tri-State LVC CMOS"/>
+      <sheetpath names="/prism-2/" tstamps="/9d4d3b5f-be88-4261-b203-2246a336433c/"/>
+      <tstamps>eb4d822f-ab9c-46ed-8483-922d73548c1a</tstamps>
+    </comp>
     <comp ref="C801">
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
@@ -1764,6 +2004,32 @@
       <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
       <tstamps>d997718f-4c96-44db-9958-dd29b2b987e8</tstamps>
     </comp>
+    <comp ref="C804">
+      <value>0.1uF_100V</value>
+      <footprint>Janelia:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C162178</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">CAP CER 0.1UF 100V X5R</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">490-10458-1-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="C_0.1uF_100V_0402" description="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="490-10458-1-ND"/>
+      <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
+      <property name="Package" value="0402"/>
+      <property name="LCSC" value="C162178"/>
+      <property name="Sheetname" value="prism-3"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
+      <tstamps>018a4495-019a-4e78-987b-70ceb2732701</tstamps>
+    </comp>
     <comp ref="D801">
       <value>D_SCHOTTKY_20V_1A</value>
       <footprint>Janelia:SOD-123FL</footprint>
@@ -1820,7 +2086,7 @@
       <tstamps>9fd2ef91-e740-4ac9-98f7-6669140ccfa9</tstamps>
     </comp>
     <comp ref="J801">
-      <value>USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
       <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
         <field name="LCSC">C963218</field>
@@ -1831,7 +2097,7 @@
         <field name="Vendor">JLCPCB</field>
         <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
       <property name="Package" value="SMD"/>
       <property name="Manufacturer" value="G-Switch"/>
@@ -1844,7 +2110,7 @@
       <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
-      <tstamps>c87374d2-6037-4deb-93d8-92eba141903f</tstamps>
+      <tstamps>27f34946-4770-4f0e-be48-75445b67b69e</tstamps>
     </comp>
     <comp ref="R801">
       <value>100</value>
@@ -1950,30 +2216,56 @@
       <tstamps>8e31b176-348c-4604-8231-bd09e6759cae</tstamps>
     </comp>
     <comp ref="R805">
-      <value>100k</value>
+      <value>1.8k</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C106234</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402JR-07100KL</field>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES 100K OHM 5% 1/16W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">311-100KJRCT-ND</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
       </fields>
-      <libsource lib="Janelia" part="R_100k_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="311-100KJRCT-ND"/>
-      <property name="Synopsis" value="RES 100K OHM 5% 1/16W"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402JR-07100KL"/>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
       <property name="Package" value="0402"/>
-      <property name="LCSC" value="C106234"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
       <property name="Sheetname" value="prism-3"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
-      <tstamps>2b941127-e6fb-4bb9-a837-64d818138e7c</tstamps>
+      <tstamps>2285ae7b-4a9d-4b58-88c5-459b468af867</tstamps>
+    </comp>
+    <comp ref="R806">
+      <value>1.8k</value>
+      <footprint>Janelia:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
+      </fields>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
+      <property name="Package" value="0402"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
+      <property name="Sheetname" value="prism-3"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
+      <tstamps>ca96d237-6948-4c6d-a68f-7b2cd6c533e9</tstamps>
     </comp>
     <comp ref="TR801">
       <value>1:1</value>
@@ -2054,6 +2346,34 @@
       <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
       <tstamps>e7973adc-5fad-498a-b0ec-b0dfcb918e7e</tstamps>
     </comp>
+    <comp ref="U803">
+      <value>Buffer_74LVC1G125DRYR</value>
+      <footprint>Janelia:DRY6</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C527546</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">SN74LVC1G125DRYR</field>
+        <field name="Package">USON-6(1x1.5)</field>
+        <field name="Synopsis">IC BUFF NON-INVERT 1.65-5.5V</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">296-21816-1-ND </field>
+      </fields>
+      <libsource lib="Janelia" part="Buffer_74LVC1G125DRYR" description="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="Synopsis" value="IC BUFF NON-INVERT 1.65-5.5V"/>
+      <property name="Package" value="USON-6(1x1.5)"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="SN74LVC1G125DRYR"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="296-21816-1-ND "/>
+      <property name="LCSC" value="C527546"/>
+      <property name="Sheetname" value="prism-3"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="ki_keywords" value="Single Gate Buff Tri-State LVC CMOS"/>
+      <sheetpath names="/prism-3/" tstamps="/db5894f8-55af-48c2-a941-3e31d7793716/"/>
+      <tstamps>eb4d822f-ab9c-46ed-8483-922d73548c1a</tstamps>
+    </comp>
     <comp ref="C901">
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
@@ -2130,6 +2450,32 @@
       <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
       <tstamps>d997718f-4c96-44db-9958-dd29b2b987e8</tstamps>
     </comp>
+    <comp ref="C904">
+      <value>0.1uF_100V</value>
+      <footprint>Janelia:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C162178</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">CAP CER 0.1UF 100V X5R</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">490-10458-1-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="C_0.1uF_100V_0402" description="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="490-10458-1-ND"/>
+      <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
+      <property name="Package" value="0402"/>
+      <property name="LCSC" value="C162178"/>
+      <property name="Sheetname" value="prism-5"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
+      <tstamps>018a4495-019a-4e78-987b-70ceb2732701</tstamps>
+    </comp>
     <comp ref="D901">
       <value>D_SCHOTTKY_20V_1A</value>
       <footprint>Janelia:SOD-123FL</footprint>
@@ -2186,7 +2532,7 @@
       <tstamps>9fd2ef91-e740-4ac9-98f7-6669140ccfa9</tstamps>
     </comp>
     <comp ref="J901">
-      <value>USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
       <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
         <field name="LCSC">C963218</field>
@@ -2197,7 +2543,7 @@
         <field name="Vendor">JLCPCB</field>
         <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
       <property name="Package" value="SMD"/>
       <property name="Manufacturer" value="G-Switch"/>
@@ -2210,7 +2556,7 @@
       <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
-      <tstamps>c87374d2-6037-4deb-93d8-92eba141903f</tstamps>
+      <tstamps>27f34946-4770-4f0e-be48-75445b67b69e</tstamps>
     </comp>
     <comp ref="R901">
       <value>100</value>
@@ -2316,30 +2662,56 @@
       <tstamps>8e31b176-348c-4604-8231-bd09e6759cae</tstamps>
     </comp>
     <comp ref="R905">
-      <value>100k</value>
+      <value>1.8k</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C106234</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402JR-07100KL</field>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES 100K OHM 5% 1/16W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">311-100KJRCT-ND</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
       </fields>
-      <libsource lib="Janelia" part="R_100k_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="311-100KJRCT-ND"/>
-      <property name="Synopsis" value="RES 100K OHM 5% 1/16W"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402JR-07100KL"/>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
       <property name="Package" value="0402"/>
-      <property name="LCSC" value="C106234"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
       <property name="Sheetname" value="prism-5"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
-      <tstamps>2b941127-e6fb-4bb9-a837-64d818138e7c</tstamps>
+      <tstamps>2285ae7b-4a9d-4b58-88c5-459b468af867</tstamps>
+    </comp>
+    <comp ref="R906">
+      <value>1.8k</value>
+      <footprint>Janelia:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
+      </fields>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
+      <property name="Package" value="0402"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
+      <property name="Sheetname" value="prism-5"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
+      <tstamps>ca96d237-6948-4c6d-a68f-7b2cd6c533e9</tstamps>
     </comp>
     <comp ref="TR901">
       <value>1:1</value>
@@ -2420,6 +2792,34 @@
       <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
       <tstamps>e7973adc-5fad-498a-b0ec-b0dfcb918e7e</tstamps>
     </comp>
+    <comp ref="U903">
+      <value>Buffer_74LVC1G125DRYR</value>
+      <footprint>Janelia:DRY6</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C527546</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">SN74LVC1G125DRYR</field>
+        <field name="Package">USON-6(1x1.5)</field>
+        <field name="Synopsis">IC BUFF NON-INVERT 1.65-5.5V</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">296-21816-1-ND </field>
+      </fields>
+      <libsource lib="Janelia" part="Buffer_74LVC1G125DRYR" description="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="Synopsis" value="IC BUFF NON-INVERT 1.65-5.5V"/>
+      <property name="Package" value="USON-6(1x1.5)"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="SN74LVC1G125DRYR"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="296-21816-1-ND "/>
+      <property name="LCSC" value="C527546"/>
+      <property name="Sheetname" value="prism-5"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="ki_keywords" value="Single Gate Buff Tri-State LVC CMOS"/>
+      <sheetpath names="/prism-5/" tstamps="/6d3bcc59-228e-43b3-9299-2dd708dcaa45/"/>
+      <tstamps>eb4d822f-ab9c-46ed-8483-922d73548c1a</tstamps>
+    </comp>
     <comp ref="C1001">
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
@@ -2496,6 +2896,32 @@
       <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
       <tstamps>d997718f-4c96-44db-9958-dd29b2b987e8</tstamps>
     </comp>
+    <comp ref="C1004">
+      <value>0.1uF_100V</value>
+      <footprint>Janelia:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C162178</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">CAP CER 0.1UF 100V X5R</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">490-10458-1-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="C_0.1uF_100V_0402" description="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="490-10458-1-ND"/>
+      <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
+      <property name="Package" value="0402"/>
+      <property name="LCSC" value="C162178"/>
+      <property name="Sheetname" value="prism-4"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
+      <tstamps>018a4495-019a-4e78-987b-70ceb2732701</tstamps>
+    </comp>
     <comp ref="D1001">
       <value>D_SCHOTTKY_20V_1A</value>
       <footprint>Janelia:SOD-123FL</footprint>
@@ -2552,7 +2978,7 @@
       <tstamps>9fd2ef91-e740-4ac9-98f7-6669140ccfa9</tstamps>
     </comp>
     <comp ref="J1001">
-      <value>USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
       <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
         <field name="LCSC">C963218</field>
@@ -2563,7 +2989,7 @@
         <field name="Vendor">JLCPCB</field>
         <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
       <property name="Package" value="SMD"/>
       <property name="Manufacturer" value="G-Switch"/>
@@ -2576,7 +3002,7 @@
       <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
-      <tstamps>c87374d2-6037-4deb-93d8-92eba141903f</tstamps>
+      <tstamps>27f34946-4770-4f0e-be48-75445b67b69e</tstamps>
     </comp>
     <comp ref="R1001">
       <value>100</value>
@@ -2682,30 +3108,56 @@
       <tstamps>8e31b176-348c-4604-8231-bd09e6759cae</tstamps>
     </comp>
     <comp ref="R1005">
-      <value>100k</value>
+      <value>1.8k</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C106234</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402JR-07100KL</field>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES 100K OHM 5% 1/16W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">311-100KJRCT-ND</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
       </fields>
-      <libsource lib="Janelia" part="R_100k_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="311-100KJRCT-ND"/>
-      <property name="Synopsis" value="RES 100K OHM 5% 1/16W"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402JR-07100KL"/>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
       <property name="Package" value="0402"/>
-      <property name="LCSC" value="C106234"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
       <property name="Sheetname" value="prism-4"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
-      <tstamps>2b941127-e6fb-4bb9-a837-64d818138e7c</tstamps>
+      <tstamps>2285ae7b-4a9d-4b58-88c5-459b468af867</tstamps>
+    </comp>
+    <comp ref="R1006">
+      <value>1.8k</value>
+      <footprint>Janelia:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
+      </fields>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
+      <property name="Package" value="0402"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
+      <property name="Sheetname" value="prism-4"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
+      <tstamps>ca96d237-6948-4c6d-a68f-7b2cd6c533e9</tstamps>
     </comp>
     <comp ref="TR1001">
       <value>1:1</value>
@@ -2786,6 +3238,34 @@
       <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
       <tstamps>e7973adc-5fad-498a-b0ec-b0dfcb918e7e</tstamps>
     </comp>
+    <comp ref="U1003">
+      <value>Buffer_74LVC1G125DRYR</value>
+      <footprint>Janelia:DRY6</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C527546</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">SN74LVC1G125DRYR</field>
+        <field name="Package">USON-6(1x1.5)</field>
+        <field name="Synopsis">IC BUFF NON-INVERT 1.65-5.5V</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">296-21816-1-ND </field>
+      </fields>
+      <libsource lib="Janelia" part="Buffer_74LVC1G125DRYR" description="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="Synopsis" value="IC BUFF NON-INVERT 1.65-5.5V"/>
+      <property name="Package" value="USON-6(1x1.5)"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="SN74LVC1G125DRYR"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="296-21816-1-ND "/>
+      <property name="LCSC" value="C527546"/>
+      <property name="Sheetname" value="prism-4"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="ki_keywords" value="Single Gate Buff Tri-State LVC CMOS"/>
+      <sheetpath names="/prism-4/" tstamps="/bfbaa572-51ae-4b71-8c7f-4f186195adbc/"/>
+      <tstamps>eb4d822f-ab9c-46ed-8483-922d73548c1a</tstamps>
+    </comp>
     <comp ref="C1101">
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
@@ -2862,6 +3342,32 @@
       <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
       <tstamps>d997718f-4c96-44db-9958-dd29b2b987e8</tstamps>
     </comp>
+    <comp ref="C1104">
+      <value>0.1uF_100V</value>
+      <footprint>Janelia:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C162178</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">CAP CER 0.1UF 100V X5R</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">490-10458-1-ND</field>
+      </fields>
+      <libsource lib="Janelia" part="C_0.1uF_100V_0402" description="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="490-10458-1-ND"/>
+      <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
+      <property name="Package" value="0402"/>
+      <property name="LCSC" value="C162178"/>
+      <property name="Sheetname" value="prism-6"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
+      <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
+      <tstamps>018a4495-019a-4e78-987b-70ceb2732701</tstamps>
+    </comp>
     <comp ref="D1101">
       <value>D_SCHOTTKY_20V_1A</value>
       <footprint>Janelia:SOD-123FL</footprint>
@@ -2918,7 +3424,7 @@
       <tstamps>9fd2ef91-e740-4ac9-98f7-6669140ccfa9</tstamps>
     </comp>
     <comp ref="J1101">
-      <value>USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
+      <value>Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</value>
       <footprint>Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</footprint>
       <fields>
         <field name="LCSC">C963218</field>
@@ -2929,7 +3435,7 @@
         <field name="Vendor">JLCPCB</field>
         <field name="Vendor Part Number">C963218</field>
       </fields>
-      <libsource lib="Janelia" part="USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
+      <libsource lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C" description="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="Synopsis" value="USB Type-C 2.0 16P 5A"/>
       <property name="Package" value="SMD"/>
       <property name="Manufacturer" value="G-Switch"/>
@@ -2942,7 +3448,7 @@
       <property name="ki_description" value="5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS"/>
       <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
-      <tstamps>c87374d2-6037-4deb-93d8-92eba141903f</tstamps>
+      <tstamps>27f34946-4770-4f0e-be48-75445b67b69e</tstamps>
     </comp>
     <comp ref="R1101">
       <value>100</value>
@@ -3048,30 +3554,56 @@
       <tstamps>8e31b176-348c-4604-8231-bd09e6759cae</tstamps>
     </comp>
     <comp ref="R1105">
-      <value>100k</value>
+      <value>1.8k</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C106234</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402JR-07100KL</field>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES 100K OHM 5% 1/16W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">311-100KJRCT-ND</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
       </fields>
-      <libsource lib="Janelia" part="R_100k_0402" description="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="311-100KJRCT-ND"/>
-      <property name="Synopsis" value="RES 100K OHM 5% 1/16W"/>
-      <property name="Manufacturer" value="YAGEO"/>
-      <property name="Manufacturer Part Number" value="RC0402JR-07100KL"/>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
       <property name="Package" value="0402"/>
-      <property name="LCSC" value="C106234"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
       <property name="Sheetname" value="prism-6"/>
       <property name="Sheetfile" value="prism.kicad_sch"/>
-      <property name="ki_description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
       <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
-      <tstamps>2b941127-e6fb-4bb9-a837-64d818138e7c</tstamps>
+      <tstamps>2285ae7b-4a9d-4b58-88c5-459b468af867</tstamps>
+    </comp>
+    <comp ref="R1106">
+      <value>1.8k</value>
+      <footprint>Janelia:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C409855</field>
+        <field name="Manufacturer">PANASONIC</field>
+        <field name="Manufacturer Part Number">ERJ2GEJ182X</field>
+        <field name="Package">0402</field>
+        <field name="Synopsis">RES SMD 1.8K OHM 5% 100mW</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C409855</field>
+      </fields>
+      <libsource lib="Janelia" part="R_1.8k_0402" description="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C409855"/>
+      <property name="Synopsis" value="RES SMD 1.8K OHM 5% 100mW"/>
+      <property name="Package" value="0402"/>
+      <property name="Manufacturer" value="PANASONIC"/>
+      <property name="Manufacturer Part Number" value="ERJ2GEJ182X"/>
+      <property name="LCSC" value="C409855"/>
+      <property name="Sheetname" value="prism-6"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="100mW Thick Film Resistors ±5% ±200ppm/℃ 1.8kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
+      <tstamps>ca96d237-6948-4c6d-a68f-7b2cd6c533e9</tstamps>
     </comp>
     <comp ref="TR1101">
       <value>1:1</value>
@@ -3151,6 +3683,34 @@
       <property name="ki_description" value="Power Switch ICs - Power Distribution 40-V 200-mO 1-ch automotive smart high-side switch with adjustable current limit 8-HVSSOP -40 to 125"/>
       <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
       <tstamps>e7973adc-5fad-498a-b0ec-b0dfcb918e7e</tstamps>
+    </comp>
+    <comp ref="U1103">
+      <value>Buffer_74LVC1G125DRYR</value>
+      <footprint>Janelia:DRY6</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C527546</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">SN74LVC1G125DRYR</field>
+        <field name="Package">USON-6(1x1.5)</field>
+        <field name="Synopsis">IC BUFF NON-INVERT 1.65-5.5V</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">296-21816-1-ND </field>
+      </fields>
+      <libsource lib="Janelia" part="Buffer_74LVC1G125DRYR" description="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="Synopsis" value="IC BUFF NON-INVERT 1.65-5.5V"/>
+      <property name="Package" value="USON-6(1x1.5)"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="SN74LVC1G125DRYR"/>
+      <property name="Vendor" value="Digi-Key"/>
+      <property name="Vendor Part Number" value="296-21816-1-ND "/>
+      <property name="LCSC" value="C527546"/>
+      <property name="Sheetname" value="prism-6"/>
+      <property name="Sheetfile" value="prism.kicad_sch"/>
+      <property name="ki_description" value="32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS"/>
+      <property name="ki_keywords" value="Single Gate Buff Tri-State LVC CMOS"/>
+      <sheetpath names="/prism-6/" tstamps="/78ebced8-6951-4549-97f4-07e6588cf891/"/>
+      <tstamps>eb4d822f-ab9c-46ed-8483-922d73548c1a</tstamps>
     </comp>
     <comp ref="C1201">
       <value>0.1uF_100V</value>
@@ -3757,6 +4317,37 @@
         <pin num="9" name="EPAD" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="Janelia" part="Buffer_74LVC1G125DRYR">
+      <description>32mA 1.65V~5.5V 32mA USON-6(1x1.5) Buffers Drivers Receivers Transceivers ROHS</description>
+      <docs>https://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+        <fp>Texas?R-PDSO-G5?DCK*</fp>
+        <fp>Texas?R-PDSO-N5?DRL*</fp>
+        <fp>Texas?X2SON*0.8x0.8mm*P0.48mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Buffer_74LVC1G125DRYR</field>
+        <field name="Footprint">Janelia:DRY6</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf</field>
+        <field name="Synopsis">IC BUFF NON-INVERT 1.65-5.5V</field>
+        <field name="Package">USON-6(1x1.5)</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">SN74LVC1G125DRYR</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">296-21816-1-ND </field>
+        <field name="LCSC">C527546</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{OE}" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="" type="tri_state"/>
+        <pin num="5" name="NC" type="no_connect"/>
+        <pin num="6" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
     <libpart lib="Janelia" part="C_0.1uF_100V_0402">
       <description>0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</description>
       <footprints>
@@ -3900,7 +4491,7 @@
       </pins>
     </libpart>
     <libpart lib="Janelia" part="C_47uF_10V_0805">
-      <description>47 µF ±20% 10V Ceramic Capacitor X5R 0805 (2012 Metric)</description>
+      <description>10V 47uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
       <footprints>
         <fp>SM*</fp>
         <fp>C?</fp>
@@ -3910,13 +4501,13 @@
         <field name="Reference">C</field>
         <field name="Value">47uF_10V</field>
         <field name="Footprint">Janelia:C_0805_2012Metric</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">445-8239-1-ND</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C6119904</field>
         <field name="Synopsis">CAP CER 47UF 10V X5R</field>
         <field name="Package">0805</field>
-        <field name="Manufacturer">TDK Corporation</field>
-        <field name="Manufacturer Part Number">C2012X5R1A476M125AC</field>
-        <field name="LCSC">C2182652</field>
+        <field name="Manufacturer">HRE</field>
+        <field name="Manufacturer Part Number">CGA0805X5R476M100MT</field>
+        <field name="LCSC">C6119904</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3945,6 +4536,44 @@
         <pin num="2" name="2" type="passive"/>
         <pin num="3" name="3" type="passive"/>
         <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Janelia" part="Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C">
+      <description>5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS</description>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Connector_USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</field>
+        <field name="Footprint">Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</field>
+        <field name="Synopsis">USB Type-C 2.0 16P 5A</field>
+        <field name="Package">SMD</field>
+        <field name="Manufacturer">G-Switch</field>
+        <field name="Manufacturer Part Number">GT-USB-7047C</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C963218</field>
+        <field name="LCSC">C963218</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Janelia" part="D_50V_15A">
@@ -4305,32 +4934,6 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Janelia" part="R_100k_0402">
-      <description>62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% 100kΩ 0402 Chip Resistor - Surface Mount ROHS</description>
-      <footprints>
-        <fp>R?</fp>
-        <fp>SM0603</fp>
-        <fp>SM0805</fp>
-        <fp>R?-*</fp>
-        <fp>SM1206</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">100k</field>
-        <field name="Footprint">Janelia:R_0402_1005Metric</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">311-100KJRCT-ND</field>
-        <field name="Synopsis">RES 100K OHM 5% 1/16W</field>
-        <field name="Manufacturer">YAGEO</field>
-        <field name="Manufacturer Part Number">RC0402JR-07100KL</field>
-        <field name="Package">0402</field>
-        <field name="LCSC">C106234</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Janelia" part="R_2.32k_1W_0805">
       <description>2.32 kOhms ±0.1% 1W Chip Resistor 0805 (2012 Metric) Thin Film</description>
       <footprints>
@@ -4600,43 +5203,6 @@
         <pin num="6" name="TCT" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Janelia" part="USB_C_Receptacle_USB2.0_16P_GT-USB-7047C">
-      <description>5A USB 2.0 1 Horizontal attachment 16P Female -40℃~+85℃ Gold High conductivity copper Type-C SMD USB Connectors ROHS</description>
-      <footprints>
-        <fp>USB*C*Receptacle*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">USB_C_Receptacle_USB2.0_16P_GT-USB-7047C</field>
-        <field name="Footprint">Janelia:USB_C_Receptacle_GT-USB-7047C_16P_TopMnt_Horizontal</field>
-        <field name="Synopsis">USB Type-C 2.0 16P 5A</field>
-        <field name="Package">SMD</field>
-        <field name="Manufacturer">G-Switch</field>
-        <field name="Manufacturer Part Number">GT-USB-7047C</field>
-        <field name="Vendor">JLCPCB</field>
-        <field name="Vendor Part Number">C963218</field>
-        <field name="LCSC">C963218</field>
-      </fields>
-      <pins>
-        <pin num="A1" name="GND" type="passive"/>
-        <pin num="A4" name="VBUS" type="passive"/>
-        <pin num="A5" name="CC1" type="bidirectional"/>
-        <pin num="A6" name="D+" type="bidirectional"/>
-        <pin num="A7" name="D-" type="bidirectional"/>
-        <pin num="A8" name="SBU1" type="bidirectional"/>
-        <pin num="A9" name="VBUS" type="passive"/>
-        <pin num="A12" name="GND" type="passive"/>
-        <pin num="B1" name="GND" type="passive"/>
-        <pin num="B4" name="VBUS" type="passive"/>
-        <pin num="B5" name="CC2" type="bidirectional"/>
-        <pin num="B6" name="D+" type="bidirectional"/>
-        <pin num="B7" name="D-" type="bidirectional"/>
-        <pin num="B8" name="SBU2" type="bidirectional"/>
-        <pin num="B9" name="VBUS" type="passive"/>
-        <pin num="B12" name="GND" type="passive"/>
-        <pin num="S1" name="SHIELD" type="passive"/>
-      </pins>
-    </libpart>
   </libparts>
   <libraries>
     <library logical="Janelia">
@@ -4646,25 +5212,39 @@
   <nets>
     <net code="1" name="/+3.3V">
       <node ref="C1001" pin="1" pintype="passive"/>
+      <node ref="C1004" pin="1" pintype="passive"/>
       <node ref="C1101" pin="1" pintype="passive"/>
+      <node ref="C1104" pin="1" pintype="passive"/>
       <node ref="C1201" pin="1" pintype="passive"/>
       <node ref="C1202" pin="1" pintype="passive"/>
       <node ref="C501" pin="1" pintype="passive"/>
+      <node ref="C504" pin="1" pintype="passive"/>
       <node ref="C601" pin="1" pintype="passive"/>
+      <node ref="C604" pin="1" pintype="passive"/>
       <node ref="C701" pin="1" pintype="passive"/>
+      <node ref="C704" pin="1" pintype="passive"/>
       <node ref="C801" pin="1" pintype="passive"/>
+      <node ref="C804" pin="1" pintype="passive"/>
       <node ref="C901" pin="1" pintype="passive"/>
+      <node ref="C904" pin="1" pintype="passive"/>
       <node ref="R1005" pin="1" pintype="passive"/>
+      <node ref="R1006" pin="1" pintype="passive"/>
       <node ref="R1105" pin="1" pintype="passive"/>
+      <node ref="R1106" pin="1" pintype="passive"/>
       <node ref="R1201" pin="1" pintype="passive"/>
       <node ref="R1202" pin="1" pintype="passive"/>
       <node ref="R401" pin="1" pintype="passive"/>
       <node ref="R402" pin="1" pintype="passive"/>
       <node ref="R505" pin="1" pintype="passive"/>
+      <node ref="R506" pin="1" pintype="passive"/>
       <node ref="R605" pin="1" pintype="passive"/>
+      <node ref="R606" pin="1" pintype="passive"/>
       <node ref="R705" pin="1" pintype="passive"/>
+      <node ref="R706" pin="1" pintype="passive"/>
       <node ref="R805" pin="1" pintype="passive"/>
+      <node ref="R806" pin="1" pintype="passive"/>
       <node ref="R905" pin="1" pintype="passive"/>
+      <node ref="R906" pin="1" pintype="passive"/>
       <node ref="SW1201" pin="10" pintype="passive"/>
       <node ref="SW1201" pin="11" pintype="passive"/>
       <node ref="SW1201" pin="12" pintype="passive"/>
@@ -4673,22 +5253,22 @@
       <node ref="SW1201" pin="15" pintype="passive"/>
       <node ref="SW1201" pin="16" pintype="passive"/>
       <node ref="SW1201" pin="9" pintype="passive"/>
-      <node ref="U1001" pin="12" pinfunction="MSTR" pintype="input"/>
       <node ref="U1001" pin="6" pinfunction="VDDS" pintype="power_in"/>
-      <node ref="U1101" pin="12" pinfunction="MSTR" pintype="input"/>
+      <node ref="U1003" pin="6" pinfunction="VCC" pintype="power_in"/>
       <node ref="U1101" pin="6" pinfunction="VDDS" pintype="power_in"/>
+      <node ref="U1103" pin="6" pinfunction="VCC" pintype="power_in"/>
       <node ref="U1201" pin="14" pinfunction="VCCP" pintype="power_in"/>
       <node ref="U1201" pin="15" pinfunction="VCCI" pintype="power_in"/>
-      <node ref="U501" pin="12" pinfunction="MSTR" pintype="input"/>
       <node ref="U501" pin="6" pinfunction="VDDS" pintype="power_in"/>
-      <node ref="U601" pin="12" pinfunction="MSTR" pintype="input"/>
+      <node ref="U503" pin="6" pinfunction="VCC" pintype="power_in"/>
       <node ref="U601" pin="6" pinfunction="VDDS" pintype="power_in"/>
-      <node ref="U701" pin="12" pinfunction="MSTR" pintype="input"/>
+      <node ref="U603" pin="6" pinfunction="VCC" pintype="power_in"/>
       <node ref="U701" pin="6" pinfunction="VDDS" pintype="power_in"/>
-      <node ref="U801" pin="12" pinfunction="MSTR" pintype="input"/>
+      <node ref="U703" pin="6" pinfunction="VCC" pintype="power_in"/>
       <node ref="U801" pin="6" pinfunction="VDDS" pintype="power_in"/>
-      <node ref="U901" pin="12" pinfunction="MSTR" pintype="input"/>
+      <node ref="U803" pin="6" pinfunction="VCC" pintype="power_in"/>
       <node ref="U901" pin="6" pinfunction="VDDS" pintype="power_in"/>
+      <node ref="U903" pin="6" pinfunction="VCC" pintype="power_in"/>
     </net>
     <net code="2" name="/+5V">
       <node ref="C1002" pin="1" pintype="passive"/>
@@ -4702,9 +5282,11 @@
       <node ref="C802" pin="1" pintype="passive"/>
       <node ref="C902" pin="1" pintype="passive"/>
       <node ref="D401" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1001" pin="12" pinfunction="MSTR" pintype="input"/>
       <node ref="U1001" pin="7" pinfunction="POL" pintype="input"/>
       <node ref="U1001" pin="8" pinfunction="PHA" pintype="input"/>
       <node ref="U1001" pin="9" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1101" pin="12" pinfunction="MSTR" pintype="input"/>
       <node ref="U1101" pin="7" pinfunction="POL" pintype="input"/>
       <node ref="U1101" pin="8" pinfunction="PHA" pintype="input"/>
       <node ref="U1101" pin="9" pinfunction="VDD" pintype="power_in"/>
@@ -4712,18 +5294,23 @@
       <node ref="U1401" pin="6" pinfunction="VDD" pintype="power_in"/>
       <node ref="U301" pin="4" pinfunction="VOUT" pintype="unspecified"/>
       <node ref="U301" pin="9" pinfunction="BIAS" pintype="unspecified"/>
+      <node ref="U501" pin="12" pinfunction="MSTR" pintype="input"/>
       <node ref="U501" pin="7" pinfunction="POL" pintype="input"/>
       <node ref="U501" pin="8" pinfunction="PHA" pintype="input"/>
       <node ref="U501" pin="9" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U601" pin="12" pinfunction="MSTR" pintype="input"/>
       <node ref="U601" pin="7" pinfunction="POL" pintype="input"/>
       <node ref="U601" pin="8" pinfunction="PHA" pintype="input"/>
       <node ref="U601" pin="9" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U701" pin="12" pinfunction="MSTR" pintype="input"/>
       <node ref="U701" pin="7" pinfunction="POL" pintype="input"/>
       <node ref="U701" pin="8" pinfunction="PHA" pintype="input"/>
       <node ref="U701" pin="9" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U801" pin="12" pinfunction="MSTR" pintype="input"/>
       <node ref="U801" pin="7" pinfunction="POL" pintype="input"/>
       <node ref="U801" pin="8" pinfunction="PHA" pintype="input"/>
       <node ref="U801" pin="9" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U901" pin="12" pinfunction="MSTR" pintype="input"/>
       <node ref="U901" pin="7" pinfunction="POL" pintype="input"/>
       <node ref="U901" pin="8" pinfunction="PHA" pintype="input"/>
       <node ref="U901" pin="9" pinfunction="VDD" pintype="power_in"/>
@@ -4735,9 +5322,11 @@
       <node ref="C1001" pin="2" pintype="passive"/>
       <node ref="C1002" pin="2" pintype="passive"/>
       <node ref="C1003" pin="2" pintype="passive"/>
+      <node ref="C1004" pin="2" pintype="passive"/>
       <node ref="C1101" pin="2" pintype="passive"/>
       <node ref="C1102" pin="2" pintype="passive"/>
       <node ref="C1103" pin="2" pintype="passive"/>
+      <node ref="C1104" pin="2" pintype="passive"/>
       <node ref="C1201" pin="2" pintype="passive"/>
       <node ref="C1202" pin="2" pintype="passive"/>
       <node ref="C1401" pin="2" pintype="passive"/>
@@ -4751,54 +5340,66 @@
       <node ref="C501" pin="2" pintype="passive"/>
       <node ref="C502" pin="2" pintype="passive"/>
       <node ref="C503" pin="2" pintype="passive"/>
+      <node ref="C504" pin="2" pintype="passive"/>
       <node ref="C601" pin="2" pintype="passive"/>
       <node ref="C602" pin="2" pintype="passive"/>
       <node ref="C603" pin="2" pintype="passive"/>
+      <node ref="C604" pin="2" pintype="passive"/>
       <node ref="C701" pin="2" pintype="passive"/>
       <node ref="C702" pin="2" pintype="passive"/>
       <node ref="C703" pin="2" pintype="passive"/>
+      <node ref="C704" pin="2" pintype="passive"/>
       <node ref="C801" pin="2" pintype="passive"/>
       <node ref="C802" pin="2" pintype="passive"/>
       <node ref="C803" pin="2" pintype="passive"/>
+      <node ref="C804" pin="2" pintype="passive"/>
       <node ref="C901" pin="2" pintype="passive"/>
       <node ref="C902" pin="2" pintype="passive"/>
       <node ref="C903" pin="2" pintype="passive"/>
+      <node ref="C904" pin="2" pintype="passive"/>
       <node ref="D302" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J1001" pin="A1" pinfunction="GND" pintype="passive"/>
       <node ref="J1001" pin="A12" pinfunction="GND" pintype="passive"/>
       <node ref="J1001" pin="B1" pinfunction="GND" pintype="passive"/>
       <node ref="J1001" pin="B12" pinfunction="GND" pintype="passive"/>
       <node ref="J1001" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1001" pin="S2" pinfunction="SHIELD" pintype="passive"/>
       <node ref="J1101" pin="A1" pinfunction="GND" pintype="passive"/>
       <node ref="J1101" pin="A12" pinfunction="GND" pintype="passive"/>
       <node ref="J1101" pin="B1" pinfunction="GND" pintype="passive"/>
       <node ref="J1101" pin="B12" pinfunction="GND" pintype="passive"/>
       <node ref="J1101" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1101" pin="S2" pinfunction="SHIELD" pintype="passive"/>
       <node ref="J501" pin="A1" pinfunction="GND" pintype="passive"/>
       <node ref="J501" pin="A12" pinfunction="GND" pintype="passive"/>
       <node ref="J501" pin="B1" pinfunction="GND" pintype="passive"/>
       <node ref="J501" pin="B12" pinfunction="GND" pintype="passive"/>
       <node ref="J501" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J501" pin="S2" pinfunction="SHIELD" pintype="passive"/>
       <node ref="J601" pin="A1" pinfunction="GND" pintype="passive"/>
       <node ref="J601" pin="A12" pinfunction="GND" pintype="passive"/>
       <node ref="J601" pin="B1" pinfunction="GND" pintype="passive"/>
       <node ref="J601" pin="B12" pinfunction="GND" pintype="passive"/>
       <node ref="J601" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J601" pin="S2" pinfunction="SHIELD" pintype="passive"/>
       <node ref="J701" pin="A1" pinfunction="GND" pintype="passive"/>
       <node ref="J701" pin="A12" pinfunction="GND" pintype="passive"/>
       <node ref="J701" pin="B1" pinfunction="GND" pintype="passive"/>
       <node ref="J701" pin="B12" pinfunction="GND" pintype="passive"/>
       <node ref="J701" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J701" pin="S2" pinfunction="SHIELD" pintype="passive"/>
       <node ref="J801" pin="A1" pinfunction="GND" pintype="passive"/>
       <node ref="J801" pin="A12" pinfunction="GND" pintype="passive"/>
       <node ref="J801" pin="B1" pinfunction="GND" pintype="passive"/>
       <node ref="J801" pin="B12" pinfunction="GND" pintype="passive"/>
       <node ref="J801" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J801" pin="S2" pinfunction="SHIELD" pintype="passive"/>
       <node ref="J901" pin="A1" pinfunction="GND" pintype="passive"/>
       <node ref="J901" pin="A12" pinfunction="GND" pintype="passive"/>
       <node ref="J901" pin="B1" pinfunction="GND" pintype="passive"/>
       <node ref="J901" pin="B12" pinfunction="GND" pintype="passive"/>
       <node ref="J901" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J901" pin="S2" pinfunction="SHIELD" pintype="passive"/>
       <node ref="R1004" pin="2" pintype="passive"/>
       <node ref="R1104" pin="2" pintype="passive"/>
       <node ref="R1203" pin="2" pintype="passive"/>
@@ -4822,6 +5423,7 @@
       <node ref="U1002" pin="5" pinfunction="DELAY" pintype="passive"/>
       <node ref="U1002" pin="6" pinfunction="GND" pintype="power_in"/>
       <node ref="U1002" pin="9" pinfunction="EP" pintype="passive"/>
+      <node ref="U1003" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="U1101" pin="13" pinfunction="SLOW" pintype="input"/>
       <node ref="U1101" pin="14" pinfunction="GND" pintype="power_in"/>
       <node ref="U1102" pin="2" pinfunction="DIAG_EN" pintype="input"/>
@@ -4829,6 +5431,7 @@
       <node ref="U1102" pin="5" pinfunction="DELAY" pintype="passive"/>
       <node ref="U1102" pin="6" pinfunction="GND" pintype="power_in"/>
       <node ref="U1102" pin="9" pinfunction="EP" pintype="passive"/>
+      <node ref="U1103" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="U1201" pin="16" pinfunction="ADDR" pintype="input"/>
       <node ref="U1201" pin="17" pinfunction="EP" pintype="bidirectional"/>
       <node ref="U1201" pin="6" pinfunction="GND" pintype="power_in"/>
@@ -4842,6 +5445,7 @@
       <node ref="U502" pin="5" pinfunction="DELAY" pintype="passive"/>
       <node ref="U502" pin="6" pinfunction="GND" pintype="power_in"/>
       <node ref="U502" pin="9" pinfunction="EP" pintype="passive"/>
+      <node ref="U503" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="U601" pin="13" pinfunction="SLOW" pintype="input"/>
       <node ref="U601" pin="14" pinfunction="GND" pintype="power_in"/>
       <node ref="U602" pin="2" pinfunction="DIAG_EN" pintype="input"/>
@@ -4849,6 +5453,7 @@
       <node ref="U602" pin="5" pinfunction="DELAY" pintype="passive"/>
       <node ref="U602" pin="6" pinfunction="GND" pintype="power_in"/>
       <node ref="U602" pin="9" pinfunction="EP" pintype="passive"/>
+      <node ref="U603" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="U701" pin="13" pinfunction="SLOW" pintype="input"/>
       <node ref="U701" pin="14" pinfunction="GND" pintype="power_in"/>
       <node ref="U702" pin="2" pinfunction="DIAG_EN" pintype="input"/>
@@ -4856,6 +5461,7 @@
       <node ref="U702" pin="5" pinfunction="DELAY" pintype="passive"/>
       <node ref="U702" pin="6" pinfunction="GND" pintype="power_in"/>
       <node ref="U702" pin="9" pinfunction="EP" pintype="passive"/>
+      <node ref="U703" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="U801" pin="13" pinfunction="SLOW" pintype="input"/>
       <node ref="U801" pin="14" pinfunction="GND" pintype="power_in"/>
       <node ref="U802" pin="2" pinfunction="DIAG_EN" pintype="input"/>
@@ -4863,6 +5469,7 @@
       <node ref="U802" pin="5" pinfunction="DELAY" pintype="passive"/>
       <node ref="U802" pin="6" pinfunction="GND" pintype="power_in"/>
       <node ref="U802" pin="9" pinfunction="EP" pintype="passive"/>
+      <node ref="U803" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="U901" pin="13" pinfunction="SLOW" pintype="input"/>
       <node ref="U901" pin="14" pinfunction="GND" pintype="power_in"/>
       <node ref="U902" pin="2" pinfunction="DIAG_EN" pintype="input"/>
@@ -4870,22 +5477,16 @@
       <node ref="U902" pin="5" pinfunction="DELAY" pintype="passive"/>
       <node ref="U902" pin="6" pinfunction="GND" pintype="power_in"/>
       <node ref="U902" pin="9" pinfunction="EP" pintype="passive"/>
+      <node ref="U903" pin="3" pinfunction="GND" pintype="power_in"/>
     </net>
     <net code="5" name="/PRISM_CIPO">
-      <node ref="R1005" pin="2" pintype="passive"/>
-      <node ref="R1105" pin="2" pintype="passive"/>
-      <node ref="R505" pin="2" pintype="passive"/>
-      <node ref="R605" pin="2" pintype="passive"/>
-      <node ref="R705" pin="2" pintype="passive"/>
-      <node ref="R805" pin="2" pintype="passive"/>
-      <node ref="R905" pin="2" pintype="passive"/>
-      <node ref="U1001" pin="3" pinfunction="MISO" pintype="bidirectional"/>
-      <node ref="U1101" pin="3" pinfunction="MISO" pintype="bidirectional"/>
-      <node ref="U501" pin="3" pinfunction="MISO" pintype="bidirectional"/>
-      <node ref="U601" pin="3" pinfunction="MISO" pintype="bidirectional"/>
-      <node ref="U701" pin="3" pinfunction="MISO" pintype="bidirectional"/>
-      <node ref="U801" pin="3" pinfunction="MISO" pintype="bidirectional"/>
-      <node ref="U901" pin="3" pinfunction="MISO" pintype="bidirectional"/>
+      <node ref="U1003" pin="4" pintype="tri_state"/>
+      <node ref="U1103" pin="4" pintype="tri_state"/>
+      <node ref="U503" pin="4" pintype="tri_state"/>
+      <node ref="U603" pin="4" pintype="tri_state"/>
+      <node ref="U703" pin="4" pintype="tri_state"/>
+      <node ref="U803" pin="4" pintype="tri_state"/>
+      <node ref="U903" pin="4" pintype="tri_state"/>
     </net>
     <net code="6" name="/PRISM_COPI">
       <node ref="U1001" pin="2" pinfunction="MOSI" pintype="bidirectional"/>
@@ -5004,379 +5605,414 @@
       <node ref="U301" pin="11" pinfunction="MODE_SYNC" pintype="unspecified"/>
       <node ref="U301" pin="8" pinfunction="VCC" pintype="unspecified"/>
     </net>
-    <net code="28" name="/prism-0/CT">
+    <net code="28" name="/prism-0/CIPO_UNBUFFERED">
+      <node ref="R505" pin="2" pintype="passive"/>
+      <node ref="U501" pin="3" pinfunction="MISO" pintype="bidirectional"/>
+      <node ref="U503" pin="2" pintype="input"/>
+    </net>
+    <net code="29" name="/prism-0/CT">
       <node ref="C503" pin="1" pintype="passive"/>
       <node ref="TR501" pin="6" pinfunction="TCT" pintype="passive"/>
     </net>
-    <net code="29" name="/prism-0/I0+">
+    <net code="30" name="/prism-0/I0+">
       <node ref="J501" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J501" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="TR501" pin="5" pinfunction="MX+" pintype="passive"/>
     </net>
-    <net code="30" name="/prism-0/I0-">
+    <net code="31" name="/prism-0/I0-">
       <node ref="J501" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J501" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="TR501" pin="4" pinfunction="MX-" pintype="passive"/>
     </net>
-    <net code="31" name="/prism-0/I1+">
+    <net code="32" name="/prism-0/I1+">
       <node ref="FL501" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="TR501" pin="1" pinfunction="TD+" pintype="passive"/>
     </net>
-    <net code="32" name="/prism-0/I1-">
+    <net code="33" name="/prism-0/I1-">
       <node ref="FL501" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="TR501" pin="2" pinfunction="TD-" pintype="passive"/>
     </net>
-    <net code="33" name="/prism-0/I2+">
+    <net code="34" name="/prism-0/I2+">
       <node ref="FL501" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R501" pin="1" pintype="passive"/>
       <node ref="U501" pin="11" pinfunction="IP" pintype="bidirectional"/>
     </net>
-    <net code="34" name="/prism-0/I2-">
+    <net code="35" name="/prism-0/I2-">
       <node ref="FL501" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R501" pin="2" pintype="passive"/>
       <node ref="U501" pin="10" pinfunction="IM" pintype="bidirectional"/>
     </net>
-    <net code="35" name="/prism-0/IBIAS">
+    <net code="36" name="/prism-0/IBIAS">
       <node ref="R503" pin="1" pintype="passive"/>
       <node ref="U501" pin="16" pinfunction="IBIAS" pintype="passive"/>
     </net>
-    <net code="36" name="/prism-0/ICMP">
+    <net code="37" name="/prism-0/ICMP">
       <node ref="R503" pin="2" pintype="passive"/>
       <node ref="R504" pin="1" pintype="passive"/>
       <node ref="U501" pin="15" pinfunction="ICMP" pintype="passive"/>
     </net>
-    <net code="37" name="/prism-0/VBB">
+    <net code="38" name="/prism-0/VBB">
       <node ref="D501" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U502" pin="7" pinfunction="OUT" pintype="output"/>
     </net>
-    <net code="38" name="/prism-0/VCC">
+    <net code="39" name="/prism-0/VCC">
       <node ref="D501" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J501" pin="A4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J501" pin="A9" pinfunction="VBUS" pintype="passive"/>
       <node ref="J501" pin="B4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J501" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
-    <net code="39" name="/prism-1/CT">
+    <net code="40" name="/prism-1/CIPO_UNBUFFERED">
+      <node ref="R605" pin="2" pintype="passive"/>
+      <node ref="U601" pin="3" pinfunction="MISO" pintype="bidirectional"/>
+      <node ref="U603" pin="2" pintype="input"/>
+    </net>
+    <net code="41" name="/prism-1/CT">
       <node ref="C603" pin="1" pintype="passive"/>
       <node ref="TR601" pin="6" pinfunction="TCT" pintype="passive"/>
     </net>
-    <net code="40" name="/prism-1/I0+">
+    <net code="42" name="/prism-1/I0+">
       <node ref="J601" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J601" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="TR601" pin="5" pinfunction="MX+" pintype="passive"/>
     </net>
-    <net code="41" name="/prism-1/I0-">
+    <net code="43" name="/prism-1/I0-">
       <node ref="J601" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J601" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="TR601" pin="4" pinfunction="MX-" pintype="passive"/>
     </net>
-    <net code="42" name="/prism-1/I1+">
+    <net code="44" name="/prism-1/I1+">
       <node ref="FL601" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="TR601" pin="1" pinfunction="TD+" pintype="passive"/>
     </net>
-    <net code="43" name="/prism-1/I1-">
+    <net code="45" name="/prism-1/I1-">
       <node ref="FL601" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="TR601" pin="2" pinfunction="TD-" pintype="passive"/>
     </net>
-    <net code="44" name="/prism-1/I2+">
+    <net code="46" name="/prism-1/I2+">
       <node ref="FL601" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R601" pin="1" pintype="passive"/>
       <node ref="U601" pin="11" pinfunction="IP" pintype="bidirectional"/>
     </net>
-    <net code="45" name="/prism-1/I2-">
+    <net code="47" name="/prism-1/I2-">
       <node ref="FL601" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R601" pin="2" pintype="passive"/>
       <node ref="U601" pin="10" pinfunction="IM" pintype="bidirectional"/>
     </net>
-    <net code="46" name="/prism-1/IBIAS">
+    <net code="48" name="/prism-1/IBIAS">
       <node ref="R603" pin="1" pintype="passive"/>
       <node ref="U601" pin="16" pinfunction="IBIAS" pintype="passive"/>
     </net>
-    <net code="47" name="/prism-1/ICMP">
+    <net code="49" name="/prism-1/ICMP">
       <node ref="R603" pin="2" pintype="passive"/>
       <node ref="R604" pin="1" pintype="passive"/>
       <node ref="U601" pin="15" pinfunction="ICMP" pintype="passive"/>
     </net>
-    <net code="48" name="/prism-1/VBB">
+    <net code="50" name="/prism-1/VBB">
       <node ref="D601" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U602" pin="7" pinfunction="OUT" pintype="output"/>
     </net>
-    <net code="49" name="/prism-1/VCC">
+    <net code="51" name="/prism-1/VCC">
       <node ref="D601" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J601" pin="A4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J601" pin="A9" pinfunction="VBUS" pintype="passive"/>
       <node ref="J601" pin="B4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J601" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
-    <net code="50" name="/prism-2/CT">
+    <net code="52" name="/prism-2/CIPO_UNBUFFERED">
+      <node ref="R705" pin="2" pintype="passive"/>
+      <node ref="U701" pin="3" pinfunction="MISO" pintype="bidirectional"/>
+      <node ref="U703" pin="2" pintype="input"/>
+    </net>
+    <net code="53" name="/prism-2/CT">
       <node ref="C703" pin="1" pintype="passive"/>
       <node ref="TR701" pin="6" pinfunction="TCT" pintype="passive"/>
     </net>
-    <net code="51" name="/prism-2/I0+">
+    <net code="54" name="/prism-2/I0+">
       <node ref="J701" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J701" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="TR701" pin="5" pinfunction="MX+" pintype="passive"/>
     </net>
-    <net code="52" name="/prism-2/I0-">
+    <net code="55" name="/prism-2/I0-">
       <node ref="J701" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J701" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="TR701" pin="4" pinfunction="MX-" pintype="passive"/>
     </net>
-    <net code="53" name="/prism-2/I1+">
+    <net code="56" name="/prism-2/I1+">
       <node ref="FL701" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="TR701" pin="1" pinfunction="TD+" pintype="passive"/>
     </net>
-    <net code="54" name="/prism-2/I1-">
+    <net code="57" name="/prism-2/I1-">
       <node ref="FL701" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="TR701" pin="2" pinfunction="TD-" pintype="passive"/>
     </net>
-    <net code="55" name="/prism-2/I2+">
+    <net code="58" name="/prism-2/I2+">
       <node ref="FL701" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R701" pin="1" pintype="passive"/>
       <node ref="U701" pin="11" pinfunction="IP" pintype="bidirectional"/>
     </net>
-    <net code="56" name="/prism-2/I2-">
+    <net code="59" name="/prism-2/I2-">
       <node ref="FL701" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R701" pin="2" pintype="passive"/>
       <node ref="U701" pin="10" pinfunction="IM" pintype="bidirectional"/>
     </net>
-    <net code="57" name="/prism-2/IBIAS">
+    <net code="60" name="/prism-2/IBIAS">
       <node ref="R703" pin="1" pintype="passive"/>
       <node ref="U701" pin="16" pinfunction="IBIAS" pintype="passive"/>
     </net>
-    <net code="58" name="/prism-2/ICMP">
+    <net code="61" name="/prism-2/ICMP">
       <node ref="R703" pin="2" pintype="passive"/>
       <node ref="R704" pin="1" pintype="passive"/>
       <node ref="U701" pin="15" pinfunction="ICMP" pintype="passive"/>
     </net>
-    <net code="59" name="/prism-2/VBB">
+    <net code="62" name="/prism-2/VBB">
       <node ref="D701" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U702" pin="7" pinfunction="OUT" pintype="output"/>
     </net>
-    <net code="60" name="/prism-2/VCC">
+    <net code="63" name="/prism-2/VCC">
       <node ref="D701" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J701" pin="A4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J701" pin="A9" pinfunction="VBUS" pintype="passive"/>
       <node ref="J701" pin="B4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J701" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
-    <net code="61" name="/prism-3/CT">
+    <net code="64" name="/prism-3/CIPO_UNBUFFERED">
+      <node ref="R805" pin="2" pintype="passive"/>
+      <node ref="U801" pin="3" pinfunction="MISO" pintype="bidirectional"/>
+      <node ref="U803" pin="2" pintype="input"/>
+    </net>
+    <net code="65" name="/prism-3/CT">
       <node ref="C803" pin="1" pintype="passive"/>
       <node ref="TR801" pin="6" pinfunction="TCT" pintype="passive"/>
     </net>
-    <net code="62" name="/prism-3/I0+">
+    <net code="66" name="/prism-3/I0+">
       <node ref="J801" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J801" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="TR801" pin="5" pinfunction="MX+" pintype="passive"/>
     </net>
-    <net code="63" name="/prism-3/I0-">
+    <net code="67" name="/prism-3/I0-">
       <node ref="J801" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J801" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="TR801" pin="4" pinfunction="MX-" pintype="passive"/>
     </net>
-    <net code="64" name="/prism-3/I1+">
+    <net code="68" name="/prism-3/I1+">
       <node ref="FL801" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="TR801" pin="1" pinfunction="TD+" pintype="passive"/>
     </net>
-    <net code="65" name="/prism-3/I1-">
+    <net code="69" name="/prism-3/I1-">
       <node ref="FL801" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="TR801" pin="2" pinfunction="TD-" pintype="passive"/>
     </net>
-    <net code="66" name="/prism-3/I2+">
+    <net code="70" name="/prism-3/I2+">
       <node ref="FL801" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R801" pin="1" pintype="passive"/>
       <node ref="U801" pin="11" pinfunction="IP" pintype="bidirectional"/>
     </net>
-    <net code="67" name="/prism-3/I2-">
+    <net code="71" name="/prism-3/I2-">
       <node ref="FL801" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R801" pin="2" pintype="passive"/>
       <node ref="U801" pin="10" pinfunction="IM" pintype="bidirectional"/>
     </net>
-    <net code="68" name="/prism-3/IBIAS">
+    <net code="72" name="/prism-3/IBIAS">
       <node ref="R803" pin="1" pintype="passive"/>
       <node ref="U801" pin="16" pinfunction="IBIAS" pintype="passive"/>
     </net>
-    <net code="69" name="/prism-3/ICMP">
+    <net code="73" name="/prism-3/ICMP">
       <node ref="R803" pin="2" pintype="passive"/>
       <node ref="R804" pin="1" pintype="passive"/>
       <node ref="U801" pin="15" pinfunction="ICMP" pintype="passive"/>
     </net>
-    <net code="70" name="/prism-3/VBB">
+    <net code="74" name="/prism-3/VBB">
       <node ref="D801" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U802" pin="7" pinfunction="OUT" pintype="output"/>
     </net>
-    <net code="71" name="/prism-3/VCC">
+    <net code="75" name="/prism-3/VCC">
       <node ref="D801" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J801" pin="A4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J801" pin="A9" pinfunction="VBUS" pintype="passive"/>
       <node ref="J801" pin="B4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J801" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
-    <net code="72" name="/prism-4/CT">
+    <net code="76" name="/prism-4/CIPO_UNBUFFERED">
+      <node ref="R1005" pin="2" pintype="passive"/>
+      <node ref="U1001" pin="3" pinfunction="MISO" pintype="bidirectional"/>
+      <node ref="U1003" pin="2" pintype="input"/>
+    </net>
+    <net code="77" name="/prism-4/CT">
       <node ref="C1003" pin="1" pintype="passive"/>
       <node ref="TR1001" pin="6" pinfunction="TCT" pintype="passive"/>
     </net>
-    <net code="73" name="/prism-4/I0+">
+    <net code="78" name="/prism-4/I0+">
       <node ref="J1001" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J1001" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="TR1001" pin="5" pinfunction="MX+" pintype="passive"/>
     </net>
-    <net code="74" name="/prism-4/I0-">
+    <net code="79" name="/prism-4/I0-">
       <node ref="J1001" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J1001" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="TR1001" pin="4" pinfunction="MX-" pintype="passive"/>
     </net>
-    <net code="75" name="/prism-4/I1+">
+    <net code="80" name="/prism-4/I1+">
       <node ref="FL1001" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="TR1001" pin="1" pinfunction="TD+" pintype="passive"/>
     </net>
-    <net code="76" name="/prism-4/I1-">
+    <net code="81" name="/prism-4/I1-">
       <node ref="FL1001" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="TR1001" pin="2" pinfunction="TD-" pintype="passive"/>
     </net>
-    <net code="77" name="/prism-4/I2+">
+    <net code="82" name="/prism-4/I2+">
       <node ref="FL1001" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R1001" pin="1" pintype="passive"/>
       <node ref="U1001" pin="11" pinfunction="IP" pintype="bidirectional"/>
     </net>
-    <net code="78" name="/prism-4/I2-">
+    <net code="83" name="/prism-4/I2-">
       <node ref="FL1001" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R1001" pin="2" pintype="passive"/>
       <node ref="U1001" pin="10" pinfunction="IM" pintype="bidirectional"/>
     </net>
-    <net code="79" name="/prism-4/IBIAS">
+    <net code="84" name="/prism-4/IBIAS">
       <node ref="R1003" pin="1" pintype="passive"/>
       <node ref="U1001" pin="16" pinfunction="IBIAS" pintype="passive"/>
     </net>
-    <net code="80" name="/prism-4/ICMP">
+    <net code="85" name="/prism-4/ICMP">
       <node ref="R1003" pin="2" pintype="passive"/>
       <node ref="R1004" pin="1" pintype="passive"/>
       <node ref="U1001" pin="15" pinfunction="ICMP" pintype="passive"/>
     </net>
-    <net code="81" name="/prism-4/VBB">
+    <net code="86" name="/prism-4/VBB">
       <node ref="D1001" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U1002" pin="7" pinfunction="OUT" pintype="output"/>
     </net>
-    <net code="82" name="/prism-4/VCC">
+    <net code="87" name="/prism-4/VCC">
       <node ref="D1001" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J1001" pin="A4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J1001" pin="A9" pinfunction="VBUS" pintype="passive"/>
       <node ref="J1001" pin="B4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J1001" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
-    <net code="83" name="/prism-5/CT">
+    <net code="88" name="/prism-5/CIPO_UNBUFFERED">
+      <node ref="R905" pin="2" pintype="passive"/>
+      <node ref="U901" pin="3" pinfunction="MISO" pintype="bidirectional"/>
+      <node ref="U903" pin="2" pintype="input"/>
+    </net>
+    <net code="89" name="/prism-5/CT">
       <node ref="C903" pin="1" pintype="passive"/>
       <node ref="TR901" pin="6" pinfunction="TCT" pintype="passive"/>
     </net>
-    <net code="84" name="/prism-5/I0+">
+    <net code="90" name="/prism-5/I0+">
       <node ref="J901" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J901" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="TR901" pin="5" pinfunction="MX+" pintype="passive"/>
     </net>
-    <net code="85" name="/prism-5/I0-">
+    <net code="91" name="/prism-5/I0-">
       <node ref="J901" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J901" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="TR901" pin="4" pinfunction="MX-" pintype="passive"/>
     </net>
-    <net code="86" name="/prism-5/I1+">
+    <net code="92" name="/prism-5/I1+">
       <node ref="FL901" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="TR901" pin="1" pinfunction="TD+" pintype="passive"/>
     </net>
-    <net code="87" name="/prism-5/I1-">
+    <net code="93" name="/prism-5/I1-">
       <node ref="FL901" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="TR901" pin="2" pinfunction="TD-" pintype="passive"/>
     </net>
-    <net code="88" name="/prism-5/I2+">
+    <net code="94" name="/prism-5/I2+">
       <node ref="FL901" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R901" pin="1" pintype="passive"/>
       <node ref="U901" pin="11" pinfunction="IP" pintype="bidirectional"/>
     </net>
-    <net code="89" name="/prism-5/I2-">
+    <net code="95" name="/prism-5/I2-">
       <node ref="FL901" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R901" pin="2" pintype="passive"/>
       <node ref="U901" pin="10" pinfunction="IM" pintype="bidirectional"/>
     </net>
-    <net code="90" name="/prism-5/IBIAS">
+    <net code="96" name="/prism-5/IBIAS">
       <node ref="R903" pin="1" pintype="passive"/>
       <node ref="U901" pin="16" pinfunction="IBIAS" pintype="passive"/>
     </net>
-    <net code="91" name="/prism-5/ICMP">
+    <net code="97" name="/prism-5/ICMP">
       <node ref="R903" pin="2" pintype="passive"/>
       <node ref="R904" pin="1" pintype="passive"/>
       <node ref="U901" pin="15" pinfunction="ICMP" pintype="passive"/>
     </net>
-    <net code="92" name="/prism-5/VBB">
+    <net code="98" name="/prism-5/VBB">
       <node ref="D901" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U902" pin="7" pinfunction="OUT" pintype="output"/>
     </net>
-    <net code="93" name="/prism-5/VCC">
+    <net code="99" name="/prism-5/VCC">
       <node ref="D901" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J901" pin="A4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J901" pin="A9" pinfunction="VBUS" pintype="passive"/>
       <node ref="J901" pin="B4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J901" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
-    <net code="94" name="/prism-6/CT">
+    <net code="100" name="/prism-6/CIPO_UNBUFFERED">
+      <node ref="R1105" pin="2" pintype="passive"/>
+      <node ref="U1101" pin="3" pinfunction="MISO" pintype="bidirectional"/>
+      <node ref="U1103" pin="2" pintype="input"/>
+    </net>
+    <net code="101" name="/prism-6/CT">
       <node ref="C1103" pin="1" pintype="passive"/>
       <node ref="TR1101" pin="6" pinfunction="TCT" pintype="passive"/>
     </net>
-    <net code="95" name="/prism-6/I0+">
+    <net code="102" name="/prism-6/I0+">
       <node ref="J1101" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J1101" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="TR1101" pin="5" pinfunction="MX+" pintype="passive"/>
     </net>
-    <net code="96" name="/prism-6/I0-">
+    <net code="103" name="/prism-6/I0-">
       <node ref="J1101" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J1101" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="TR1101" pin="4" pinfunction="MX-" pintype="passive"/>
     </net>
-    <net code="97" name="/prism-6/I1+">
+    <net code="104" name="/prism-6/I1+">
       <node ref="FL1101" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="TR1101" pin="1" pinfunction="TD+" pintype="passive"/>
     </net>
-    <net code="98" name="/prism-6/I1-">
+    <net code="105" name="/prism-6/I1-">
       <node ref="FL1101" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="TR1101" pin="2" pinfunction="TD-" pintype="passive"/>
     </net>
-    <net code="99" name="/prism-6/I2+">
+    <net code="106" name="/prism-6/I2+">
       <node ref="FL1101" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R1101" pin="1" pintype="passive"/>
       <node ref="U1101" pin="11" pinfunction="IP" pintype="bidirectional"/>
     </net>
-    <net code="100" name="/prism-6/I2-">
+    <net code="107" name="/prism-6/I2-">
       <node ref="FL1101" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R1101" pin="2" pintype="passive"/>
       <node ref="U1101" pin="10" pinfunction="IM" pintype="bidirectional"/>
     </net>
-    <net code="101" name="/prism-6/IBIAS">
+    <net code="108" name="/prism-6/IBIAS">
       <node ref="R1103" pin="1" pintype="passive"/>
       <node ref="U1101" pin="16" pinfunction="IBIAS" pintype="passive"/>
     </net>
-    <net code="102" name="/prism-6/ICMP">
+    <net code="109" name="/prism-6/ICMP">
       <node ref="R1103" pin="2" pintype="passive"/>
       <node ref="R1104" pin="1" pintype="passive"/>
       <node ref="U1101" pin="15" pinfunction="ICMP" pintype="passive"/>
     </net>
-    <net code="103" name="/prism-6/VBB">
+    <net code="110" name="/prism-6/VBB">
       <node ref="D1101" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U1102" pin="7" pinfunction="OUT" pintype="output"/>
     </net>
-    <net code="104" name="/prism-6/VCC">
+    <net code="111" name="/prism-6/VCC">
       <node ref="D1101" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J1101" pin="A4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J1101" pin="A9" pinfunction="VBUS" pintype="passive"/>
       <node ref="J1101" pin="B4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J1101" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
-    <net code="105" name="/~{ADDRESS_INT}">
+    <net code="112" name="/~{ADDRESS_INT}">
       <node ref="R1202" pin="2" pintype="passive"/>
       <node ref="U1201" pin="11" pinfunction="~{INT}" pintype="output"/>
     </net>
-    <net code="106" name="/~{ADDRESS_RESET}">
+    <net code="113" name="/~{ADDRESS_RESET}">
       <node ref="R1201" pin="2" pintype="passive"/>
       <node ref="U1201" pin="1" pinfunction="~{RESET}" pintype="input"/>
     </net>
-    <net code="107" name="/~{PRISMS_RESET}">
+    <net code="114" name="/~{PRISMS_RESET}">
       <node ref="R1002" pin="1" pintype="passive"/>
       <node ref="R1102" pin="1" pintype="passive"/>
       <node ref="R502" pin="1" pintype="passive"/>
@@ -5392,206 +6028,241 @@
       <node ref="U801" pin="1" pinfunction="EN" pintype="input"/>
       <node ref="U901" pin="1" pinfunction="EN" pintype="input"/>
     </net>
-    <net code="108" name="/~{PRISM_CS_0}">
+    <net code="115" name="/~{PRISM_CS_0}">
+      <node ref="R506" pin="2" pintype="passive"/>
       <node ref="U501" pin="5" pinfunction="~{CS}" pintype="bidirectional"/>
+      <node ref="U503" pin="1" pinfunction="~{OE}" pintype="input"/>
     </net>
-    <net code="109" name="/~{PRISM_CS_1}">
+    <net code="116" name="/~{PRISM_CS_1}">
+      <node ref="R606" pin="2" pintype="passive"/>
       <node ref="U601" pin="5" pinfunction="~{CS}" pintype="bidirectional"/>
+      <node ref="U603" pin="1" pinfunction="~{OE}" pintype="input"/>
     </net>
-    <net code="110" name="/~{PRISM_CS_2}">
+    <net code="117" name="/~{PRISM_CS_2}">
+      <node ref="R706" pin="2" pintype="passive"/>
       <node ref="U701" pin="5" pinfunction="~{CS}" pintype="bidirectional"/>
+      <node ref="U703" pin="1" pinfunction="~{OE}" pintype="input"/>
     </net>
-    <net code="111" name="/~{PRISM_CS_3}">
+    <net code="118" name="/~{PRISM_CS_3}">
+      <node ref="R806" pin="2" pintype="passive"/>
       <node ref="U801" pin="5" pinfunction="~{CS}" pintype="bidirectional"/>
+      <node ref="U803" pin="1" pinfunction="~{OE}" pintype="input"/>
     </net>
-    <net code="112" name="/~{PRISM_CS_4}">
+    <net code="119" name="/~{PRISM_CS_4}">
+      <node ref="R1006" pin="2" pintype="passive"/>
       <node ref="U1001" pin="5" pinfunction="~{CS}" pintype="bidirectional"/>
+      <node ref="U1003" pin="1" pinfunction="~{OE}" pintype="input"/>
     </net>
-    <net code="113" name="/~{PRISM_CS_5}">
+    <net code="120" name="/~{PRISM_CS_5}">
+      <node ref="R906" pin="2" pintype="passive"/>
       <node ref="U901" pin="5" pinfunction="~{CS}" pintype="bidirectional"/>
+      <node ref="U903" pin="1" pinfunction="~{OE}" pintype="input"/>
     </net>
-    <net code="114" name="/~{PRISM_CS_6}">
+    <net code="121" name="/~{PRISM_CS_6}">
+      <node ref="R1106" pin="2" pintype="passive"/>
       <node ref="U1101" pin="5" pinfunction="~{CS}" pintype="bidirectional"/>
+      <node ref="U1103" pin="1" pinfunction="~{OE}" pintype="input"/>
     </net>
-    <net code="115" name="Net-(C1402-Pad2)">
+    <net code="122" name="Net-(C1402-Pad2)">
       <node ref="C1402" pin="2" pintype="passive"/>
       <node ref="R1401" pin="1" pintype="passive"/>
     </net>
-    <net code="116" name="Net-(C1403-Pad2)">
+    <net code="123" name="Net-(C1403-Pad2)">
       <node ref="C1403" pin="2" pintype="passive"/>
       <node ref="R1402" pin="1" pintype="passive"/>
     </net>
-    <net code="117" name="Net-(U502-IN)">
+    <net code="124" name="Net-(U502-IN)">
       <node ref="R502" pin="2" pintype="passive"/>
       <node ref="U502" pin="1" pinfunction="IN" pintype="input"/>
     </net>
-    <net code="118" name="Net-(U602-IN)">
+    <net code="125" name="Net-(U602-IN)">
       <node ref="R602" pin="2" pintype="passive"/>
       <node ref="U602" pin="1" pinfunction="IN" pintype="input"/>
     </net>
-    <net code="119" name="Net-(U702-IN)">
+    <net code="126" name="Net-(U702-IN)">
       <node ref="R702" pin="2" pintype="passive"/>
       <node ref="U702" pin="1" pinfunction="IN" pintype="input"/>
     </net>
-    <net code="120" name="Net-(U802-IN)">
+    <net code="127" name="Net-(U802-IN)">
       <node ref="R802" pin="2" pintype="passive"/>
       <node ref="U802" pin="1" pinfunction="IN" pintype="input"/>
     </net>
-    <net code="121" name="Net-(U902-IN)">
+    <net code="128" name="Net-(U902-IN)">
       <node ref="R902" pin="2" pintype="passive"/>
       <node ref="U902" pin="1" pinfunction="IN" pintype="input"/>
     </net>
-    <net code="122" name="Net-(U1002-IN)">
+    <net code="129" name="Net-(U1002-IN)">
       <node ref="R1002" pin="2" pintype="passive"/>
       <node ref="U1002" pin="1" pinfunction="IN" pintype="input"/>
     </net>
-    <net code="123" name="Net-(U1102-IN)">
+    <net code="130" name="Net-(U1102-IN)">
       <node ref="R1102" pin="2" pintype="passive"/>
       <node ref="U1102" pin="1" pinfunction="IN" pintype="input"/>
     </net>
-    <net code="145" name="unconnected-(J501-CC1-PadA5)">
+    <net code="152" name="unconnected-(J501-CC1-PadA5)">
       <node ref="J501" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="146" name="unconnected-(J501-CC2-PadB5)">
+    <net code="153" name="unconnected-(J501-CC2-PadB5)">
       <node ref="J501" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="147" name="unconnected-(J501-SBU1-PadA8)">
+    <net code="154" name="unconnected-(J501-SBU1-PadA8)">
       <node ref="J501" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="148" name="unconnected-(J501-SBU2-PadB8)">
+    <net code="155" name="unconnected-(J501-SBU2-PadB8)">
       <node ref="J501" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="149" name="unconnected-(J601-CC1-PadA5)">
+    <net code="156" name="unconnected-(J601-CC1-PadA5)">
       <node ref="J601" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="150" name="unconnected-(J601-CC2-PadB5)">
+    <net code="157" name="unconnected-(J601-CC2-PadB5)">
       <node ref="J601" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="151" name="unconnected-(J601-SBU1-PadA8)">
+    <net code="158" name="unconnected-(J601-SBU1-PadA8)">
       <node ref="J601" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="152" name="unconnected-(J601-SBU2-PadB8)">
+    <net code="159" name="unconnected-(J601-SBU2-PadB8)">
       <node ref="J601" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="153" name="unconnected-(J701-CC1-PadA5)">
+    <net code="160" name="unconnected-(J701-CC1-PadA5)">
       <node ref="J701" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="154" name="unconnected-(J701-CC2-PadB5)">
+    <net code="161" name="unconnected-(J701-CC2-PadB5)">
       <node ref="J701" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="155" name="unconnected-(J701-SBU1-PadA8)">
+    <net code="162" name="unconnected-(J701-SBU1-PadA8)">
       <node ref="J701" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="156" name="unconnected-(J701-SBU2-PadB8)">
+    <net code="163" name="unconnected-(J701-SBU2-PadB8)">
       <node ref="J701" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="157" name="unconnected-(J801-CC1-PadA5)">
+    <net code="164" name="unconnected-(J801-CC1-PadA5)">
       <node ref="J801" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="158" name="unconnected-(J801-CC2-PadB5)">
+    <net code="165" name="unconnected-(J801-CC2-PadB5)">
       <node ref="J801" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="159" name="unconnected-(J801-SBU1-PadA8)">
+    <net code="166" name="unconnected-(J801-SBU1-PadA8)">
       <node ref="J801" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="160" name="unconnected-(J801-SBU2-PadB8)">
+    <net code="167" name="unconnected-(J801-SBU2-PadB8)">
       <node ref="J801" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="161" name="unconnected-(J901-CC1-PadA5)">
+    <net code="168" name="unconnected-(J901-CC1-PadA5)">
       <node ref="J901" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="162" name="unconnected-(J901-CC2-PadB5)">
+    <net code="169" name="unconnected-(J901-CC2-PadB5)">
       <node ref="J901" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="163" name="unconnected-(J901-SBU1-PadA8)">
+    <net code="170" name="unconnected-(J901-SBU1-PadA8)">
       <node ref="J901" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="164" name="unconnected-(J901-SBU2-PadB8)">
+    <net code="171" name="unconnected-(J901-SBU2-PadB8)">
       <node ref="J901" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="165" name="unconnected-(J1001-CC1-PadA5)">
+    <net code="172" name="unconnected-(J1001-CC1-PadA5)">
       <node ref="J1001" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="166" name="unconnected-(J1001-CC2-PadB5)">
+    <net code="173" name="unconnected-(J1001-CC2-PadB5)">
       <node ref="J1001" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="167" name="unconnected-(J1001-SBU1-PadA8)">
+    <net code="174" name="unconnected-(J1001-SBU1-PadA8)">
       <node ref="J1001" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="168" name="unconnected-(J1001-SBU2-PadB8)">
+    <net code="175" name="unconnected-(J1001-SBU2-PadB8)">
       <node ref="J1001" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="169" name="unconnected-(J1101-CC1-PadA5)">
+    <net code="176" name="unconnected-(J1101-CC1-PadA5)">
       <node ref="J1101" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="170" name="unconnected-(J1101-CC2-PadB5)">
+    <net code="177" name="unconnected-(J1101-CC2-PadB5)">
       <node ref="J1101" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="171" name="unconnected-(J1101-SBU1-PadA8)">
+    <net code="178" name="unconnected-(J1101-SBU1-PadA8)">
       <node ref="J1101" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="172" name="unconnected-(J1101-SBU2-PadB8)">
+    <net code="179" name="unconnected-(J1101-SBU2-PadB8)">
       <node ref="J1101" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="173" name="unconnected-(SP1401-NC-Pad3)">
+    <net code="180" name="unconnected-(SP1401-NC-Pad3)">
       <node ref="SP1401" pin="3" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="174" name="unconnected-(SP1401-NC-Pad4)">
+    <net code="181" name="unconnected-(SP1401-NC-Pad4)">
       <node ref="SP1401" pin="4" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="175" name="unconnected-(TR501-MCT-Pad3)">
+    <net code="182" name="unconnected-(TR501-MCT-Pad3)">
       <node ref="TR501" pin="3" pinfunction="MCT" pintype="passive+no_connect"/>
     </net>
-    <net code="176" name="unconnected-(TR601-MCT-Pad3)">
+    <net code="183" name="unconnected-(TR601-MCT-Pad3)">
       <node ref="TR601" pin="3" pinfunction="MCT" pintype="passive+no_connect"/>
     </net>
-    <net code="177" name="unconnected-(TR701-MCT-Pad3)">
+    <net code="184" name="unconnected-(TR701-MCT-Pad3)">
       <node ref="TR701" pin="3" pinfunction="MCT" pintype="passive+no_connect"/>
     </net>
-    <net code="178" name="unconnected-(TR801-MCT-Pad3)">
+    <net code="185" name="unconnected-(TR801-MCT-Pad3)">
       <node ref="TR801" pin="3" pinfunction="MCT" pintype="passive+no_connect"/>
     </net>
-    <net code="179" name="unconnected-(TR901-MCT-Pad3)">
+    <net code="186" name="unconnected-(TR901-MCT-Pad3)">
       <node ref="TR901" pin="3" pinfunction="MCT" pintype="passive+no_connect"/>
     </net>
-    <net code="180" name="unconnected-(TR1001-MCT-Pad3)">
+    <net code="187" name="unconnected-(TR1001-MCT-Pad3)">
       <node ref="TR1001" pin="3" pinfunction="MCT" pintype="passive+no_connect"/>
     </net>
-    <net code="181" name="unconnected-(TR1101-MCT-Pad3)">
+    <net code="188" name="unconnected-(TR1101-MCT-Pad3)">
       <node ref="TR1101" pin="3" pinfunction="MCT" pintype="passive+no_connect"/>
     </net>
-    <net code="182" name="unconnected-(U301-BOOT-Pad7)">
+    <net code="189" name="unconnected-(U301-BOOT-Pad7)">
       <node ref="U301" pin="7" pinfunction="BOOT" pintype="unspecified+no_connect"/>
     </net>
-    <net code="183" name="unconnected-(U301-PGOOD-Pad1)">
+    <net code="190" name="unconnected-(U301-PGOOD-Pad1)">
       <node ref="U301" pin="1" pinfunction="PGOOD" pintype="open_collector+no_connect"/>
     </net>
-    <net code="184" name="unconnected-(U301-SW-Pad5)">
+    <net code="191" name="unconnected-(U301-SW-Pad5)">
       <node ref="U301" pin="5" pinfunction="SW" pintype="unspecified+no_connect"/>
     </net>
-    <net code="185" name="unconnected-(U301-SW-Pad6)">
+    <net code="192" name="unconnected-(U301-SW-Pad6)">
       <node ref="U301" pin="6" pinfunction="SW" pintype="unspecified+no_connect"/>
     </net>
-    <net code="186" name="unconnected-(U502-~{FAULT}-Pad3)">
+    <net code="193" name="unconnected-(U502-~{FAULT}-Pad3)">
       <node ref="U502" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="187" name="unconnected-(U602-~{FAULT}-Pad3)">
+    <net code="194" name="unconnected-(U503-NC-Pad5)">
+      <node ref="U503" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="195" name="unconnected-(U602-~{FAULT}-Pad3)">
       <node ref="U602" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="188" name="unconnected-(U702-~{FAULT}-Pad3)">
+    <net code="196" name="unconnected-(U603-NC-Pad5)">
+      <node ref="U603" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="197" name="unconnected-(U702-~{FAULT}-Pad3)">
       <node ref="U702" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="189" name="unconnected-(U802-~{FAULT}-Pad3)">
+    <net code="198" name="unconnected-(U703-NC-Pad5)">
+      <node ref="U703" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="199" name="unconnected-(U802-~{FAULT}-Pad3)">
       <node ref="U802" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="190" name="unconnected-(U902-~{FAULT}-Pad3)">
+    <net code="200" name="unconnected-(U803-NC-Pad5)">
+      <node ref="U803" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="201" name="unconnected-(U902-~{FAULT}-Pad3)">
       <node ref="U902" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="191" name="unconnected-(U1002-~{FAULT}-Pad3)">
+    <net code="202" name="unconnected-(U903-NC-Pad5)">
+      <node ref="U903" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="203" name="unconnected-(U1002-~{FAULT}-Pad3)">
       <node ref="U1002" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
     </net>
-    <net code="192" name="unconnected-(U1102-~{FAULT}-Pad3)">
+    <net code="204" name="unconnected-(U1003-NC-Pad5)">
+      <node ref="U1003" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="205" name="unconnected-(U1102-~{FAULT}-Pad3)">
       <node ref="U1102" pin="3" pinfunction="~{FAULT}" pintype="output+no_connect"/>
+    </net>
+    <net code="206" name="unconnected-(U1103-NC-Pad5)">
+      <node ref="U1103" pin="5" pinfunction="NC" pintype="no_connect"/>
     </net>
   </nets>
 </export>
