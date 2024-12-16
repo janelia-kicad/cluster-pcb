@@ -1,15 +1,15 @@
-- [Repository Info](#orgb1ebec5)
-- [Images](#orgbc8ddf9)
-- [Schematic](#org79aa49b)
-- [PCB](#orgfe33a89)
-- [Bill of Materials](#org24f0cda)
-- [Development](#org321afdd)
+- [Repository Info](#orgbcb5dba)
+- [Images](#orgb38789e)
+- [Schematic](#org472700f)
+- [PCB](#orgd3d77fc)
+- [Bill of Materials](#orgf19c755)
+- [Development](#org33de681)
 
     <!-- This file is generated automatically from metadata -->
     <!-- File edits may be overwritten! -->
 
 
-<a id="orgb1ebec5"></a>
+<a id="orgbcb5dba"></a>
 
 # Repository Info
 
@@ -19,7 +19,7 @@
 -   Pcb Version: 2.1
 -   Enclosure Version: 1.0
 -   Supplemental BOM Version: 2.1.0
--   Release Date: 2024-10-22
+-   Release Date: 2024-12-16
 -   Creation Date: 2024-06-28
 -   Kicad Version: 7.0.11
 -   License: BSD-3-Clause
@@ -34,7 +34,7 @@
 ![img](./documentation/pcb/pcb.png)
 
 
-<a id="orgbc8ddf9"></a>
+<a id="orgb38789e"></a>
 
 # Images
 
@@ -51,7 +51,7 @@
 <img src="./documentation/pcb/right.png" width="1920">
 
 
-<a id="org79aa49b"></a>
+<a id="org472700f"></a>
 
 # Schematic
 
@@ -86,7 +86,7 @@
 <img src="./documentation/schematic/cluster-pcb-audio.svg" width="1920">
 
 
-<a id="orgfe33a89"></a>
+<a id="orgd3d77fc"></a>
 
 # PCB
 
@@ -101,7 +101,7 @@
 <img src="./documentation/pcb/cluster-pcb-B_Fab.svg" width="1920">
 
 
-<a id="org24f0cda"></a>
+<a id="orgf19c755"></a>
 
 # Bill of Materials
 
@@ -153,7 +153,7 @@
 | 5    | Supplemental BOM Version: 2.1.0 |                          |                 |          | Total | 14.54 |
 
 
-<a id="org321afdd"></a>
+<a id="org33de681"></a>
 
 # Development
 
