@@ -1,15 +1,15 @@
-- [Repository Info](#orgbcb5dba)
-- [Images](#orgb38789e)
-- [Schematic](#org472700f)
-- [PCB](#orgd3d77fc)
-- [Bill of Materials](#orgf19c755)
-- [Development](#org33de681)
+- [Repository Info](#orgbacf8f6)
+- [Images](#org53d800a)
+- [Schematic](#org38f91d3)
+- [PCB](#org650b85d)
+- [Bill of Materials](#org1cf7621)
+- [Development](#org0d98822)
 
     <!-- This file is generated automatically from metadata -->
     <!-- File edits may be overwritten! -->
 
 
-<a id="orgbcb5dba"></a>
+<a id="orgbacf8f6"></a>
 
 # Repository Info
 
@@ -19,14 +19,14 @@
 -   Pcb Version: 2.1
 -   Enclosure Version: 1.0
 -   Supplemental BOM Version: 2.1.0
--   Release Date: 2024-12-16
+-   Release Date: 2025-05-23
 -   Creation Date: 2024-06-28
--   Kicad Version: 7.0.11
+-   Kicad Version: 9.0
 -   License: BSD-3-Clause
 -   URL: <https://github.com/janelia-kicad/cluster-pcb>
 -   Author: Peter Polidoro
 -   Email: peter@polidoro.io
--   Copyright: 2024 Howard Hughes Medical Institute
+-   Copyright: 2025 Howard Hughes Medical Institute
 -   References:
     -   <https://github.com/janelia-kicad/prism-pcb>
     -   [W5500-EVB-Pico](https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico)
@@ -34,7 +34,7 @@
 ![img](./documentation/pcb/pcb.png)
 
 
-<a id="orgb38789e"></a>
+<a id="org53d800a"></a>
 
 # Images
 
@@ -51,7 +51,7 @@
 <img src="./documentation/pcb/right.png" width="1920">
 
 
-<a id="org472700f"></a>
+<a id="org38f91d3"></a>
 
 # Schematic
 
@@ -86,7 +86,7 @@
 <img src="./documentation/schematic/cluster-pcb-audio.svg" width="1920">
 
 
-<a id="orgd3d77fc"></a>
+<a id="org650b85d"></a>
 
 # PCB
 
@@ -101,7 +101,7 @@
 <img src="./documentation/pcb/cluster-pcb-B_Fab.svg" width="1920">
 
 
-<a id="orgf19c755"></a>
+<a id="org1cf7621"></a>
 
 # Bill of Materials
 
@@ -153,7 +153,7 @@
 | 5    | Supplemental BOM Version: 2.1.0 |                          |                 |          | Total | 14.54 |
 
 
-<a id="org33de681"></a>
+<a id="org0d98822"></a>
 
 # Development
 

@@ -6,14 +6,14 @@
 - Pcb Version: 2.1
 - Enclosure Version: 1.0
 - Supplemental BOM Version: 2.1.0
-- Release Date: 2024-12-16
+- Release Date: 2025-05-23
 - Creation Date: 2024-06-28
-- Kicad Version: 7.0.11
+- Kicad Version: 9.0
 - License: BSD-3-Clause
 - URL: https://github.com/janelia-kicad/cluster-pcb
 - Author: Peter Polidoro
 - Email: peter@polidoro.io
-- Copyright: 2024 Howard Hughes Medical Institute
+- Copyright: 2025 Howard Hughes Medical Institute
 - References:
   - [[https://github.com/janelia-kicad/prism-pcb]]
   - [[https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico][W5500-EVB-Pico]]
